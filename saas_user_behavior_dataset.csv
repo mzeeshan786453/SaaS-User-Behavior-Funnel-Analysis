@@ -1,0 +1,2075 @@
+user_id,session_id,event_name,event_timestamp,acquisition_channel,signup_month,device_type,country,trial_status,plan_type
+U0001,S770487,Landing,2025-05-23 21:00:00,Organic,2025-05,Desktop,USA,Expired,Free
+U0001,S770487,Sign-up,2025-05-21 04:00:00,Organic,2025-05,Desktop,Pakistan,Active,Free
+U0001,S770487,Onboarding,2025-05-22 05:00:00,Organic,2025-05,Tablet,USA,Active,Free
+U0001,S770487,First Feature Use,2025-05-23 23:00:00,Organic,2025-05,Desktop,USA,Expired,Free
+U0002,S331148,Landing,2025-01-04 20:00:00,Organic,2025-01,Tablet,UK,Expired,Free
+U0003,S391369,Landing,2025-02-25 05:00:00,Organic,2025-02,Mobile,Pakistan,Expired,Free
+U0003,S391369,Sign-up,2025-02-24 20:00:00,Organic,2025-02,Desktop,UK,Active,Free
+U0003,S391369,Onboarding,2025-02-24 22:00:00,Organic,2025-02,Mobile,USA,Expired,Free
+U0004,S705397,Landing,2025-01-24 10:00:00,Organic,2025-01,Desktop,Pakistan,Expired,Free
+U0004,S705397,Sign-up,2025-01-25 11:00:00,Organic,2025-01,Mobile,UAE,Active,Free
+U0005,S488162,Landing,2025-05-19 20:00:00,Organic,2025-05,Tablet,India,Active,Free
+U0005,S488162,Sign-up,2025-05-19 11:00:00,Organic,2025-05,Mobile,UAE,Active,Free
+U0005,S488162,Onboarding,2025-05-20 15:00:00,Organic,2025-05,Mobile,Pakistan,Active,Free
+U0005,S488162,First Feature Use,2025-05-21 09:00:00,Organic,2025-05,Desktop,UAE,Expired,Free
+U0006,S380746,Landing,2025-06-14 10:00:00,Organic,2025-06,Mobile,India,Expired,Free
+U0006,S380746,Sign-up,2025-06-11 17:00:00,Organic,2025-06,Desktop,USA,Expired,Free
+U0006,S380746,Onboarding,2025-06-14 23:00:00,Organic,2025-06,Tablet,UK,Expired,Free
+U0007,S479580,Landing,2025-09-22 14:00:00,Organic,2025-09,Desktop,India,Active,Free
+U0007,S479580,Sign-up,2025-09-22 05:00:00,Organic,2025-09,Tablet,UK,Active,Free
+U0008,S503457,Landing,2025-10-01 15:00:00,Organic,2025-09,Tablet,Pakistan,Expired,Free
+U0008,S503457,Sign-up,2025-10-02 02:00:00,Organic,2025-09,Tablet,UAE,Active,Free
+U0008,S503457,Onboarding,2025-09-29 13:00:00,Organic,2025-09,Mobile,India,Expired,Free
+U0009,S103402,Landing,2025-05-19 01:00:00,Referral,2025-05,Desktop,USA,Active,Free
+U0010,S755674,Landing,2025-09-19 21:00:00,Organic,2025-09,Tablet,Pakistan,Expired,Free
+U0010,S755674,Sign-up,2025-09-19 14:00:00,Organic,2025-09,Desktop,Pakistan,Expired,Free
+U0010,S755674,Onboarding,2025-09-21 16:00:00,Organic,2025-09,Mobile,India,Active,Free
+U0011,S352572,Landing,2025-02-17 08:00:00,Referral,2025-02,Desktop,USA,Active,Free
+U0012,S234628,Landing,2025-03-28 06:00:00,Paid,2025-03,Desktop,USA,Active,Free
+U0012,S234628,Sign-up,2025-03-29 19:00:00,Paid,2025-03,Mobile,UK,Expired,Free
+U0013,S559381,Landing,2025-03-06 03:00:00,Referral,2025-03,Desktop,Pakistan,Active,Free
+U0013,S559381,Sign-up,2025-03-06 18:00:00,Referral,2025-03,Tablet,Pakistan,Active,Free
+U0013,S559381,Onboarding,2025-03-03 08:00:00,Referral,2025-03,Desktop,UAE,Active,Free
+U0013,S559381,First Feature Use,2025-03-05 17:00:00,Referral,2025-03,Desktop,UAE,Expired,Free
+U0014,S324643,Landing,2025-10-20 12:00:00,Paid,2025-10,Desktop,UK,Expired,Free
+U0014,S324643,Sign-up,2025-10-22 06:00:00,Paid,2025-10,Mobile,UK,Active,Free
+U0014,S324643,Onboarding,2025-10-23 14:00:00,Paid,2025-10,Tablet,Pakistan,Active,Free
+U0014,S324643,First Feature Use,2025-10-22 03:00:00,Paid,2025-10,Tablet,UAE,Active,Free
+U0015,S360735,Landing,2025-08-18 09:00:00,Organic,2025-08,Mobile,USA,Active,Free
+U0015,S360735,Sign-up,2025-08-18 06:00:00,Organic,2025-08,Tablet,USA,Active,Free
+U0015,S360735,Onboarding,2025-08-18 11:00:00,Organic,2025-08,Desktop,India,Expired,Free
+U0015,S360735,First Feature Use,2025-08-20 14:00:00,Organic,2025-08,Mobile,India,Expired,Free
+U0016,S161483,Landing,2025-07-21 10:00:00,Organic,2025-07,Mobile,UK,Expired,Free
+U0016,S161483,Sign-up,2025-07-19 19:00:00,Organic,2025-07,Desktop,UAE,Active,Free
+U0017,S161324,Landing,2025-02-01 07:00:00,Paid,2025-02,Desktop,USA,Expired,Free
+U0018,S627276,Landing,2025-03-22 08:00:00,Referral,2025-03,Tablet,Pakistan,Active,Free
+U0018,S627276,Sign-up,2025-03-24 03:00:00,Referral,2025-03,Desktop,USA,Active,Free
+U0018,S627276,Onboarding,2025-03-25 02:00:00,Referral,2025-03,Tablet,Pakistan,Active,Free
+U0019,S539589,Landing,2025-09-26 09:00:00,Paid,2025-09,Mobile,India,Expired,Free
+U0019,S539589,Sign-up,2025-09-27 10:00:00,Paid,2025-09,Mobile,Pakistan,Active,Free
+U0019,S539589,Onboarding,2025-09-27 10:00:00,Paid,2025-09,Tablet,USA,Active,Free
+U0019,S539589,First Feature Use,2025-09-25 09:00:00,Paid,2025-09,Tablet,India,Expired,Free
+U0019,S539589,Upgrade,2025-09-25 16:00:00,Paid,2025-09,Mobile,Pakistan,Active,Premium
+U0020,S398830,Landing,2025-12-31 07:00:00,Organic,2025-12,Tablet,USA,Active,Free
+U0020,S398830,Sign-up,2025-12-30 13:00:00,Organic,2025-12,Tablet,UAE,Active,Free
+U0021,S240814,Landing,2025-10-14 15:00:00,Organic,2025-10,Tablet,UAE,Expired,Free
+U0021,S240814,Sign-up,2025-10-12 08:00:00,Organic,2025-10,Desktop,Pakistan,Expired,Free
+U0021,S240814,Onboarding,2025-10-15 10:00:00,Organic,2025-10,Mobile,Pakistan,Active,Free
+U0021,S240814,First Feature Use,2025-10-12 18:00:00,Organic,2025-10,Desktop,UAE,Active,Free
+U0021,S240814,Upgrade,2025-10-14 22:00:00,Organic,2025-10,Mobile,USA,Expired,Free
+U0022,S217308,Landing,2025-03-21 02:00:00,Organic,2025-03,Tablet,India,Expired,Free
+U0022,S217308,Sign-up,2025-03-18 16:00:00,Organic,2025-03,Desktop,UAE,Expired,Free
+U0023,S934794,Landing,2025-07-07 17:00:00,Referral,2025-07,Mobile,USA,Active,Free
+U0023,S934794,Sign-up,2025-07-07 22:00:00,Referral,2025-07,Desktop,India,Active,Free
+U0023,S934794,Onboarding,2025-07-07 16:00:00,Referral,2025-07,Mobile,Pakistan,Active,Free
+U0023,S934794,First Feature Use,2025-07-06 22:00:00,Referral,2025-07,Mobile,UK,Active,Free
+U0024,S379766,Landing,2025-03-01 21:00:00,Organic,2025-02,Mobile,UAE,Expired,Free
+U0024,S379766,Sign-up,2025-03-01 09:00:00,Organic,2025-02,Desktop,India,Active,Free
+U0024,S379766,Onboarding,2025-02-28 12:00:00,Organic,2025-02,Desktop,UK,Expired,Free
+U0024,S379766,First Feature Use,2025-02-26 11:00:00,Organic,2025-02,Desktop,UAE,Expired,Free
+U0024,S379766,Upgrade,2025-02-28 10:00:00,Organic,2025-02,Tablet,UK,Expired,Free
+U0025,S220944,Landing,2025-04-02 04:00:00,Referral,2025-04,Desktop,USA,Expired,Free
+U0025,S220944,Sign-up,2025-04-03 20:00:00,Referral,2025-04,Tablet,UAE,Expired,Free
+U0026,S735656,Landing,2025-07-18 00:00:00,Referral,2025-07,Mobile,Pakistan,Expired,Free
+U0027,S101773,Landing,2025-12-18 08:00:00,Paid,2025-12,Tablet,UAE,Expired,Free
+U0027,S101773,Sign-up,2025-12-21 12:00:00,Paid,2025-12,Desktop,UAE,Expired,Free
+U0027,S101773,Onboarding,2025-12-21 13:00:00,Paid,2025-12,Mobile,UAE,Expired,Free
+U0027,S101773,First Feature Use,2025-12-21 17:00:00,Paid,2025-12,Mobile,USA,Active,Free
+U0028,S301158,Landing,2025-12-13 22:00:00,Organic,2025-12,Tablet,USA,Expired,Free
+U0029,S525800,Landing,2025-06-07 11:00:00,Paid,2025-06,Mobile,UK,Active,Free
+U0029,S525800,Sign-up,2025-06-07 17:00:00,Paid,2025-06,Mobile,India,Active,Free
+U0029,S525800,Onboarding,2025-06-06 12:00:00,Paid,2025-06,Tablet,USA,Expired,Free
+U0029,S525800,First Feature Use,2025-06-05 11:00:00,Paid,2025-06,Desktop,UAE,Active,Free
+U0030,S945742,Landing,2025-01-24 09:00:00,Organic,2025-01,Mobile,UK,Active,Free
+U0030,S945742,Sign-up,2025-01-27 19:00:00,Organic,2025-01,Tablet,UK,Expired,Free
+U0030,S945742,Onboarding,2025-01-26 03:00:00,Organic,2025-01,Desktop,India,Active,Free
+U0031,S887443,Landing,2025-08-09 17:00:00,Referral,2025-08,Tablet,UK,Active,Free
+U0031,S887443,Sign-up,2025-08-08 23:00:00,Referral,2025-08,Desktop,Pakistan,Expired,Free
+U0032,S239816,Landing,2025-10-02 04:00:00,Referral,2025-09,Mobile,UK,Expired,Free
+U0033,S970914,Landing,2025-03-25 12:00:00,Referral,2025-03,Mobile,UAE,Active,Free
+U0034,S980660,Landing,2025-09-07 10:00:00,Paid,2025-09,Mobile,UAE,Active,Free
+U0034,S980660,Sign-up,2025-09-06 17:00:00,Paid,2025-09,Desktop,India,Expired,Free
+U0034,S980660,Onboarding,2025-09-09 16:00:00,Paid,2025-09,Desktop,India,Active,Free
+U0034,S980660,First Feature Use,2025-09-08 05:00:00,Paid,2025-09,Mobile,UAE,Expired,Free
+U0034,S980660,Upgrade,2025-09-08 05:00:00,Paid,2025-09,Desktop,India,Expired,Premium
+U0035,S907189,Landing,2025-01-15 01:00:00,Paid,2025-01,Tablet,UK,Expired,Free
+U0036,S106182,Landing,2025-07-23 10:00:00,Referral,2025-07,Mobile,USA,Active,Free
+U0037,S611945,Landing,2025-09-06 21:00:00,Organic,2025-09,Mobile,,Active,Free
+U0037,S611945,Sign-up,2025-09-10 20:00:00,Organic,2025-09,Mobile,USA,Active,Free
+U0037,S611945,Onboarding,2025-09-06 10:00:00,Organic,2025-09,Tablet,UK,Active,Free
+U0037,S611945,First Feature Use,2025-09-10 14:00:00,Organic,2025-09,Mobile,India,Active,Free
+U0038,S372793,Landing,2025-08-23 00:00:00,Organic,2025-08,Mobile,UK,Expired,Free
+U0038,S372793,Sign-up,2025-08-25 10:00:00,Organic,2025-08,Desktop,UK,Active,Free
+U0039,S885408,Landing,2025-04-28 11:00:00,Paid,2025-04,Desktop,Pakistan,Active,Free
+U0039,S885408,Sign-up,2025-04-26 01:00:00,Paid,2025-04,Desktop,USA,Active,Free
+U0040,S350132,Landing,2025-02-28 21:00:00,Organic,2025-02,Tablet,USA,Active,Free
+U0040,S350132,Sign-up,2025-03-04 03:00:00,Organic,2025-02,Desktop,UAE,Active,Free
+U0040,S350132,Onboarding,2025-03-03 02:00:00,Organic,2025-02,Desktop,UAE,Expired,Free
+U0040,S350132,First Feature Use,2025-03-02 02:00:00,Organic,2025-02,Tablet,India,Active,Free
+U0041,S720859,Landing,2025-05-09 12:00:00,Paid,2025-05,Tablet,USA,Active,Free
+U0041,S720859,Sign-up,2025-05-09 05:00:00,Paid,2025-05,Tablet,,Expired,Free
+U0042,S658623,Landing,2025-02-09 09:00:00,Organic,2025-02,Mobile,Pakistan,Expired,Free
+U0042,S658623,Sign-up,2025-02-06 22:00:00,Organic,2025-02,Tablet,UK,Active,Free
+U0042,S658623,Onboarding,2025-02-07 07:00:00,Organic,2025-02,Desktop,USA,Expired,Free
+U0043,S745830,Landing,2025-09-08 03:00:00,Referral,2025-09,Mobile,UAE,Active,Free
+U0043,S745830,Sign-up,2025-09-09 10:00:00,Referral,2025-09,Desktop,UAE,Expired,Free
+U0044,S355709,Landing,2025-11-11 14:00:00,Paid,2025-11,Desktop,UAE,Expired,Free
+U0044,S355709,Sign-up,2025-11-10 19:00:00,Paid,2025-11,Mobile,USA,Expired,Free
+U0044,S355709,Onboarding,2025-11-11 23:00:00,Paid,2025-11,Desktop,USA,Active,Free
+U0044,S355709,First Feature Use,2025-11-09 10:00:00,Paid,2025-11,Desktop,UK,Expired,Free
+U0044,S355709,Upgrade,2025-11-11 23:00:00,Paid,2025-11,Desktop,UK,Expired,Premium
+U0045,S931450,Landing,2025-04-26 22:00:00,Organic,2025-04,Tablet,UAE,Expired,Free
+U0045,S931450,Sign-up,2025-04-27 23:00:00,Organic,2025-04,Tablet,UAE,Expired,Free
+U0045,S931450,Onboarding,2025-04-27 17:00:00,Organic,2025-04,Mobile,UAE,Expired,Free
+U0045,S931450,First Feature Use,2025-04-25 08:00:00,Organic,2025-04,Desktop,Pakistan,Active,Free
+U0046,S430876,Landing,2025-12-24 01:00:00,Organic,2025-12,Tablet,USA,Expired,Free
+U0046,S430876,Sign-up,2025-12-20 12:00:00,Organic,2025-12,Desktop,UAE,Active,Free
+U0046,S430876,Onboarding,2025-12-21 22:00:00,Organic,2025-12,Desktop,UAE,Active,Free
+U0046,S430876,First Feature Use,2025-12-23 18:00:00,Organic,2025-12,Tablet,India,Expired,Free
+U0047,S147726,Landing,2025-06-01 14:00:00,Referral,2025-05,Desktop,Pakistan,Expired,Free
+U0047,S147726,Sign-up,2025-06-01 12:00:00,Referral,2025-05,Mobile,UK,Expired,Free
+U0047,S147726,Onboarding,2025-05-30 23:00:00,Referral,2025-05,Desktop,UAE,Expired,Free
+U0048,S219629,Landing,2025-09-12 00:00:00,Referral,2025-09,Mobile,Pakistan,Active,Free
+U0048,S219629,Sign-up,2025-09-09 15:00:00,Referral,2025-09,Tablet,UK,Active,Free
+U0048,S219629,Onboarding,2025-09-13 03:00:00,Referral,2025-09,Tablet,UK,Expired,Free
+U0048,S219629,First Feature Use,2025-09-13 20:00:00,Referral,2025-09,Mobile,UAE,Expired,Free
+U0048,S219629,Upgrade,2025-09-10 15:00:00,Referral,2025-09,Tablet,USA,Active,Free
+U0049,S899787,Landing,2025-05-16 00:00:00,Organic,2025-05,Mobile,UK,Expired,Free
+U0049,S899787,Sign-up,2025-05-17 13:00:00,Organic,2025-05,Desktop,India,Expired,Free
+U0049,S899787,Onboarding,2025-05-19 18:00:00,Organic,2025-05,Mobile,UK,Active,Free
+U0049,S899787,First Feature Use,2025-05-19 15:00:00,Organic,2025-05,Desktop,UAE,Active,Free
+U0049,S899787,Upgrade,2025-05-18 06:00:00,Organic,2025-05,Desktop,USA,Active,Free
+U0050,S378535,Landing,2025-02-03 00:00:00,Referral,2025-01,Mobile,UK,Active,Free
+U0050,S378535,Sign-up,2025-02-02 11:00:00,Referral,2025-01,Tablet,UAE,Expired,Free
+U0050,S378535,Onboarding,2025-02-05 00:00:00,Referral,2025-01,Mobile,USA,Expired,Free
+U0051,S559023,Landing,2025-08-13 05:00:00,Organic,2025-08,Mobile,Pakistan,Active,Free
+U0052,S340044,Landing,2025-11-01 01:00:00,Referral,2025-10,Tablet,UAE,Active,Free
+U0053,S900177,Landing,2025-09-23 23:00:00,Paid,2025-09,Tablet,UK,Expired,Free
+U0053,S900177,Sign-up,2025-09-23 11:00:00,Paid,2025-09,Mobile,UAE,Expired,Free
+U0054,S449499,Landing,2025-03-28 08:00:00,Organic,2025-03,Tablet,Pakistan,Expired,Free
+U0054,S449499,Sign-up,2025-03-24 11:00:00,Organic,2025-03,Mobile,,Expired,Free
+U0054,S449499,Onboarding,2025-03-24 14:00:00,Organic,2025-03,Mobile,USA,Active,Free
+U0054,S449499,First Feature Use,2025-03-27 12:00:00,Organic,2025-03,Tablet,UK,Expired,Free
+U0055,S156837,Landing,2025-11-18 08:00:00,Organic,2025-11,Mobile,Pakistan,Active,Free
+U0056,S380028,Landing,2025-08-15 14:00:00,Paid,2025-08,Desktop,Pakistan,Active,Free
+U0057,S844261,Landing,2025-01-12 20:00:00,Organic,2025-01,Desktop,UK,Active,Free
+U0057,S844261,Sign-up,2025-01-11 10:00:00,Organic,2025-01,Desktop,UK,Expired,Free
+U0057,S844261,Onboarding,2025-01-10 17:00:00,Organic,2025-01,Tablet,UAE,Expired,Free
+U0058,S975271,Landing,2025-05-08 23:00:00,Paid,2025-05,Desktop,Pakistan,Expired,Free
+U0058,S975271,Sign-up,2025-05-09 02:00:00,Paid,2025-05,Mobile,UAE,Expired,Free
+U0058,S975271,Onboarding,2025-05-09 09:00:00,Paid,2025-05,Desktop,UAE,Expired,Free
+U0058,S975271,First Feature Use,2025-05-09 11:00:00,Paid,2025-05,Tablet,USA,Expired,Free
+U0059,S255813,Landing,2025-06-28 00:00:00,Organic,2025-06,Mobile,UAE,Active,Free
+U0059,S255813,Sign-up,2025-06-29 17:00:00,Organic,2025-06,Desktop,USA,Expired,Free
+U0060,S344907,Landing,2025-01-25 00:00:00,Referral,2025-01,Mobile,India,Expired,Free
+U0060,S344907,Sign-up,2025-01-23 04:00:00,Referral,2025-01,Desktop,USA,Expired,Free
+U0060,S344907,Onboarding,2025-01-27 15:00:00,Referral,2025-01,Desktop,UK,Active,Free
+U0061,S651499,Landing,2025-03-16 09:00:00,Referral,2025-03,Mobile,USA,Expired,Free
+U0061,S651499,Sign-up,2025-03-18 11:00:00,Referral,2025-03,Desktop,UAE,Expired,Free
+U0061,S651499,Onboarding,2025-03-16 16:00:00,Referral,2025-03,Tablet,UK,Active,Free
+U0061,S651499,First Feature Use,2025-03-18 07:00:00,Referral,2025-03,Desktop,India,Expired,Free
+U0062,S338536,Landing,2025-02-23 18:00:00,Paid,2025-02,Desktop,UK,Active,Free
+U0063,S827712,Landing,2025-01-25 07:00:00,Organic,2025-01,Tablet,UK,Active,Free
+U0063,S827712,Sign-up,2025-01-24 21:00:00,Organic,2025-01,Desktop,Pakistan,Expired,Free
+U0063,S827712,Onboarding,2025-01-27 07:00:00,Organic,2025-01,Tablet,India,Expired,Free
+U0063,S827712,First Feature Use,2025-01-28 20:00:00,Organic,2025-01,Tablet,India,Active,Free
+U0064,S583550,Landing,2025-05-13 11:00:00,Paid,2025-05,Mobile,USA,Active,Free
+U0064,S583550,Sign-up,2025-05-11 09:00:00,Paid,2025-05,Mobile,UAE,Expired,Free
+U0065,S769975,Landing,2025-05-13 13:00:00,Referral,2025-05,Mobile,Pakistan,Active,Free
+U0065,S769975,Sign-up,2025-05-11 00:00:00,Referral,2025-05,Tablet,UAE,Expired,Free
+U0065,S769975,Onboarding,2025-05-12 17:00:00,Referral,2025-05,Mobile,Pakistan,Expired,Free
+U0066,S387813,Landing,2025-01-29 23:00:00,Organic,2025-01,Mobile,UAE,Active,Free
+U0067,S736553,Landing,2025-11-26 02:00:00,Referral,2025-11,Tablet,India,Active,Free
+U0067,S736553,Sign-up,2025-11-26 19:00:00,Referral,2025-11,Tablet,Pakistan,Expired,Free
+U0067,S736553,Onboarding,2025-11-26 04:00:00,Referral,2025-11,Mobile,Pakistan,Expired,Free
+U0068,S867934,Landing,2025-06-17 22:00:00,Organic,2025-06,Desktop,India,Expired,Free
+U0069,S656639,Landing,2025-03-28 13:00:00,Paid,2025-03,Mobile,UAE,Active,Free
+U0069,S656639,Sign-up,2025-03-28 11:00:00,Paid,2025-03,Desktop,India,Active,Free
+U0070,S809176,Landing,2025-10-13 01:00:00,Paid,2025-10,Mobile,USA,Active,Free
+U0070,S809176,Sign-up,2025-10-15 10:00:00,Paid,2025-10,Mobile,UAE,Expired,Free
+U0071,S962367,Landing,2025-02-26 17:00:00,Paid,2025-02,Tablet,India,Active,Free
+U0071,S962367,Sign-up,2025-02-28 09:00:00,Paid,2025-02,Mobile,UAE,Expired,Free
+U0071,S962367,Onboarding,2025-02-25 14:00:00,Paid,2025-02,Desktop,Pakistan,Active,Free
+U0071,S962367,First Feature Use,2025-02-26 14:00:00,Paid,2025-02,Mobile,Pakistan,Active,Free
+U0072,S346205,Landing,2025-07-20 21:00:00,Referral,2025-07,Mobile,USA,Active,Free
+U0072,S346205,Sign-up,2025-07-22 17:00:00,Referral,2025-07,Mobile,Pakistan,Expired,Free
+U0072,S346205,Onboarding,2025-07-21 06:00:00,Referral,2025-07,Mobile,UAE,Active,Free
+U0073,S823811,Landing,2025-08-20 13:00:00,Organic,2025-08,Mobile,Pakistan,Expired,Free
+U0074,S670913,Landing,2025-07-07 12:00:00,Referral,2025-07,Mobile,Pakistan,Active,Free
+U0074,S670913,Sign-up,2025-07-06 10:00:00,Referral,2025-07,Tablet,USA,Active,Free
+U0074,S670913,Onboarding,2025-07-03 06:00:00,Referral,2025-07,Mobile,India,Active,Free
+U0075,S925206,Landing,2025-10-12 18:00:00,Paid,2025-10,Desktop,USA,Active,Free
+U0075,S925206,Sign-up,2025-10-12 11:00:00,Paid,2025-10,Desktop,India,Expired,Free
+U0075,S925206,Onboarding,2025-10-15 06:00:00,Paid,2025-10,Desktop,Pakistan,Active,Free
+U0076,S238205,Landing,2025-10-31 19:00:00,Organic,2025-10,Desktop,Pakistan,Expired,Free
+U0076,S238205,Sign-up,2025-10-31 09:00:00,Organic,2025-10,Mobile,USA,Active,Free
+U0076,S238205,Onboarding,2025-10-31 09:00:00,Organic,2025-10,Tablet,India,Active,Free
+U0076,S238205,First Feature Use,2025-11-01 21:00:00,Organic,2025-10,Tablet,USA,Expired,Free
+U0077,S580292,Landing,2025-02-05 12:00:00,Paid,2025-02,Mobile,UK,Active,Free
+U0078,S614084,Landing,2025-02-08 17:00:00,Paid,2025-02,Tablet,India,Active,Free
+U0079,S232321,Landing,2025-10-29 19:00:00,Organic,2025-10,Mobile,UK,Expired,Free
+U0079,S232321,Sign-up,2025-10-27 12:00:00,Organic,2025-10,Tablet,Pakistan,Active,Free
+U0079,S232321,Onboarding,2025-10-29 07:00:00,Organic,2025-10,Mobile,India,Expired,Free
+U0080,S455395,Landing,2025-08-02 16:00:00,Referral,2025-08,Mobile,UAE,Expired,Free
+U0081,S492483,Landing,2025-08-31 11:00:00,Referral,2025-08,Mobile,Pakistan,Expired,Free
+U0081,S492483,Sign-up,2025-09-04 07:00:00,Referral,2025-08,Desktop,USA,Active,Free
+U0082,S714953,Landing,2025-06-23 00:00:00,Referral,2025-06,Mobile,Pakistan,Expired,Free
+U0082,S714953,Sign-up,2025-06-21 04:00:00,Referral,2025-06,Mobile,UAE,Active,Free
+U0082,S714953,Onboarding,2025-06-21 01:00:00,Referral,2025-06,Tablet,India,Active,Free
+U0083,S788637,Landing,2025-06-30 23:00:00,Paid,2025-06,Desktop,UAE,Active,Free
+U0084,S946432,Landing,2025-11-19 10:00:00,Organic,2025-11,Tablet,UAE,Active,Free
+U0084,S946432,Sign-up,2025-11-15 23:00:00,Organic,2025-11,Mobile,UAE,Expired,Free
+U0084,S946432,Onboarding,2025-11-16 20:00:00,Organic,2025-11,Desktop,India,Active,Free
+U0084,S946432,First Feature Use,2025-11-18 00:00:00,Organic,2025-11,Tablet,UK,Active,Free
+U0085,S248766,Landing,2025-02-17 03:00:00,Paid,2025-02,Mobile,UK,Expired,Free
+U0086,S457455,Landing,2025-06-19 00:00:00,Organic,2025-06,Tablet,Pakistan,Active,Free
+U0087,S263137,Landing,2025-01-28 08:00:00,Organic,2025-01,Mobile,UAE,Active,Free
+U0087,S263137,Sign-up,2025-01-30 00:00:00,Organic,2025-01,Tablet,Pakistan,Expired,Free
+U0087,S263137,Onboarding,2025-01-28 07:00:00,Organic,2025-01,Desktop,UAE,Expired,Free
+U0087,S263137,First Feature Use,2025-01-28 19:00:00,Organic,2025-01,Tablet,UAE,Active,Free
+U0088,S331230,Landing,2025-01-30 08:00:00,Organic,2025-01,Mobile,UAE,Active,Free
+U0088,S331230,Sign-up,2025-01-29 00:00:00,Organic,2025-01,Mobile,UK,Active,Free
+U0088,S331230,Onboarding,2025-01-29 16:00:00,Organic,2025-01,Mobile,USA,Active,Free
+U0088,S331230,First Feature Use,2025-01-31 16:00:00,Organic,2025-01,Tablet,UAE,Active,Free
+U0088,S331230,Upgrade,2025-01-31 02:00:00,Organic,2025-01,Tablet,Pakistan,Expired,Free
+U0089,S582087,Landing,2025-10-24 03:00:00,Referral,2025-10,Desktop,UAE,Active,Free
+U0089,S582087,Sign-up,2025-10-26 06:00:00,Referral,2025-10,Tablet,UK,Expired,Free
+U0089,S582087,Onboarding,2025-10-22 11:00:00,Referral,2025-10,Mobile,Pakistan,Active,Free
+U0089,S582087,First Feature Use,2025-10-24 07:00:00,Referral,2025-10,Tablet,UK,Active,Free
+U0089,S582087,Upgrade,2025-10-24 02:00:00,Referral,2025-10,Mobile,UAE,Active,Premium
+U0090,S916964,Landing,2025-11-22 20:00:00,Organic,2025-11,Mobile,India,Active,Free
+U0090,S916964,Sign-up,2025-11-21 13:00:00,Organic,2025-11,Desktop,UAE,Active,Free
+U0090,S916964,Onboarding,2025-11-21 22:00:00,Organic,2025-11,Tablet,India,Active,Free
+U0091,S285751,Landing,2025-09-14 16:00:00,Referral,2025-09,Tablet,USA,Expired,Free
+U0091,S285751,Sign-up,2025-09-14 14:00:00,Referral,2025-09,Tablet,UAE,Active,Free
+U0091,S285751,Onboarding,2025-09-12 08:00:00,Referral,2025-09,Desktop,UK,Expired,Free
+U0091,S285751,First Feature Use,2025-09-13 08:00:00,Referral,2025-09,Mobile,UAE,Active,Free
+U0092,S469038,Landing,2025-08-25 09:00:00,Paid,2025-08,Tablet,Pakistan,Expired,Free
+U0092,S469038,Sign-up,2025-08-27 11:00:00,Paid,2025-08,,USA,Active,Free
+U0092,S469038,Onboarding,2025-08-27 09:00:00,Paid,2025-08,Tablet,India,Expired,Free
+U0093,S734394,Landing,2025-02-05 11:00:00,Paid,2025-02,Mobile,Pakistan,Active,Free
+U0093,S734394,Sign-up,2025-02-01 05:00:00,Paid,2025-02,Desktop,UK,Expired,Free
+U0094,S649525,Landing,2025-07-09 04:00:00,Paid,2025-07,Desktop,UAE,Active,Free
+U0094,S649525,Sign-up,2025-07-07 18:00:00,Paid,2025-07,Desktop,USA,Expired,Free
+U0094,S649525,Onboarding,2025-07-07 12:00:00,Paid,2025-07,Mobile,USA,Active,Free
+U0094,S649525,First Feature Use,2025-07-07 18:00:00,Paid,2025-07,Desktop,USA,Active,Free
+U0094,S649525,Upgrade,2025-07-10 21:00:00,Paid,2025-07,Mobile,UAE,Expired,Free
+U0095,S723945,Landing,2025-06-11 17:00:00,Paid,2025-06,Tablet,USA,Active,Free
+U0095,S723945,Sign-up,2025-06-11 10:00:00,Paid,2025-06,Tablet,UK,Expired,Free
+U0095,S723945,Onboarding,2025-06-08 02:00:00,Paid,2025-06,Mobile,UAE,Active,Free
+U0095,S723945,First Feature Use,2025-06-09 03:00:00,Paid,2025-06,Mobile,UK,Active,Free
+U0095,S723945,Upgrade,2025-06-09 04:00:00,Paid,2025-06,Desktop,India,Active,Premium
+U0096,S985447,Landing,2025-10-08 17:00:00,Paid,2025-10,Tablet,Pakistan,Expired,Free
+U0097,S903531,Landing,2025-07-16 19:00:00,Paid,2025-07,Desktop,UK,Active,Free
+U0097,S903531,Sign-up,2025-07-14 04:00:00,Paid,2025-07,Mobile,India,Expired,Free
+U0097,S903531,Onboarding,2025-07-15 06:00:00,Paid,2025-07,Mobile,UK,Active,Free
+U0097,S903531,First Feature Use,2025-07-14 20:00:00,Paid,2025-07,Desktop,UAE,Expired,Free
+U0098,S975679,Landing,2025-10-22 11:00:00,Organic,2025-10,Mobile,UK,Expired,Free
+U0099,S269930,Landing,2025-03-12 06:00:00,Referral,2025-03,Tablet,UK,Expired,Free
+U0100,S681478,Landing,2025-09-23 12:00:00,Referral,2025-09,Desktop,India,Expired,Free
+U0101,S571145,Landing,2025-08-16 08:00:00,Referral,2025-08,Mobile,UAE,Active,Free
+U0101,S571145,Sign-up,2025-08-14 05:00:00,Referral,2025-08,Desktop,UK,Expired,Free
+U0102,S347231,Landing,2025-07-12 18:00:00,Organic,2025-07,Desktop,India,Active,Free
+U0102,S347231,Sign-up,2025-07-12 12:00:00,Organic,2025-07,Mobile,India,Expired,Free
+U0102,S347231,Onboarding,2025-07-13 09:00:00,Organic,2025-07,Tablet,Pakistan,Active,Free
+U0102,S347231,First Feature Use,2025-07-11 02:00:00,Organic,2025-07,Mobile,India,Active,Free
+U0103,S675462,Landing,2025-09-29 06:00:00,Referral,2025-09,Mobile,Pakistan,Active,Free
+U0103,S675462,Sign-up,2025-09-29 06:00:00,Referral,2025-09,Mobile,USA,Expired,Free
+U0104,S165858,Landing,2025-11-03 13:00:00,Organic,2025-11,Mobile,Pakistan,Expired,Free
+U0104,S165858,Sign-up,2025-11-03 06:00:00,Organic,2025-11,Tablet,UK,Active,Free
+U0104,S165858,Onboarding,2025-11-05 13:00:00,Organic,2025-11,Tablet,Pakistan,Expired,Free
+U0104,S165858,First Feature Use,2025-11-02 08:00:00,Organic,2025-11,Tablet,USA,Active,Free
+U0105,S509420,Landing,2025-11-23 21:00:00,Referral,2025-11,,UAE,Active,Free
+U0105,S509420,Sign-up,2025-11-25 21:00:00,Referral,2025-11,Tablet,Pakistan,Expired,Free
+U0105,S509420,Onboarding,2025-11-22 17:00:00,Referral,2025-11,Desktop,UAE,Expired,Free
+U0106,S953025,Landing,2025-08-28 13:00:00,Paid,2025-08,Tablet,India,Active,Free
+U0107,S166165,Landing,2025-01-23 23:00:00,Paid,2025-01,Mobile,USA,Expired,Free
+U0107,S166165,Sign-up,2025-01-23 08:00:00,Paid,2025-01,Tablet,UK,Expired,Free
+U0107,S166165,Onboarding,2025-01-19 04:00:00,Paid,2025-01,Tablet,India,Expired,Free
+U0107,S166165,First Feature Use,2025-01-20 21:00:00,Paid,2025-01,Desktop,UAE,Expired,Free
+U0107,S166165,Upgrade,2025-01-19 15:00:00,Paid,2025-01,Mobile,UK,Expired,Premium
+U0108,S505426,Landing,2025-09-13 10:00:00,Organic,2025-09,Desktop,UK,Active,Free
+U0108,S505426,Sign-up,2025-09-14 07:00:00,Organic,2025-09,Tablet,India,Expired,Free
+U0108,S505426,Onboarding,2025-09-13 17:00:00,Organic,2025-09,Desktop,Pakistan,Expired,Free
+U0109,S793024,Landing,2025-11-08 21:00:00,Organic,2025-11,Mobile,USA,Expired,Free
+U0109,S793024,Sign-up,2025-11-06 11:00:00,Organic,2025-11,Tablet,Pakistan,Active,Free
+U0109,S793024,Onboarding,2025-11-08 13:00:00,Organic,2025-11,Tablet,UK,Expired,Free
+U0109,S793024,First Feature Use,2025-11-07 17:00:00,Organic,2025-11,Tablet,India,Active,Free
+U0110,S249715,Landing,2025-08-14 22:00:00,Referral,2025-08,Mobile,UK,Active,Free
+U0110,S249715,Sign-up,2025-08-16 05:00:00,Referral,2025-08,Desktop,UK,Expired,Free
+U0110,S249715,Onboarding,2025-08-14 23:00:00,Referral,2025-08,Mobile,Pakistan,Active,Free
+U0111,S655178,Landing,2025-11-29 03:00:00,Organic,2025-11,Tablet,India,Expired,Free
+U0111,S655178,Sign-up,2025-12-01 18:00:00,Organic,2025-11,Mobile,USA,Active,Free
+U0112,S374492,Landing,2025-08-18 01:00:00,Paid,2025-08,Desktop,India,Active,Free
+U0112,S374492,Sign-up,2025-08-19 09:00:00,Paid,2025-08,Desktop,UK,Active,Free
+U0112,S374492,Onboarding,2025-08-21 07:00:00,Paid,2025-08,Tablet,UAE,Expired,Free
+U0112,S374492,First Feature Use,2025-08-20 18:00:00,Paid,2025-08,Desktop,USA,Expired,Free
+U0113,S414527,Landing,2026-01-02 09:00:00,Referral,2025-12,Desktop,UAE,Active,Free
+U0114,S227257,Landing,2025-05-02 03:00:00,Referral,2025-05,Mobile,USA,Expired,Free
+U0115,S590110,Landing,2025-03-11 20:00:00,Referral,2025-03,Mobile,USA,Expired,Free
+U0115,S590110,Sign-up,2025-03-12 02:00:00,Referral,2025-03,Mobile,USA,Active,Free
+U0115,S590110,Onboarding,2025-03-08 16:00:00,Referral,2025-03,Mobile,Pakistan,Expired,Free
+U0115,S590110,First Feature Use,2025-03-10 11:00:00,Referral,2025-03,Tablet,USA,Expired,Free
+U0116,S234568,Landing,2025-11-24 16:00:00,Referral,2025-11,Mobile,USA,Active,Free
+U0116,S234568,Sign-up,2025-11-28 10:00:00,Referral,2025-11,Desktop,USA,Active,Free
+U0117,S418897,Landing,2026-01-01 18:00:00,Organic,2025-12,Mobile,Pakistan,Expired,Free
+U0117,S418897,Sign-up,2025-12-31 01:00:00,Organic,2025-12,Tablet,USA,Expired,Free
+U0118,S231250,Landing,2025-10-01 21:00:00,Paid,2025-10,Tablet,USA,Expired,Free
+U0118,S231250,Sign-up,2025-10-05 11:00:00,Paid,2025-10,Tablet,Pakistan,Active,Free
+U0118,S231250,Onboarding,2025-10-01 10:00:00,Paid,2025-10,Desktop,USA,Expired,Free
+U0118,S231250,First Feature Use,2025-10-04 11:00:00,Paid,2025-10,Desktop,USA,Expired,Free
+U0119,S748133,Landing,2025-11-22 07:00:00,Paid,2025-11,Tablet,UK,Expired,Free
+U0119,S748133,Sign-up,2025-11-20 10:00:00,Paid,2025-11,Desktop,Pakistan,Active,Free
+U0119,S748133,Onboarding,2025-11-20 08:00:00,Paid,2025-11,Mobile,UK,Expired,Free
+U0119,S748133,First Feature Use,2025-11-19 02:00:00,Paid,2025-11,Mobile,USA,Active,Free
+U0119,S748133,Upgrade,2025-11-19 16:00:00,Paid,2025-11,Tablet,UAE,Expired,Premium
+U0120,S237118,Landing,2025-10-15 18:00:00,Paid,2025-10,Desktop,Pakistan,Expired,Free
+U0120,S237118,Sign-up,2025-10-17 01:00:00,Paid,2025-10,Tablet,UK,Active,Free
+U0120,S237118,Onboarding,2025-10-19 14:00:00,Paid,2025-10,Desktop,UAE,Expired,Free
+U0120,S237118,First Feature Use,2025-10-16 00:00:00,Paid,2025-10,Desktop,UK,Expired,Free
+U0121,S622987,Landing,2025-01-15 02:00:00,Referral,2025-01,Mobile,Pakistan,Active,Free
+U0121,S622987,Sign-up,2025-01-13 12:00:00,Referral,2025-01,Mobile,USA,Expired,Free
+U0121,S622987,Onboarding,2025-01-13 12:00:00,Referral,2025-01,Tablet,Pakistan,Active,Free
+U0121,S622987,First Feature Use,2025-01-14 07:00:00,Referral,2025-01,Desktop,UAE,Expired,Free
+U0121,S622987,Upgrade,2025-01-16 01:00:00,Referral,2025-01,Mobile,UAE,Active,Premium
+U0122,S153642,Landing,2025-07-06 11:00:00,Paid,2025-07,Tablet,USA,Active,Free
+U0122,S153642,Sign-up,2025-07-05 16:00:00,Paid,2025-07,Desktop,UK,Expired,Free
+U0122,S153642,Onboarding,2025-07-09 05:00:00,Paid,2025-07,Mobile,USA,Expired,Free
+U0122,S153642,First Feature Use,2025-07-09 00:00:00,Paid,2025-07,Desktop,India,Expired,Free
+U0123,S624369,Landing,2025-03-14 18:00:00,Organic,2025-03,Mobile,India,Active,Free
+U0123,S624369,Sign-up,2025-03-13 17:00:00,Organic,2025-03,Tablet,UAE,Active,Free
+U0124,S512042,Landing,2025-06-06 00:00:00,Referral,2025-06,Mobile,UK,Active,Free
+U0124,S512042,Sign-up,2025-06-04 23:00:00,Referral,2025-06,Mobile,Pakistan,Expired,Free
+U0124,S512042,Onboarding,2025-06-06 02:00:00,Referral,2025-06,Mobile,Pakistan,Expired,Free
+U0124,S512042,First Feature Use,2025-06-04 09:00:00,Referral,2025-06,Tablet,USA,Active,Free
+U0125,S856442,Landing,2025-03-31 00:00:00,Organic,2025-03,Desktop,India,Active,Free
+U0125,S856442,Sign-up,2025-04-01 01:00:00,Organic,2025-03,Tablet,Pakistan,Active,Free
+U0125,S856442,Onboarding,2025-03-29 02:00:00,Organic,2025-03,Mobile,UAE,Expired,Free
+U0126,S258787,Landing,2025-08-02 21:00:00,Organic,2025-07,Desktop,India,Active,Free
+U0126,S258787,Sign-up,2025-08-01 23:00:00,Organic,2025-07,Mobile,UK,Expired,Free
+U0126,S258787,Onboarding,2025-07-31 16:00:00,Organic,2025-07,Desktop,UK,Expired,Free
+U0126,S258787,First Feature Use,2025-08-01 21:00:00,Organic,2025-07,Mobile,UAE,Expired,Free
+U0127,S301603,Landing,2025-10-14 14:00:00,Referral,2025-10,Mobile,India,Expired,Free
+U0127,S301603,Sign-up,2025-10-14 16:00:00,Referral,2025-10,Mobile,UAE,Expired,Free
+U0128,S401769,Landing,2025-10-10 08:00:00,Organic,2025-10,Mobile,India,Expired,Free
+U0128,S401769,Sign-up,2025-10-06 05:00:00,Organic,2025-10,Mobile,Pakistan,Expired,Free
+U0129,S563864,Landing,2025-09-04 10:00:00,Paid,2025-09,Tablet,UAE,Active,Free
+U0129,S563864,Sign-up,2025-09-03 13:00:00,Paid,2025-09,Tablet,USA,Active,Free
+U0130,S354235,Landing,2025-04-26 12:00:00,Organic,2025-04,Tablet,India,Active,Free
+U0130,S354235,Sign-up,2025-04-28 22:00:00,Organic,2025-04,Desktop,UK,Expired,Free
+U0130,S354235,Onboarding,2025-04-28 13:00:00,Organic,2025-04,Tablet,India,Expired,Free
+U0130,S354235,First Feature Use,2025-04-27 17:00:00,Organic,2025-04,Mobile,Pakistan,Active,Free
+U0131,S783984,Landing,2025-01-20 22:00:00,Paid,2025-01,,India,Active,Free
+U0132,S976822,Landing,2025-04-10 15:00:00,Organic,2025-04,Mobile,Pakistan,Active,Free
+U0133,S412886,Landing,2025-06-23 21:00:00,Paid,2025-06,Tablet,UK,Active,Free
+U0133,S412886,Sign-up,2025-06-25 12:00:00,Paid,2025-06,Tablet,UK,Expired,Free
+U0134,S302177,Landing,2025-03-28 10:00:00,Referral,2025-03,Mobile,India,Active,Free
+U0135,S872399,Landing,2025-10-20 03:00:00,Organic,2025-10,Mobile,USA,Expired,Free
+U0135,S872399,Sign-up,2025-10-18 11:00:00,Organic,2025-10,Mobile,Pakistan,Active,Free
+U0135,S872399,Onboarding,2025-10-18 17:00:00,Organic,2025-10,Mobile,UAE,Active,Free
+U0135,S872399,First Feature Use,2025-10-18 00:00:00,Organic,2025-10,Mobile,UK,Active,Free
+U0136,S568436,Landing,2025-06-05 06:00:00,Paid,2025-06,Desktop,Pakistan,Expired,Free
+U0136,S568436,Sign-up,2025-06-05 15:00:00,Paid,2025-06,Desktop,UK,Expired,Free
+U0136,S568436,Onboarding,2025-06-07 16:00:00,Paid,2025-06,Desktop,UAE,Expired,Free
+U0136,S568436,First Feature Use,2025-06-07 06:00:00,Paid,2025-06,Desktop,India,Active,Free
+U0137,S601410,Landing,2025-11-11 00:00:00,Organic,2025-11,Tablet,India,Active,Free
+U0137,S601410,Sign-up,2025-11-10 15:00:00,Organic,2025-11,Tablet,Pakistan,Expired,Free
+U0137,S601410,Onboarding,2025-11-09 19:00:00,Organic,2025-11,Tablet,UAE,Active,Free
+U0138,S691573,Landing,2025-09-18 08:00:00,Organic,2025-09,Desktop,India,Expired,Free
+U0138,S691573,Sign-up,2025-09-16 11:00:00,Organic,2025-09,Tablet,UK,Active,Free
+U0138,S691573,Onboarding,2025-09-18 10:00:00,Organic,2025-09,Desktop,USA,Expired,Free
+U0138,S691573,First Feature Use,2025-09-18 10:00:00,Organic,2025-09,Tablet,Pakistan,Expired,Free
+U0139,S805448,Landing,2025-01-15 23:00:00,Referral,2025-01,Desktop,USA,Active,Free
+U0139,S805448,Sign-up,2025-01-12 05:00:00,Referral,2025-01,Mobile,UAE,Active,Free
+U0140,S667451,Landing,2025-09-03 02:00:00,Referral,2025-08,Tablet,UK,Expired,Free
+U0140,S667451,Sign-up,2025-09-03 18:00:00,Referral,2025-08,Mobile,UK,Expired,Free
+U0140,S667451,Onboarding,2025-09-01 00:00:00,Referral,2025-08,Desktop,USA,Active,Free
+U0141,S785280,Landing,2025-04-04 02:00:00,Referral,2025-04,Tablet,India,Active,Free
+U0142,S975373,Landing,2025-06-03 05:00:00,Organic,2025-06,Desktop,UK,Expired,Free
+U0142,S975373,Sign-up,2025-06-02 19:00:00,Organic,2025-06,Mobile,India,Active,Free
+U0142,S975373,Onboarding,2025-06-02 04:00:00,Organic,2025-06,Tablet,UK,Active,Free
+U0142,S975373,First Feature Use,2025-06-03 06:00:00,Organic,2025-06,Desktop,Pakistan,Active,Free
+U0143,S722795,Landing,2025-12-13 03:00:00,Organic,2025-12,Mobile,India,Active,Free
+U0143,S722795,Sign-up,2025-12-15 00:00:00,Organic,2025-12,Desktop,India,Expired,Free
+U0143,S722795,Onboarding,2025-12-12 05:00:00,Organic,2025-12,Tablet,USA,Expired,Free
+U0144,S705526,Landing,2025-06-17 12:00:00,Paid,2025-06,Tablet,India,Expired,Free
+U0144,S705526,Sign-up,2025-06-15 14:00:00,Paid,2025-06,Mobile,Pakistan,Active,Free
+U0145,S756401,Landing,2025-09-13 19:00:00,Paid,2025-09,Mobile,UK,Expired,Free
+U0145,S756401,Sign-up,2025-09-11 19:00:00,Paid,2025-09,Mobile,UK,Active,Free
+U0145,S756401,Onboarding,2025-09-15 00:00:00,Paid,2025-09,Tablet,UK,Active,Free
+U0145,S756401,First Feature Use,2025-09-15 12:00:00,Paid,2025-09,Desktop,UAE,Active,Free
+U0146,S944917,Landing,2025-10-16 08:00:00,Paid,2025-10,Desktop,UAE,Active,Free
+U0146,S944917,Sign-up,2025-10-19 22:00:00,Paid,2025-10,Mobile,UAE,Active,Free
+U0146,S944917,Onboarding,2025-10-17 20:00:00,Paid,2025-10,Tablet,India,Active,Free
+U0146,S944917,First Feature Use,2025-10-16 10:00:00,Paid,2025-10,Mobile,USA,Active,Free
+U0147,S176319,Landing,2025-12-11 18:00:00,Organic,2025-12,Mobile,Pakistan,Active,Free
+U0147,S176319,Sign-up,2025-12-14 23:00:00,Organic,2025-12,Desktop,Pakistan,Expired,Free
+U0147,S176319,Onboarding,2025-12-14 21:00:00,Organic,2025-12,Desktop,USA,Active,Free
+U0148,S515898,Landing,2025-06-16 00:00:00,Referral,2025-06,Mobile,USA,Expired,Free
+U0149,S423404,Landing,2025-09-15 20:00:00,Organic,2025-09,Mobile,UAE,Active,Free
+U0149,S423404,Sign-up,2025-09-13 23:00:00,Organic,2025-09,Mobile,UK,Active,Free
+U0150,S689849,Landing,2025-03-17 13:00:00,Referral,2025-03,Desktop,India,Expired,Free
+U0150,S689849,Sign-up,2025-03-17 05:00:00,Referral,2025-03,Mobile,USA,Active,Free
+U0150,S689849,Onboarding,2025-03-18 15:00:00,Referral,2025-03,Tablet,UAE,Expired,Free
+U0150,S689849,First Feature Use,2025-03-20 01:00:00,Referral,2025-03,Mobile,UK,Expired,Free
+U0151,S276405,Landing,2025-03-31 10:00:00,Paid,2025-03,Desktop,USA,Active,Free
+U0151,S276405,Sign-up,2025-04-01 11:00:00,Paid,2025-03,Desktop,Pakistan,Active,Free
+U0151,S276405,Onboarding,2025-03-30 04:00:00,Paid,2025-03,Desktop,India,Active,Free
+U0151,S276405,First Feature Use,2025-03-31 18:00:00,Paid,2025-03,Desktop,Pakistan,Active,Free
+U0152,S630299,Landing,2025-11-17 20:00:00,Paid,2025-11,Mobile,UK,Active,Free
+U0152,S630299,Sign-up,2025-11-13 00:00:00,Paid,2025-11,Tablet,USA,Expired,Free
+U0153,S112426,Landing,2025-05-23 07:00:00,Organic,2025-05,Desktop,Pakistan,Active,Free
+U0153,S112426,Sign-up,2025-05-23 19:00:00,Organic,2025-05,Desktop,India,Active,Free
+U0153,S112426,Onboarding,2025-05-24 07:00:00,Organic,2025-05,Tablet,UAE,Expired,Free
+U0153,S112426,First Feature Use,2025-05-22 10:00:00,Organic,2025-05,Mobile,Pakistan,Expired,Free
+U0154,S525750,Landing,2025-12-26 11:00:00,Paid,2025-12,Tablet,Pakistan,Active,Free
+U0154,S525750,Sign-up,2025-12-25 03:00:00,Paid,2025-12,Mobile,UK,Expired,Free
+U0154,S525750,Onboarding,2025-12-23 07:00:00,Paid,2025-12,Tablet,Pakistan,Active,Free
+U0155,S186702,Landing,2025-11-30 00:00:00,Paid,2025-11,Desktop,USA,Active,Free
+U0156,S340927,Landing,2025-10-22 19:00:00,Organic,2025-10,Tablet,USA,Active,Free
+U0156,S340927,Sign-up,2025-10-18 22:00:00,Organic,2025-10,,Pakistan,Active,Free
+U0156,S340927,Onboarding,2025-10-21 03:00:00,Organic,2025-10,Desktop,UK,Active,Free
+U0156,S340927,First Feature Use,2025-10-19 14:00:00,Organic,2025-10,Desktop,USA,Active,Free
+U0157,S694223,Landing,2025-12-14 18:00:00,Referral,2025-12,Mobile,India,Active,Free
+U0158,S625119,Landing,2025-01-31 06:00:00,Paid,2025-01,Tablet,UK,Expired,Free
+U0158,S625119,Sign-up,2025-01-28 03:00:00,Paid,2025-01,Tablet,UAE,Expired,Free
+U0158,S625119,Onboarding,2025-01-30 14:00:00,Paid,2025-01,Desktop,UAE,Expired,Free
+U0158,S625119,First Feature Use,2025-01-30 07:00:00,Paid,2025-01,Desktop,USA,Expired,Free
+U0159,S189856,Landing,2025-05-10 09:00:00,Paid,2025-05,Desktop,UK,Expired,Free
+U0159,S189856,Sign-up,2025-05-08 22:00:00,Paid,2025-05,Desktop,Pakistan,Active,Free
+U0159,S189856,Onboarding,2025-05-12 00:00:00,Paid,2025-05,Mobile,UK,Expired,Free
+U0159,S189856,First Feature Use,2025-05-11 01:00:00,Paid,2025-05,Mobile,Pakistan,Active,Free
+U0160,S191537,Landing,2025-10-13 11:00:00,Organic,2025-10,Tablet,USA,Expired,Free
+U0160,S191537,Sign-up,2025-10-17 14:00:00,Organic,2025-10,Mobile,Pakistan,Expired,Free
+U0160,S191537,Onboarding,2025-10-15 04:00:00,Organic,2025-10,Mobile,Pakistan,Active,Free
+U0160,S191537,First Feature Use,2025-10-16 01:00:00,Organic,2025-10,Tablet,India,Expired,Free
+U0161,S277735,Landing,2025-05-20 13:00:00,Organic,2025-05,Desktop,UAE,Expired,Free
+U0161,S277735,Sign-up,2025-05-23 00:00:00,Organic,2025-05,Desktop,UK,Active,Free
+U0161,S277735,Onboarding,2025-05-20 10:00:00,Organic,2025-05,Desktop,India,Expired,Free
+U0161,S277735,First Feature Use,2025-05-18 00:00:00,Organic,2025-05,Mobile,UAE,Expired,Free
+U0162,S943135,Landing,2025-06-24 11:00:00,Referral,2025-06,Tablet,India,Expired,Free
+U0162,S943135,Sign-up,2025-06-22 17:00:00,Referral,2025-06,Tablet,India,Expired,Free
+U0163,S429445,Landing,2025-06-14 07:00:00,Organic,2025-06,Mobile,UK,Expired,Free
+U0163,S429445,Sign-up,2025-06-17 08:00:00,Organic,2025-06,Mobile,UAE,Active,Free
+U0163,S429445,Onboarding,2025-06-17 23:00:00,Organic,2025-06,,India,Active,Free
+U0163,S429445,First Feature Use,2025-06-16 15:00:00,Organic,2025-06,Tablet,Pakistan,Expired,Free
+U0164,S842776,Landing,2025-12-25 05:00:00,Organic,2025-12,Mobile,UK,Active,Free
+U0164,S842776,Sign-up,2025-12-24 09:00:00,Organic,2025-12,Mobile,India,Expired,Free
+U0165,S790658,Landing,2025-07-15 13:00:00,Organic,2025-07,Tablet,UK,Expired,Free
+U0165,S790658,Sign-up,2025-07-15 21:00:00,Organic,2025-07,Desktop,UAE,Active,Free
+U0166,S214682,Landing,2025-12-10 14:00:00,Paid,2025-12,Tablet,UK,Expired,Free
+U0166,S214682,Sign-up,2025-12-11 05:00:00,Paid,2025-12,Mobile,Pakistan,Active,Free
+U0166,S214682,Onboarding,2025-12-07 12:00:00,Paid,2025-12,Mobile,India,Active,Free
+U0166,S214682,First Feature Use,2025-12-09 09:00:00,Paid,2025-12,Mobile,UK,Expired,Free
+U0167,S909859,Landing,2025-09-16 13:00:00,Paid,2025-09,Desktop,UAE,Expired,Free
+U0167,S909859,Sign-up,2025-09-18 21:00:00,Paid,2025-09,Desktop,Pakistan,Active,Free
+U0168,S465249,Landing,2025-04-18 09:00:00,Organic,2025-04,Mobile,Pakistan,Expired,Free
+U0168,S465249,Sign-up,2025-04-16 05:00:00,Organic,2025-04,Tablet,Pakistan,Active,Free
+U0168,S465249,Onboarding,2025-04-20 12:00:00,Organic,2025-04,Mobile,Pakistan,Active,Free
+U0168,S465249,First Feature Use,2025-04-20 23:00:00,Organic,2025-04,Tablet,India,Active,Free
+U0169,S678719,Landing,2025-08-08 05:00:00,Organic,2025-08,Mobile,India,Active,Free
+U0170,S771590,Landing,2025-01-19 17:00:00,Paid,2025-01,Desktop,UK,Expired,Free
+U0171,S507723,Landing,2025-04-19 01:00:00,Organic,2025-04,Desktop,USA,Active,Free
+U0171,S507723,Sign-up,2025-04-17 22:00:00,Organic,2025-04,Mobile,India,Expired,Free
+U0171,S507723,Onboarding,2025-04-16 14:00:00,Organic,2025-04,Mobile,UK,Expired,Free
+U0172,S725969,Landing,2025-10-31 14:00:00,Organic,2025-10,Tablet,UAE,Active,Free
+U0172,S725969,Sign-up,2025-10-31 14:00:00,Organic,2025-10,Desktop,UAE,Active,Free
+U0172,S725969,Onboarding,2025-10-29 06:00:00,Organic,2025-10,Mobile,Pakistan,Active,Free
+U0172,S725969,First Feature Use,2025-10-29 23:00:00,Organic,2025-10,Tablet,India,Expired,Free
+U0172,S725969,Upgrade,2025-10-30 05:00:00,Organic,2025-10,Tablet,India,Expired,Premium
+U0173,S294776,Landing,2025-12-26 23:00:00,Paid,2025-12,Desktop,USA,Active,Free
+U0174,S613426,Landing,2025-06-14 07:00:00,Organic,2025-06,Desktop,UAE,Active,Free
+U0175,S608149,Landing,2025-10-19 11:00:00,Organic,2025-10,Mobile,UK,Active,Free
+U0175,S608149,Sign-up,2025-10-15 10:00:00,Organic,2025-10,Tablet,Pakistan,Active,Free
+U0175,S608149,Onboarding,2025-10-16 13:00:00,Organic,2025-10,Desktop,UAE,Active,Free
+U0175,S608149,First Feature Use,2025-10-17 20:00:00,Organic,2025-10,Mobile,India,Expired,Free
+U0176,S693127,Landing,2025-10-10 22:00:00,Paid,2025-10,Tablet,Pakistan,Expired,Free
+U0176,S693127,Sign-up,2025-10-11 21:00:00,Paid,2025-10,Desktop,UK,Active,Free
+U0176,S693127,Onboarding,2025-10-12 22:00:00,Paid,2025-10,Tablet,India,Expired,Free
+U0176,S693127,First Feature Use,2025-10-13 15:00:00,Paid,2025-10,Desktop,UK,Expired,Free
+U0177,S465509,Landing,2025-08-13 15:00:00,Referral,2025-08,Desktop,India,Expired,Free
+U0178,S845279,Landing,2025-03-30 08:00:00,Paid,2025-03,Desktop,Pakistan,Expired,Free
+U0178,S845279,Sign-up,2025-03-28 20:00:00,Paid,2025-03,Mobile,USA,Active,Free
+U0179,S439375,Landing,2025-05-31 17:00:00,Referral,2025-05,Tablet,Pakistan,Active,Free
+U0179,S439375,Sign-up,2025-06-02 00:00:00,Referral,2025-05,Mobile,Pakistan,Expired,Free
+U0180,S787757,Landing,2025-05-10 02:00:00,Organic,2025-05,Mobile,India,Expired,Free
+U0180,S787757,Sign-up,2025-05-11 08:00:00,Organic,2025-05,Mobile,UK,Expired,Free
+U0180,S787757,Onboarding,2025-05-08 09:00:00,Organic,2025-05,Tablet,Pakistan,Expired,Free
+U0180,S787757,First Feature Use,2025-05-10 17:00:00,Organic,2025-05,Tablet,UAE,Expired,Free
+U0181,S576782,Landing,2025-10-28 21:00:00,Referral,2025-10,Desktop,UK,Expired,Free
+U0181,S576782,Sign-up,2025-10-29 12:00:00,Referral,2025-10,Desktop,USA,Expired,Free
+U0182,S328411,Landing,2025-09-12 19:00:00,Referral,2025-09,Tablet,USA,Active,Free
+U0182,S328411,Sign-up,2025-09-14 00:00:00,Referral,2025-09,Mobile,UAE,Active,Free
+U0183,S148174,Landing,2025-01-11 08:00:00,Organic,2025-01,Mobile,Pakistan,Expired,Free
+U0183,S148174,Sign-up,2025-01-10 01:00:00,Organic,2025-01,Tablet,India,Expired,Free
+U0184,S266699,Landing,2025-02-17 21:00:00,Referral,2025-02,Desktop,UK,Expired,Free
+U0184,S266699,Sign-up,2025-02-20 20:00:00,Referral,2025-02,Tablet,India,Expired,Free
+U0184,S266699,Onboarding,2025-02-20 11:00:00,Referral,2025-02,Desktop,Pakistan,Active,Free
+U0184,S266699,First Feature Use,2025-02-18 03:00:00,Referral,2025-02,Mobile,Pakistan,Active,Free
+U0185,S722518,Landing,2025-08-20 14:00:00,Organic,2025-08,Mobile,India,Expired,Free
+U0185,S722518,Sign-up,2025-08-16 09:00:00,Organic,2025-08,Desktop,UK,Active,Free
+U0185,S722518,Onboarding,2025-08-19 21:00:00,Organic,2025-08,Desktop,Pakistan,Expired,Free
+U0186,S485416,Landing,2025-07-19 00:00:00,Referral,2025-07,Desktop,India,Active,Free
+U0187,S656278,Landing,2025-12-03 21:00:00,Paid,2025-11,Mobile,USA,Expired,Free
+U0187,S656278,Sign-up,2025-12-03 14:00:00,Paid,2025-11,Desktop,Pakistan,Active,Free
+U0187,S656278,Onboarding,2025-11-29 17:00:00,Paid,2025-11,Desktop,USA,Expired,Free
+U0187,S656278,First Feature Use,2025-11-30 20:00:00,Paid,2025-11,Mobile,UAE,Active,Free
+U0188,S359822,Landing,2025-05-11 16:00:00,Organic,2025-05,Desktop,UAE,Active,Free
+U0188,S359822,Sign-up,2025-05-10 18:00:00,Organic,2025-05,Tablet,USA,Active,Free
+U0188,S359822,Onboarding,2025-05-11 23:00:00,Organic,2025-05,Mobile,UAE,Active,Free
+U0188,S359822,First Feature Use,2025-05-12 04:00:00,Organic,2025-05,Desktop,UK,Expired,Free
+U0189,S218220,Landing,2025-11-01 01:00:00,Organic,2025-11,Mobile,UAE,Active,Free
+U0189,S218220,Sign-up,2025-11-03 01:00:00,Organic,2025-11,Tablet,UK,Expired,Free
+U0190,S672896,Landing,2025-02-07 07:00:00,Paid,2025-02,Mobile,USA,Expired,Free
+U0190,S672896,Sign-up,2025-02-10 08:00:00,Paid,2025-02,Tablet,USA,Expired,Free
+U0190,S672896,Onboarding,2025-02-09 06:00:00,Paid,2025-02,Tablet,UK,Active,Free
+U0190,S672896,First Feature Use,2025-02-10 09:00:00,Paid,2025-02,Tablet,USA,Active,Free
+U0190,S672896,Upgrade,2025-02-08 11:00:00,Paid,2025-02,Desktop,UAE,Active,Free
+U0191,S947312,Landing,2025-07-23 11:00:00,Organic,2025-07,Tablet,Pakistan,Expired,Free
+U0191,S947312,Sign-up,2025-07-23 17:00:00,Organic,2025-07,Mobile,India,Active,Free
+U0192,S356355,Landing,2025-03-04 22:00:00,Organic,2025-03,Desktop,Pakistan,Active,Free
+U0192,S356355,Sign-up,2025-03-04 18:00:00,Organic,2025-03,Desktop,Pakistan,Active,Free
+U0192,S356355,Onboarding,2025-03-03 15:00:00,Organic,2025-03,Mobile,USA,Expired,Free
+U0192,S356355,First Feature Use,2025-03-01 21:00:00,Organic,2025-03,Mobile,India,Expired,Free
+U0193,S868538,Landing,2025-06-22 10:00:00,Referral,2025-06,Tablet,Pakistan,Expired,Free
+U0194,S846925,Landing,2025-02-09 21:00:00,Referral,2025-02,Mobile,India,Expired,Free
+U0194,S846925,Sign-up,2025-02-13 02:00:00,Referral,2025-02,Desktop,USA,Active,Free
+U0194,S846925,Onboarding,2025-02-10 05:00:00,Referral,2025-02,Tablet,USA,Active,Free
+U0194,S846925,First Feature Use,2025-02-09 05:00:00,Referral,2025-02,Desktop,,Active,Free
+U0195,S594681,Landing,2025-04-06 13:00:00,Organic,2025-04,Desktop,USA,Expired,Free
+U0196,S335421,Landing,2025-06-17 19:00:00,Organic,2025-06,Desktop,India,Active,Free
+U0196,S335421,Sign-up,2025-06-17 06:00:00,Organic,2025-06,Tablet,Pakistan,Expired,Free
+U0196,S335421,Onboarding,2025-06-13 08:00:00,Organic,2025-06,Mobile,UAE,Expired,Free
+U0196,S335421,First Feature Use,2025-06-14 17:00:00,Organic,2025-06,Desktop,USA,Expired,Free
+U0197,S108356,Landing,2025-10-19 22:00:00,Organic,2025-10,Tablet,India,Expired,Free
+U0198,S486162,Landing,2025-04-13 21:00:00,Paid,2025-04,Desktop,India,Active,Free
+U0199,S529954,Landing,2025-07-01 01:00:00,Organic,2025-06,Tablet,UK,Expired,Free
+U0199,S529954,Sign-up,2025-06-27 13:00:00,Organic,2025-06,Desktop,USA,Active,Free
+U0199,S529954,Onboarding,2025-06-29 05:00:00,Organic,2025-06,Mobile,Pakistan,Active,Free
+U0199,S529954,First Feature Use,2025-06-30 19:00:00,Organic,2025-06,Mobile,Pakistan,Active,Free
+U0199,S529954,Upgrade,2025-07-01 21:00:00,Organic,2025-06,Desktop,USA,Expired,Premium
+U0200,S580728,Landing,2025-10-25 09:00:00,Referral,2025-10,Tablet,USA,Active,Free
+U0200,S580728,Sign-up,2025-10-27 07:00:00,Referral,2025-10,Tablet,India,Active,Free
+U0200,S580728,Onboarding,2025-10-26 13:00:00,Referral,2025-10,Mobile,UAE,Expired,Free
+U0201,S834764,Landing,2025-06-12 17:00:00,Referral,2025-06,Tablet,Pakistan,Active,Free
+U0201,S834764,Sign-up,2025-06-12 13:00:00,Referral,2025-06,Desktop,UK,Expired,Free
+U0201,S834764,Onboarding,2025-06-13 16:00:00,Referral,2025-06,Mobile,Pakistan,Expired,Free
+U0202,S907756,Landing,2025-08-30 09:00:00,Organic,2025-08,Tablet,USA,Active,Free
+U0202,S907756,Sign-up,2025-08-27 03:00:00,Organic,2025-08,Mobile,India,Active,Free
+U0202,S907756,Onboarding,2025-08-29 19:00:00,Organic,2025-08,Desktop,UAE,Expired,Free
+U0202,S907756,First Feature Use,2025-08-28 17:00:00,Organic,2025-08,Desktop,UAE,Expired,Free
+U0203,S959926,Landing,2025-07-29 23:00:00,Referral,2025-07,Tablet,USA,Active,Free
+U0204,S199326,Landing,2025-03-05 04:00:00,Paid,2025-03,Desktop,India,Expired,Free
+U0204,S199326,Sign-up,2025-03-05 23:00:00,Paid,2025-03,Tablet,Pakistan,Expired,Free
+U0205,S952227,Landing,2025-04-14 08:00:00,Organic,2025-04,Desktop,Pakistan,Expired,Free
+U0206,S228479,Landing,2025-01-28 02:00:00,Organic,2025-01,Mobile,Pakistan,Expired,Free
+U0206,S228479,Sign-up,2025-01-29 15:00:00,Organic,2025-01,Mobile,India,Expired,Free
+U0206,S228479,Onboarding,2025-01-27 03:00:00,Organic,2025-01,Desktop,UAE,Expired,Free
+U0207,S567676,Landing,2025-11-13 22:00:00,Referral,2025-11,Mobile,Pakistan,Active,Free
+U0207,S567676,Sign-up,2025-11-12 11:00:00,Referral,2025-11,Mobile,India,Expired,Free
+U0207,S567676,Onboarding,2025-11-12 01:00:00,Referral,2025-11,Tablet,USA,Active,Free
+U0207,S567676,First Feature Use,2025-11-14 08:00:00,Referral,2025-11,Tablet,Pakistan,Expired,Free
+U0208,S919898,Landing,2025-10-07 20:00:00,Paid,2025-10,Tablet,USA,Expired,Free
+U0209,S507247,Landing,2025-06-14 11:00:00,Organic,2025-06,Desktop,UK,Expired,Free
+U0209,S507247,Sign-up,2025-06-17 02:00:00,Organic,2025-06,Tablet,India,Active,Free
+U0209,S507247,Onboarding,2025-06-13 12:00:00,Organic,2025-06,Desktop,India,Expired,Free
+U0210,S659614,Landing,2025-01-30 04:00:00,Referral,2025-01,Tablet,UK,Expired,Free
+U0211,S979988,Landing,2025-04-02 21:00:00,Referral,2025-04,Tablet,Pakistan,Expired,Free
+U0211,S979988,Sign-up,2025-04-04 00:00:00,Referral,2025-04,Tablet,India,Active,Free
+U0211,S979988,Onboarding,2025-04-05 11:00:00,Referral,2025-04,Mobile,USA,Expired,Free
+U0212,S284084,Landing,2025-02-02 21:00:00,Paid,2025-01,Tablet,India,Active,Free
+U0212,S284084,Sign-up,2025-01-30 19:00:00,Paid,2025-01,Tablet,India,Expired,Free
+U0212,S284084,Onboarding,2025-01-29 07:00:00,Paid,2025-01,Desktop,India,Active,Free
+U0212,S284084,First Feature Use,2025-02-02 03:00:00,Paid,2025-01,Desktop,USA,Expired,Free
+U0212,S284084,Upgrade,2025-01-29 09:00:00,Paid,2025-01,Mobile,UK,Active,Premium
+U0213,S416423,Landing,2025-08-14 14:00:00,Organic,2025-08,Tablet,UAE,Active,Free
+U0214,S841535,Landing,2025-11-12 04:00:00,Referral,2025-11,Tablet,USA,Active,Free
+U0215,S496764,Landing,2025-06-03 01:00:00,Organic,2025-05,Mobile,USA,Active,Free
+U0215,S496764,Sign-up,2025-05-31 23:00:00,Organic,2025-05,Tablet,UAE,Active,Free
+U0215,S496764,Onboarding,2025-06-03 09:00:00,Organic,2025-05,Tablet,Pakistan,Expired,Free
+U0216,S247475,Landing,2025-05-06 09:00:00,Organic,2025-05,Tablet,UAE,Expired,Free
+U0216,S247475,Sign-up,2025-05-02 01:00:00,Organic,2025-05,Mobile,India,Active,Free
+U0216,S247475,Onboarding,2025-05-05 16:00:00,Organic,2025-05,Desktop,UAE,Expired,Free
+U0216,S247475,First Feature Use,2025-05-06 04:00:00,Organic,2025-05,Desktop,Pakistan,Active,Free
+U0217,S504684,Landing,2025-03-29 15:00:00,Organic,2025-03,Mobile,UAE,Expired,Free
+U0218,S206355,Landing,2025-12-01 04:00:00,Referral,2025-11,Desktop,,Active,Free
+U0219,S938016,Landing,2025-01-11 09:00:00,Referral,2025-01,Mobile,India,Expired,Free
+U0219,S938016,Sign-up,2025-01-11 20:00:00,Referral,2025-01,Tablet,Pakistan,Active,Free
+U0220,S454366,Landing,2025-09-07 07:00:00,Paid,2025-09,Desktop,Pakistan,Active,Free
+U0220,S454366,Sign-up,2025-09-06 18:00:00,Paid,2025-09,Desktop,India,Expired,Free
+U0220,S454366,Onboarding,2025-09-08 17:00:00,Paid,2025-09,,USA,Expired,Free
+U0220,S454366,First Feature Use,2025-09-08 12:00:00,Paid,2025-09,Mobile,UAE,Active,Free
+U0221,S200575,Landing,2025-10-09 19:00:00,Organic,2025-10,Desktop,UAE,Active,Free
+U0222,S548377,Landing,2025-11-18 13:00:00,Organic,2025-11,Desktop,UK,Active,Free
+U0222,S548377,Sign-up,2025-11-18 15:00:00,Organic,2025-11,Mobile,UK,Expired,Free
+U0222,S548377,Onboarding,2025-11-21 18:00:00,Organic,2025-11,Tablet,UAE,Active,Free
+U0222,S548377,First Feature Use,2025-11-20 10:00:00,Organic,2025-11,Tablet,UK,Active,Free
+U0222,S548377,Upgrade,2025-11-18 23:00:00,Organic,2025-11,Mobile,UAE,Active,Premium
+U0223,S146784,Landing,2025-05-18 13:00:00,Organic,2025-05,Desktop,Pakistan,Expired,Free
+U0223,S146784,Sign-up,2025-05-19 07:00:00,Organic,2025-05,Tablet,UK,Active,Free
+U0223,S146784,Onboarding,2025-05-17 22:00:00,Organic,2025-05,Desktop,UK,Expired,Free
+U0223,S146784,First Feature Use,2025-05-17 20:00:00,Organic,2025-05,Tablet,UK,Active,Free
+U0224,S599397,Landing,2026-01-04 07:00:00,Organic,2026-01,Desktop,Pakistan,Expired,Free
+U0224,S599397,Sign-up,2026-01-01 22:00:00,Organic,2026-01,Desktop,India,Active,Free
+U0224,S599397,Onboarding,2026-01-01 16:00:00,Organic,2026-01,Desktop,UK,Active,Free
+U0224,S599397,First Feature Use,2026-01-04 15:00:00,Organic,2026-01,Mobile,India,Active,Free
+U0225,S974625,Landing,2025-02-06 18:00:00,Paid,2025-02,Mobile,Pakistan,Expired,Free
+U0225,S974625,Sign-up,2025-02-04 14:00:00,Paid,2025-02,Mobile,India,Active,Free
+U0225,S974625,Onboarding,2025-02-07 00:00:00,Paid,2025-02,Tablet,USA,Active,Free
+U0225,S974625,First Feature Use,2025-02-08 22:00:00,Paid,2025-02,Desktop,USA,Active,Free
+U0226,S923914,Landing,2025-06-27 09:00:00,Organic,2025-06,Mobile,UK,Expired,Free
+U0227,S139285,Landing,2025-03-19 16:00:00,Organic,2025-03,Mobile,India,Active,Free
+U0227,S139285,Sign-up,2025-03-18 23:00:00,Organic,2025-03,Mobile,UAE,Expired,Free
+U0227,S139285,Onboarding,2025-03-15 02:00:00,Organic,2025-03,Mobile,UAE,Expired,Free
+U0227,S139285,First Feature Use,2025-03-16 11:00:00,Organic,2025-03,Mobile,Pakistan,Active,Free
+U0228,S240913,Landing,2025-08-16 17:00:00,Organic,2025-08,Mobile,UK,Active,Free
+U0229,S297064,Landing,2025-09-10 15:00:00,Organic,2025-09,Mobile,Pakistan,Active,Free
+U0230,S168804,Landing,2025-07-30 16:00:00,Organic,2025-07,Tablet,Pakistan,Active,Free
+U0230,S168804,Sign-up,2025-07-27 00:00:00,Organic,2025-07,Desktop,Pakistan,Active,Free
+U0231,S134677,Landing,2025-12-31 22:00:00,Paid,2025-12,Desktop,Pakistan,Active,Free
+U0231,S134677,Sign-up,2025-12-28 23:00:00,Paid,2025-12,Mobile,USA,Expired,Free
+U0231,S134677,Onboarding,2025-12-27 22:00:00,Paid,2025-12,Mobile,USA,Expired,Free
+U0231,S134677,First Feature Use,2025-12-28 20:00:00,Paid,2025-12,Desktop,UAE,Active,Free
+U0232,S398916,Landing,2025-03-29 03:00:00,Organic,2025-03,Desktop,India,Active,Free
+U0233,S810614,Landing,2025-08-02 02:00:00,Organic,2025-07,Tablet,Pakistan,Expired,Free
+U0233,S810614,Sign-up,2025-08-02 20:00:00,Organic,2025-07,Desktop,India,Active,Free
+U0234,S334639,Landing,2026-01-03 10:00:00,Organic,2025-12,Mobile,UK,Expired,Free
+U0235,S992952,Landing,2025-04-24 02:00:00,Organic,2025-04,Tablet,Pakistan,Active,Free
+U0235,S992952,Sign-up,2025-04-24 17:00:00,Organic,2025-04,Tablet,UAE,Expired,Free
+U0235,S992952,Onboarding,2025-04-23 14:00:00,Organic,2025-04,Tablet,Pakistan,Expired,Free
+U0236,S166938,Landing,2025-11-27 11:00:00,Organic,2025-11,Mobile,India,Active,Free
+U0236,S166938,Sign-up,2025-11-26 18:00:00,Organic,2025-11,Desktop,Pakistan,Expired,Free
+U0236,S166938,Onboarding,2025-11-27 12:00:00,Organic,2025-11,Mobile,India,Active,Free
+U0236,S166938,First Feature Use,2025-11-27 11:00:00,Organic,2025-11,Mobile,UAE,Expired,Free
+U0237,S538897,Landing,2025-01-23 08:00:00,Organic,2025-01,Desktop,UAE,Active,Free
+U0237,S538897,Sign-up,2025-01-22 15:00:00,Organic,2025-01,Tablet,UK,Expired,Free
+U0238,S631958,Landing,2025-12-03 23:00:00,Organic,2025-12,Mobile,Pakistan,Expired,Free
+U0239,S234159,Landing,2025-10-14 23:00:00,Paid,2025-10,Tablet,UAE,Active,Free
+U0240,S333049,Landing,2025-06-08 23:00:00,Organic,2025-06,Mobile,USA,Expired,Free
+U0240,S333049,Sign-up,2025-06-09 11:00:00,Organic,2025-06,Desktop,UK,Active,Free
+U0241,S765213,Landing,2025-02-08 19:00:00,Paid,2025-02,Mobile,UK,Active,Free
+U0241,S765213,Sign-up,2025-02-10 15:00:00,Paid,2025-02,Desktop,India,Active,Free
+U0241,S765213,Onboarding,2025-02-07 19:00:00,Paid,2025-02,Mobile,USA,Expired,Free
+U0241,S765213,First Feature Use,2025-02-06 18:00:00,Paid,2025-02,Mobile,India,Active,Free
+U0242,S611265,Landing,2025-06-10 21:00:00,Organic,2025-06,Tablet,India,Expired,Free
+U0242,S611265,Sign-up,2025-06-14 04:00:00,Organic,2025-06,Desktop,India,Expired,Free
+U0242,S611265,Onboarding,2025-06-13 09:00:00,Organic,2025-06,Mobile,UK,Expired,Free
+U0242,S611265,First Feature Use,2025-06-12 13:00:00,Organic,2025-06,Mobile,Pakistan,Active,Free
+U0243,S659711,Landing,2025-01-12 00:00:00,Organic,2025-01,Tablet,India,Active,Free
+U0244,S809621,Landing,2025-05-09 15:00:00,Organic,2025-05,Desktop,Pakistan,Expired,Free
+U0244,S809621,Sign-up,2025-05-10 16:00:00,Organic,2025-05,Tablet,UAE,Active,Free
+U0245,S168458,Landing,2025-06-01 15:00:00,Referral,2025-05,Desktop,UAE,Expired,Free
+U0245,S168458,Sign-up,2025-05-30 21:00:00,Referral,2025-05,Desktop,India,Expired,Free
+U0245,S168458,Onboarding,2025-05-29 02:00:00,Referral,2025-05,Desktop,India,Active,Free
+U0245,S168458,First Feature Use,2025-05-30 03:00:00,Referral,2025-05,Tablet,Pakistan,Active,Free
+U0246,S229144,Landing,2025-01-23 07:00:00,Organic,2025-01,Desktop,USA,Active,Free
+U0246,S229144,Sign-up,2025-01-23 12:00:00,Organic,2025-01,Desktop,Pakistan,Active,Free
+U0246,S229144,Onboarding,2025-01-23 16:00:00,Organic,2025-01,Desktop,UK,Expired,Free
+U0247,S498724,Landing,2025-09-02 05:00:00,Organic,2025-08,Tablet,Pakistan,Expired,Free
+U0247,S498724,Sign-up,2025-09-03 07:00:00,Organic,2025-08,Tablet,India,Expired,Free
+U0247,S498724,Onboarding,2025-09-04 10:00:00,Organic,2025-08,Desktop,USA,Active,Free
+U0247,S498724,First Feature Use,2025-09-01 12:00:00,Organic,2025-08,Desktop,Pakistan,Expired,Free
+U0247,S498724,Upgrade,2025-09-01 01:00:00,Organic,2025-08,Tablet,India,Expired,Free
+U0248,S475308,Landing,2025-03-25 18:00:00,Paid,2025-03,Desktop,Pakistan,Active,Free
+U0248,S475308,Sign-up,2025-03-27 13:00:00,Paid,2025-03,Desktop,Pakistan,Expired,Free
+U0248,S475308,Onboarding,2025-03-24 19:00:00,Paid,2025-03,Desktop,USA,Active,Free
+U0248,S475308,First Feature Use,2025-03-27 20:00:00,Paid,2025-03,Tablet,Pakistan,Expired,Free
+U0249,S775636,Landing,2025-05-17 13:00:00,Organic,2025-05,Mobile,UAE,Expired,Free
+U0249,S775636,Sign-up,2025-05-19 22:00:00,Organic,2025-05,Desktop,Pakistan,Active,Free
+U0249,S775636,Onboarding,2025-05-16 01:00:00,Organic,2025-05,Desktop,India,Expired,Free
+U0249,S775636,First Feature Use,2025-05-17 21:00:00,Organic,2025-05,Mobile,USA,Expired,Free
+U0249,S775636,Upgrade,2025-05-20 16:00:00,Organic,2025-05,Tablet,Pakistan,Expired,Premium
+U0250,S291752,Landing,2025-08-26 06:00:00,Organic,2025-08,Mobile,India,Active,Free
+U0250,S291752,Sign-up,2025-08-22 16:00:00,Organic,2025-08,Tablet,,Active,Free
+U0250,S291752,Onboarding,2025-08-22 13:00:00,Organic,2025-08,Mobile,USA,Expired,Free
+U0251,S941235,Landing,2025-04-06 06:00:00,Paid,2025-04,Desktop,India,Expired,Free
+U0251,S941235,Sign-up,2025-04-07 21:00:00,Paid,2025-04,Mobile,Pakistan,Expired,Free
+U0252,S562094,Landing,2025-12-05 01:00:00,Organic,2025-12,Tablet,USA,Active,Free
+U0252,S562094,Sign-up,2025-12-05 13:00:00,Organic,2025-12,Mobile,USA,Active,Free
+U0252,S562094,Onboarding,2025-12-04 07:00:00,Organic,2025-12,Tablet,India,Expired,Free
+U0252,S562094,First Feature Use,2025-12-03 20:00:00,Organic,2025-12,Tablet,UK,Active,Free
+U0253,S979789,Landing,2025-01-30 16:00:00,Referral,2025-01,Mobile,UK,Active,Free
+U0253,S979789,Sign-up,2025-01-28 09:00:00,Referral,2025-01,Mobile,UAE,Active,Free
+U0254,S446968,Landing,2025-09-19 10:00:00,Referral,2025-09,Mobile,USA,Expired,Free
+U0254,S446968,Sign-up,2025-09-17 11:00:00,Referral,2025-09,Mobile,UK,Expired,Free
+U0254,S446968,Onboarding,2025-09-17 15:00:00,Referral,2025-09,Mobile,Pakistan,Active,Free
+U0254,S446968,First Feature Use,2025-09-19 03:00:00,Referral,2025-09,Mobile,Pakistan,Active,Free
+U0254,S446968,Upgrade,2025-09-21 09:00:00,Referral,2025-09,Desktop,USA,Expired,Free
+U0255,S786393,Landing,2025-07-10 08:00:00,Paid,2025-07,Desktop,UK,Expired,Free
+U0256,S687360,Landing,2025-09-03 12:00:00,Paid,2025-08,Desktop,Pakistan,Expired,Free
+U0256,S687360,Sign-up,2025-09-01 21:00:00,Paid,2025-08,Tablet,UAE,Expired,Free
+U0256,S687360,Onboarding,2025-09-03 17:00:00,Paid,2025-08,Desktop,Pakistan,Active,Free
+U0256,S687360,First Feature Use,2025-09-02 15:00:00,Paid,2025-08,Desktop,UK,Active,Free
+U0256,S687360,Upgrade,2025-09-01 08:00:00,Paid,2025-08,Tablet,India,Active,Free
+U0257,S993590,Landing,2025-04-12 11:00:00,Organic,2025-04,Tablet,USA,Active,Free
+U0257,S993590,Sign-up,2025-04-12 02:00:00,Organic,2025-04,Mobile,UK,Active,Free
+U0257,S993590,Onboarding,2025-04-10 15:00:00,Organic,2025-04,Desktop,USA,Active,Free
+U0257,S993590,First Feature Use,2025-04-10 22:00:00,Organic,2025-04,Mobile,USA,Expired,Free
+U0258,S633025,Landing,2025-12-24 04:00:00,Paid,2025-12,Tablet,UAE,Expired,Free
+U0258,S633025,Sign-up,2025-12-23 05:00:00,Paid,2025-12,Tablet,India,Expired,Free
+U0258,S633025,Onboarding,2025-12-23 02:00:00,Paid,2025-12,Mobile,UAE,Expired,Free
+U0258,S633025,First Feature Use,2025-12-25 07:00:00,Paid,2025-12,Desktop,India,Expired,Free
+U0259,S731792,Landing,2025-09-23 19:00:00,Paid,2025-09,Tablet,USA,Active,Free
+U0259,S731792,Sign-up,2025-09-21 01:00:00,Paid,2025-09,Desktop,USA,Expired,Free
+U0259,S731792,Onboarding,2025-09-23 15:00:00,Paid,2025-09,Mobile,India,Active,Free
+U0260,S628370,Landing,2025-06-17 23:00:00,Paid,2025-06,Mobile,USA,Expired,Free
+U0260,S628370,Sign-up,2025-06-18 14:00:00,Paid,2025-06,,USA,Expired,Free
+U0261,S988459,Landing,2025-09-26 10:00:00,Organic,2025-09,Desktop,UAE,Expired,Free
+U0261,S988459,Sign-up,2025-09-25 18:00:00,Organic,2025-09,Desktop,UAE,Active,Free
+U0261,S988459,Onboarding,2025-09-29 00:00:00,Organic,2025-09,Tablet,Pakistan,Expired,Free
+U0261,S988459,First Feature Use,2025-09-29 08:00:00,Organic,2025-09,Mobile,Pakistan,Active,Free
+U0261,S988459,Upgrade,2025-09-28 23:00:00,Organic,2025-09,Tablet,USA,Expired,Free
+U0262,S635740,Landing,2025-06-01 04:00:00,Paid,2025-05,Tablet,UAE,Active,Free
+U0262,S635740,Sign-up,2025-05-28 01:00:00,Paid,2025-05,Tablet,UAE,Active,Free
+U0262,S635740,Onboarding,2025-05-31 07:00:00,Paid,2025-05,Mobile,India,Expired,Free
+U0262,S635740,First Feature Use,2025-06-01 00:00:00,Paid,2025-05,Tablet,USA,Active,Free
+U0263,S913848,Landing,2025-05-31 09:00:00,Paid,2025-05,Desktop,India,Active,Free
+U0263,S913848,Sign-up,2025-06-02 00:00:00,Paid,2025-05,Desktop,UK,Expired,Free
+U0264,S683635,Landing,2025-10-27 00:00:00,Organic,2025-10,Mobile,UK,Active,Free
+U0265,S141880,Landing,2025-11-05 06:00:00,Organic,2025-11,Tablet,UAE,Expired,Free
+U0265,S141880,Sign-up,2025-11-06 05:00:00,Organic,2025-11,Tablet,USA,Expired,Free
+U0266,S176421,Landing,2025-09-29 05:00:00,Paid,2025-09,Tablet,USA,Expired,Free
+U0266,S176421,Sign-up,2025-09-27 11:00:00,Paid,2025-09,Mobile,India,Active,Free
+U0266,S176421,Onboarding,2025-09-30 12:00:00,Paid,2025-09,Mobile,UAE,Expired,Free
+U0266,S176421,First Feature Use,2025-09-28 13:00:00,Paid,2025-09,Desktop,USA,Expired,Free
+U0267,S688602,Landing,2025-01-09 21:00:00,Referral,2025-01,Tablet,India,Active,Free
+U0267,S688602,Sign-up,2025-01-08 15:00:00,Referral,2025-01,Mobile,UK,Active,Free
+U0267,S688602,Onboarding,2025-01-07 01:00:00,Referral,2025-01,Mobile,USA,Expired,Free
+U0267,S688602,First Feature Use,2025-01-05 03:00:00,Referral,2025-01,Tablet,UAE,Expired,Free
+U0268,S610451,Landing,2025-04-13 02:00:00,Organic,2025-04,Tablet,USA,Active,Free
+U0268,S610451,Sign-up,2025-04-12 08:00:00,Organic,2025-04,Desktop,India,Active,Free
+U0268,S610451,Onboarding,2025-04-13 14:00:00,Organic,2025-04,Tablet,UK,Active,Free
+U0268,S610451,First Feature Use,2025-04-10 02:00:00,Organic,2025-04,Tablet,UK,Active,Free
+U0269,S883171,Landing,2025-08-25 08:00:00,Paid,2025-08,Tablet,Pakistan,Active,Free
+U0269,S883171,Sign-up,2025-08-28 20:00:00,Paid,2025-08,Mobile,UK,Expired,Free
+U0269,S883171,Onboarding,2025-08-26 09:00:00,Paid,2025-08,Tablet,UK,Expired,Free
+U0269,S883171,First Feature Use,2025-08-25 16:00:00,Paid,2025-08,Desktop,UK,Active,Free
+U0269,S883171,Upgrade,2025-08-26 20:00:00,Paid,2025-08,Desktop,USA,Active,Free
+U0270,S834928,Landing,2025-09-16 14:00:00,Referral,2025-09,Tablet,Pakistan,Expired,Free
+U0270,S834928,Sign-up,2025-09-19 01:00:00,Referral,2025-09,Mobile,UK,Expired,Free
+U0271,S962057,Landing,2025-03-24 21:00:00,Paid,2025-03,Mobile,India,Expired,Free
+U0271,S962057,Sign-up,2025-03-25 14:00:00,Paid,2025-03,Tablet,UAE,Active,Free
+U0271,S962057,Onboarding,2025-03-24 22:00:00,Paid,2025-03,Tablet,India,Active,Free
+U0271,S962057,First Feature Use,2025-03-22 05:00:00,Paid,2025-03,Desktop,USA,Expired,Free
+U0272,S663244,Landing,2025-06-07 03:00:00,Paid,2025-06,Mobile,USA,Active,Free
+U0272,S663244,Sign-up,2025-06-06 20:00:00,Paid,2025-06,Desktop,India,Expired,Free
+U0272,S663244,Onboarding,2025-06-07 00:00:00,Paid,2025-06,Desktop,India,Active,Free
+U0273,S992744,Landing,2025-08-26 01:00:00,Paid,2025-08,Tablet,USA,Expired,Free
+U0273,S992744,Sign-up,2025-08-26 18:00:00,Paid,2025-08,Mobile,India,Active,Free
+U0273,S992744,Onboarding,2025-08-25 12:00:00,Paid,2025-08,Mobile,USA,Active,Free
+U0273,S992744,First Feature Use,2025-08-29 19:00:00,Paid,2025-08,Desktop,UAE,Expired,Free
+U0273,S992744,Upgrade,2025-08-27 09:00:00,Paid,2025-08,Mobile,USA,Expired,Free
+U0274,S693024,Landing,2025-08-11 19:00:00,Paid,2025-08,Tablet,UK,Expired,Free
+U0274,S693024,Sign-up,2025-08-12 11:00:00,Paid,2025-08,Mobile,India,Expired,Free
+U0274,S693024,Onboarding,2025-08-12 16:00:00,Paid,2025-08,Mobile,UK,Expired,Free
+U0275,S476167,Landing,2025-10-14 09:00:00,Paid,2025-10,Desktop,USA,Active,Free
+U0275,S476167,Sign-up,2025-10-11 09:00:00,Paid,2025-10,Tablet,Pakistan,Active,Free
+U0275,S476167,Onboarding,2025-10-14 18:00:00,Paid,2025-10,Desktop,USA,Active,Free
+U0275,S476167,First Feature Use,2025-10-14 08:00:00,Paid,2025-10,Tablet,USA,Expired,Free
+U0275,S476167,Upgrade,2025-10-14 02:00:00,Paid,2025-10,Tablet,India,Active,Premium
+U0276,S669868,Landing,2025-09-02 03:00:00,Referral,2025-08,Tablet,UAE,Active,Free
+U0276,S669868,Sign-up,2025-09-01 11:00:00,Referral,2025-08,Tablet,USA,Active,Free
+U0276,S669868,Onboarding,2025-09-01 02:00:00,Referral,2025-08,Mobile,USA,Active,Free
+U0276,S669868,First Feature Use,2025-09-02 12:00:00,Referral,2025-08,Desktop,USA,Active,Free
+U0277,S893988,Landing,2025-03-26 12:00:00,Paid,2025-03,Desktop,UK,Expired,Free
+U0277,S893988,Sign-up,2025-03-23 05:00:00,Paid,2025-03,Desktop,UK,Active,Free
+U0278,S165914,Landing,2025-01-24 01:00:00,Organic,2025-01,Mobile,UK,Active,Free
+U0278,S165914,Sign-up,2025-01-22 05:00:00,Organic,2025-01,Tablet,UAE,Active,Free
+U0278,S165914,Onboarding,2025-01-25 18:00:00,Organic,2025-01,Tablet,UAE,Expired,Free
+U0279,S706739,Landing,2025-07-14 18:00:00,Paid,2025-07,Mobile,UK,Active,Free
+U0279,S706739,Sign-up,2025-07-14 18:00:00,Paid,2025-07,Mobile,UAE,Expired,Free
+U0279,S706739,Onboarding,2025-07-14 14:00:00,Paid,2025-07,Mobile,USA,Active,Free
+U0279,S706739,First Feature Use,2025-07-14 16:00:00,Paid,2025-07,Desktop,UK,Active,Free
+U0280,S341162,Landing,2025-05-24 15:00:00,Organic,2025-05,Tablet,India,Expired,Free
+U0280,S341162,Sign-up,2025-05-28 07:00:00,Organic,2025-05,Mobile,Pakistan,Expired,Free
+U0280,S341162,Onboarding,2025-05-27 14:00:00,Organic,2025-05,Mobile,UK,Active,Free
+U0280,S341162,First Feature Use,2025-05-27 03:00:00,Organic,2025-05,Desktop,UK,Active,Free
+U0281,S355506,Landing,2025-10-31 07:00:00,Organic,2025-10,Desktop,UAE,Active,Free
+U0281,S355506,Sign-up,2025-11-02 18:00:00,Organic,2025-10,Mobile,USA,Active,Free
+U0281,S355506,Onboarding,2025-11-04 16:00:00,Organic,2025-10,Tablet,UAE,Active,Free
+U0281,S355506,First Feature Use,2025-11-01 03:00:00,Organic,2025-10,Mobile,USA,Expired,Free
+U0282,S605065,Landing,2025-11-07 07:00:00,Organic,2025-11,Tablet,USA,Expired,Free
+U0282,S605065,Sign-up,2025-11-04 21:00:00,Organic,2025-11,Tablet,UAE,Expired,Free
+U0282,S605065,Onboarding,2025-11-07 04:00:00,Organic,2025-11,Tablet,Pakistan,Active,Free
+U0283,S496583,Landing,2025-01-11 16:00:00,Organic,2025-01,Tablet,UK,Active,Free
+U0283,S496583,Sign-up,2025-01-12 05:00:00,Organic,2025-01,Desktop,India,Expired,Free
+U0284,S744610,Landing,2025-09-15 11:00:00,Paid,2025-09,Mobile,India,Active,Free
+U0285,S912510,Landing,2025-09-28 17:00:00,Paid,2025-09,Tablet,UK,Active,Free
+U0285,S912510,Sign-up,2025-09-30 00:00:00,Paid,2025-09,Mobile,UK,Expired,Free
+U0286,S717661,Landing,2025-10-26 13:00:00,Referral,2025-10,Desktop,UAE,Expired,Free
+U0286,S717661,Sign-up,2025-10-23 08:00:00,Referral,2025-10,Desktop,Pakistan,Active,Free
+U0286,S717661,Onboarding,2025-10-25 01:00:00,Referral,2025-10,Tablet,Pakistan,Active,Free
+U0286,S717661,First Feature Use,2025-10-24 00:00:00,Referral,2025-10,Tablet,India,Expired,Free
+U0286,S717661,Upgrade,2025-10-24 04:00:00,Referral,2025-10,Mobile,Pakistan,Active,Premium
+U0287,S783226,Landing,2025-10-06 00:00:00,Paid,2025-10,Desktop,UK,Expired,Free
+U0287,S783226,Sign-up,2025-10-02 22:00:00,Paid,2025-10,Mobile,USA,Expired,Free
+U0287,S783226,Onboarding,2025-10-03 08:00:00,Paid,2025-10,Mobile,USA,Expired,Free
+U0287,S783226,First Feature Use,2025-10-06 03:00:00,Paid,2025-10,Tablet,UK,Active,Free
+U0288,S996531,Landing,2025-04-30 03:00:00,Referral,2025-04,Mobile,USA,Active,Free
+U0288,S996531,Sign-up,2025-04-28 20:00:00,Referral,2025-04,Mobile,Pakistan,Active,Free
+U0288,S996531,Onboarding,2025-05-02 09:00:00,Referral,2025-04,Desktop,UK,Expired,Free
+U0288,S996531,First Feature Use,2025-04-28 11:00:00,Referral,2025-04,Desktop,UAE,Active,Free
+U0288,S996531,Upgrade,2025-04-29 23:00:00,Referral,2025-04,Desktop,USA,Active,Premium
+U0289,S520106,Landing,2025-05-31 08:00:00,Paid,2025-05,Desktop,UK,Expired,Free
+U0289,S520106,Sign-up,2025-05-27 01:00:00,Paid,2025-05,Desktop,USA,Expired,Free
+U0289,S520106,Onboarding,2025-05-28 00:00:00,Paid,2025-05,Desktop,USA,Active,Free
+U0290,S745073,Landing,2025-07-08 03:00:00,Organic,2025-07,Mobile,UAE,Expired,Free
+U0290,S745073,Sign-up,2025-07-06 03:00:00,Organic,2025-07,Tablet,India,Active,Free
+U0290,S745073,Onboarding,2025-07-07 22:00:00,Organic,2025-07,Tablet,Pakistan,Active,Free
+U0290,S745073,First Feature Use,2025-07-06 22:00:00,Organic,2025-07,Mobile,USA,Expired,Free
+U0291,S464354,Landing,2025-04-29 01:00:00,Referral,2025-04,Desktop,UAE,Active,Free
+U0291,S464354,Sign-up,2025-04-28 04:00:00,Referral,2025-04,Tablet,Pakistan,Active,Free
+U0291,S464354,Onboarding,2025-04-28 16:00:00,Referral,2025-04,Mobile,UAE,Active,Free
+U0292,S941945,Landing,2025-10-06 01:00:00,Paid,2025-10,Mobile,UK,Expired,Free
+U0293,S690525,Landing,2025-06-25 10:00:00,Paid,2025-06,Tablet,UK,Active,Free
+U0294,S605382,Landing,2025-07-18 14:00:00,Organic,2025-07,Tablet,India,Expired,Free
+U0294,S605382,Sign-up,2025-07-17 04:00:00,Organic,2025-07,Mobile,USA,Active,Free
+U0295,S834861,Landing,2025-05-28 09:00:00,Referral,2025-05,Tablet,India,Expired,Free
+U0295,S834861,Sign-up,2025-05-29 16:00:00,Referral,2025-05,Mobile,India,Expired,Free
+U0295,S834861,Onboarding,2025-05-28 23:00:00,Referral,2025-05,Tablet,India,Expired,Free
+U0296,S872918,Landing,2025-05-05 02:00:00,Organic,2025-05,Desktop,India,Active,Free
+U0297,S976960,Landing,2025-02-26 15:00:00,Paid,2025-02,Tablet,Pakistan,Active,Free
+U0297,S976960,Sign-up,2025-02-28 12:00:00,Paid,2025-02,Mobile,UAE,Expired,Free
+U0297,S976960,Onboarding,2025-02-26 15:00:00,Paid,2025-02,Tablet,UAE,Expired,Free
+U0298,S291755,Landing,2025-05-24 16:00:00,Referral,2025-05,Desktop,USA,Expired,Free
+U0298,S291755,Sign-up,2025-05-26 13:00:00,Referral,2025-05,Tablet,Pakistan,Expired,Free
+U0299,S512842,Landing,2025-08-26 17:00:00,Referral,2025-08,Tablet,UK,Expired,Free
+U0300,S822689,Landing,2025-04-18 23:00:00,Organic,2025-04,Tablet,UAE,Active,Free
+U0300,S822689,Sign-up,2025-04-19 10:00:00,Organic,2025-04,Mobile,USA,Expired,Free
+U0300,S822689,Onboarding,2025-04-19 22:00:00,Organic,2025-04,Desktop,UK,Expired,Free
+U0300,S822689,First Feature Use,2025-04-19 02:00:00,Organic,2025-04,Mobile,UAE,Expired,Free
+U0301,S995825,Landing,2025-04-06 15:00:00,Organic,2025-04,Desktop,Pakistan,Expired,Free
+U0301,S995825,Sign-up,2025-04-07 06:00:00,Organic,2025-04,Desktop,USA,Expired,Free
+U0302,S997904,Landing,2025-03-22 18:00:00,Organic,2025-03,Tablet,USA,Expired,Free
+U0302,S997904,Sign-up,2025-03-22 04:00:00,Organic,2025-03,Mobile,UAE,Expired,Free
+U0302,S997904,Onboarding,2025-03-20 23:00:00,Organic,2025-03,Tablet,Pakistan,Expired,Free
+U0302,S997904,First Feature Use,2025-03-18 12:00:00,Organic,2025-03,Tablet,India,Active,Free
+U0302,S997904,Upgrade,2025-03-19 03:00:00,Organic,2025-03,Mobile,UK,Active,Premium
+U0303,S880762,Landing,2025-07-05 08:00:00,Organic,2025-07,Mobile,Pakistan,Expired,Free
+U0303,S880762,Sign-up,2025-07-04 15:00:00,Organic,2025-07,Mobile,USA,Active,Free
+U0304,S704875,Landing,2025-10-04 21:00:00,Paid,2025-10,Mobile,USA,Expired,Free
+U0304,S704875,Sign-up,2025-10-07 03:00:00,Paid,2025-10,Tablet,UK,Active,Free
+U0305,S499581,Landing,2025-11-24 15:00:00,Paid,2025-11,Desktop,UAE,Expired,Free
+U0306,S761938,Landing,2025-02-09 18:00:00,Paid,2025-02,Mobile,USA,Expired,Free
+U0306,S761938,Sign-up,2025-02-07 10:00:00,Paid,2025-02,Mobile,UAE,Expired,Free
+U0306,S761938,Onboarding,2025-02-08 04:00:00,Paid,2025-02,Desktop,India,Active,Free
+U0306,S761938,First Feature Use,2025-02-06 16:00:00,Paid,2025-02,Tablet,India,Expired,Free
+U0307,S880009,Landing,2025-04-20 22:00:00,Paid,2025-04,Desktop,Pakistan,Expired,Free
+U0307,S880009,Sign-up,2025-04-20 19:00:00,Paid,2025-04,Desktop,Pakistan,Expired,Free
+U0307,S880009,Onboarding,2025-04-21 07:00:00,Paid,2025-04,Desktop,Pakistan,Expired,Free
+U0307,S880009,First Feature Use,2025-04-19 15:00:00,Paid,2025-04,Desktop,India,Expired,Free
+U0308,S564687,Landing,2025-09-27 03:00:00,Paid,2025-09,Desktop,UAE,Expired,Free
+U0309,S599284,Landing,2025-05-22 21:00:00,Paid,2025-05,Desktop,USA,Expired,Free
+U0309,S599284,Sign-up,2025-05-23 08:00:00,Paid,2025-05,Tablet,USA,Expired,Free
+U0309,S599284,Onboarding,2025-05-22 19:00:00,Paid,2025-05,Tablet,USA,Expired,Free
+U0310,S464032,Landing,2025-02-15 00:00:00,Paid,2025-02,Tablet,India,Expired,Free
+U0310,S464032,Sign-up,2025-02-16 12:00:00,Paid,2025-02,Mobile,USA,Active,Free
+U0310,S464032,Onboarding,2025-02-18 16:00:00,Paid,2025-02,Mobile,UK,Expired,Free
+U0310,S464032,First Feature Use,2025-02-15 01:00:00,Paid,2025-02,Mobile,UAE,Active,Free
+U0310,S464032,Upgrade,2025-02-19 05:00:00,Paid,2025-02,Desktop,USA,Expired,Free
+U0311,S531736,Landing,2025-07-23 04:00:00,Referral,2025-07,Mobile,Pakistan,Expired,Free
+U0311,S531736,Sign-up,2025-07-25 08:00:00,Referral,2025-07,Desktop,USA,Expired,Free
+U0311,S531736,Onboarding,2025-07-23 12:00:00,Referral,2025-07,Tablet,USA,Expired,Free
+U0311,S531736,First Feature Use,2025-07-24 04:00:00,Referral,2025-07,Desktop,Pakistan,Active,Free
+U0312,S243260,Landing,2025-08-22 02:00:00,Organic,2025-08,Desktop,Pakistan,Active,Free
+U0312,S243260,Sign-up,2025-08-22 23:00:00,Organic,2025-08,Desktop,UAE,Expired,Free
+U0312,S243260,Onboarding,2025-08-22 16:00:00,Organic,2025-08,Tablet,UK,Active,Free
+U0312,S243260,First Feature Use,2025-08-23 05:00:00,Organic,2025-08,Desktop,India,Active,Free
+U0312,S243260,Upgrade,2025-08-24 15:00:00,Organic,2025-08,Desktop,UAE,Expired,Premium
+U0313,S923892,Landing,2025-08-26 18:00:00,Paid,2025-08,Desktop,,Expired,Free
+U0313,S923892,Sign-up,2025-08-26 09:00:00,Paid,2025-08,Tablet,UK,Active,Free
+U0313,S923892,Onboarding,2025-08-27 00:00:00,Paid,2025-08,Mobile,UK,Active,Free
+U0313,S923892,First Feature Use,2025-08-26 15:00:00,Paid,2025-08,,India,Expired,Free
+U0314,S908688,Landing,2025-01-19 02:00:00,Referral,2025-01,Mobile,UK,Expired,Free
+U0314,S908688,Sign-up,2025-01-22 23:00:00,Referral,2025-01,Mobile,India,Active,Free
+U0314,S908688,Onboarding,2025-01-21 23:00:00,Referral,2025-01,Tablet,USA,Active,Free
+U0314,S908688,First Feature Use,2025-01-19 08:00:00,Referral,2025-01,Mobile,UAE,Active,Free
+U0315,S477934,Landing,2025-04-23 06:00:00,Referral,2025-04,Tablet,UK,Expired,Free
+U0316,S115799,Landing,2025-10-27 01:00:00,Organic,2025-10,Desktop,USA,Expired,Free
+U0316,S115799,Sign-up,2025-10-30 16:00:00,Organic,2025-10,Tablet,India,Expired,Free
+U0317,S908239,Landing,2025-09-17 01:00:00,Organic,2025-09,Tablet,Pakistan,Active,Free
+U0317,S908239,Sign-up,2025-09-14 21:00:00,Organic,2025-09,Tablet,India,Active,Free
+U0317,S908239,Onboarding,2025-09-13 16:00:00,Organic,2025-09,Mobile,India,Expired,Free
+U0318,S685472,Landing,2025-08-13 02:00:00,Paid,2025-08,Tablet,UK,Expired,Free
+U0319,S859587,Landing,2025-09-09 00:00:00,Organic,2025-09,Desktop,USA,Expired,Free
+U0319,S859587,Sign-up,2025-09-07 17:00:00,Organic,2025-09,Tablet,UK,Expired,Free
+U0319,S859587,Onboarding,2025-09-10 15:00:00,Organic,2025-09,Tablet,USA,Active,Free
+U0319,S859587,First Feature Use,2025-09-06 08:00:00,Organic,2025-09,Tablet,India,Expired,Free
+U0320,S410035,Landing,2025-07-09 16:00:00,Referral,2025-07,Mobile,India,Active,Free
+U0320,S410035,Sign-up,2025-07-10 07:00:00,Referral,2025-07,Mobile,USA,Active,Free
+U0321,S436272,Landing,2025-10-04 00:00:00,Paid,2025-10,Tablet,UK,Active,Free
+U0322,S742818,Landing,2025-11-30 00:00:00,Organic,2025-11,Desktop,India,Active,Free
+U0322,S742818,Sign-up,2025-11-26 01:00:00,Organic,2025-11,Desktop,UK,Active,Free
+U0322,S742818,Onboarding,2025-11-25 12:00:00,Organic,2025-11,Desktop,USA,Expired,Free
+U0322,S742818,First Feature Use,2025-11-28 12:00:00,Organic,2025-11,Mobile,USA,Expired,Free
+U0322,S742818,Upgrade,2025-11-25 06:00:00,Organic,2025-11,Mobile,India,Active,Free
+U0323,S318877,Landing,2025-08-28 07:00:00,Paid,2025-08,Mobile,USA,Expired,Free
+U0324,S961957,Landing,2025-01-31 10:00:00,Organic,2025-01,Tablet,Pakistan,Active,Free
+U0325,S974991,Landing,2025-09-25 19:00:00,Organic,2025-09,Tablet,India,Active,Free
+U0325,S974991,Sign-up,2025-09-25 23:00:00,Organic,2025-09,Tablet,USA,Expired,Free
+U0325,S974991,Onboarding,2025-09-26 23:00:00,Organic,2025-09,Desktop,USA,Expired,Free
+U0325,S974991,First Feature Use,2025-09-26 14:00:00,Organic,2025-09,Mobile,UK,Active,Free
+U0325,S974991,Upgrade,2025-09-23 21:00:00,Organic,2025-09,Desktop,USA,Expired,Premium
+U0326,S789472,Landing,2025-08-19 19:00:00,Organic,2025-08,Mobile,USA,Expired,Free
+U0327,S985893,Landing,2025-08-10 17:00:00,Organic,2025-08,Tablet,India,Active,Free
+U0328,S493282,Landing,2025-05-11 00:00:00,Paid,2025-05,Tablet,Pakistan,Expired,Free
+U0328,S493282,Sign-up,2025-05-14 04:00:00,Paid,2025-05,Desktop,USA,Active,Free
+U0328,S493282,Onboarding,2025-05-15 17:00:00,Paid,2025-05,Mobile,Pakistan,Expired,Free
+U0329,S332665,Landing,2025-01-17 00:00:00,Organic,2025-01,Tablet,UAE,Active,Free
+U0330,S198867,Landing,2025-03-25 07:00:00,Organic,2025-03,Mobile,Pakistan,Expired,Free
+U0330,S198867,Sign-up,2025-03-24 00:00:00,Organic,2025-03,Desktop,Pakistan,Expired,Free
+U0330,S198867,Onboarding,2025-03-25 05:00:00,Organic,2025-03,Mobile,India,Expired,Free
+U0330,S198867,First Feature Use,2025-03-25 09:00:00,Organic,2025-03,Tablet,USA,Active,Free
+U0330,S198867,Upgrade,2025-03-24 04:00:00,Organic,2025-03,Tablet,UAE,Active,Premium
+U0331,S182289,Landing,2025-06-30 07:00:00,Paid,2025-06,Mobile,Pakistan,Active,Free
+U0332,S883997,Landing,2025-01-07 16:00:00,Paid,2025-01,Tablet,USA,Active,Free
+U0332,S883997,Sign-up,2025-01-07 17:00:00,Paid,2025-01,Tablet,India,Active,Free
+U0332,S883997,Onboarding,2025-01-06 06:00:00,Paid,2025-01,Tablet,UK,Expired,Free
+U0332,S883997,First Feature Use,2025-01-10 00:00:00,Paid,2025-01,Tablet,USA,Active,Free
+U0333,S332873,Landing,2025-03-19 03:00:00,Organic,2025-03,Mobile,Pakistan,Expired,Free
+U0333,S332873,Sign-up,2025-03-19 16:00:00,Organic,2025-03,Mobile,India,Active,Free
+U0333,S332873,Onboarding,2025-03-19 13:00:00,Organic,2025-03,Tablet,India,Expired,Free
+U0333,S332873,First Feature Use,2025-03-19 02:00:00,Organic,2025-03,Tablet,USA,Active,Free
+U0333,S332873,Upgrade,2025-03-19 23:00:00,Organic,2025-03,Tablet,USA,Active,Free
+U0334,S175124,Landing,2025-06-16 22:00:00,Organic,2025-06,Mobile,India,Expired,Free
+U0334,S175124,Sign-up,2025-06-16 20:00:00,Organic,2025-06,Tablet,Pakistan,Expired,Free
+U0334,S175124,Onboarding,2025-06-15 21:00:00,Organic,2025-06,Mobile,USA,Expired,Free
+U0334,S175124,First Feature Use,2025-06-18 07:00:00,Organic,2025-06,Desktop,UK,Active,Free
+U0335,S957915,Landing,2025-07-12 07:00:00,Organic,2025-07,Tablet,India,Expired,Free
+U0335,S957915,Sign-up,2025-07-11 01:00:00,Organic,2025-07,Mobile,Pakistan,Expired,Free
+U0335,S957915,Onboarding,2025-07-13 09:00:00,Organic,2025-07,,Pakistan,Expired,Free
+U0335,S957915,First Feature Use,2025-07-12 02:00:00,Organic,2025-07,Tablet,USA,Active,Free
+U0336,S313701,Landing,2025-10-08 02:00:00,Paid,2025-10,,USA,Active,Free
+U0336,S313701,Sign-up,2025-10-09 08:00:00,Paid,2025-10,Desktop,Pakistan,Expired,Free
+U0336,S313701,Onboarding,2025-10-09 01:00:00,Paid,2025-10,Tablet,USA,Expired,Free
+U0336,S313701,First Feature Use,2025-10-08 06:00:00,Paid,2025-10,Mobile,Pakistan,Active,Free
+U0337,S507523,Landing,2025-12-06 01:00:00,Paid,2025-12,Desktop,UK,Active,Free
+U0337,S507523,Sign-up,2025-12-08 19:00:00,Paid,2025-12,Mobile,,Active,Free
+U0337,S507523,Onboarding,2025-12-04 23:00:00,Paid,2025-12,Desktop,USA,Expired,Free
+U0337,S507523,First Feature Use,2025-12-06 23:00:00,Paid,2025-12,Tablet,Pakistan,Active,Free
+U0338,S359409,Landing,2025-06-21 21:00:00,Referral,2025-06,Tablet,UAE,Active,Free
+U0338,S359409,Sign-up,2025-06-22 16:00:00,Referral,2025-06,Mobile,Pakistan,Expired,Free
+U0338,S359409,Onboarding,2025-06-24 16:00:00,Referral,2025-06,Mobile,Pakistan,Expired,Free
+U0338,S359409,First Feature Use,2025-06-21 04:00:00,Referral,2025-06,Desktop,UAE,Expired,Free
+U0339,S788842,Landing,2025-07-18 15:00:00,Organic,2025-07,Desktop,UK,Active,Free
+U0339,S788842,Sign-up,2025-07-18 01:00:00,Organic,2025-07,Desktop,UK,Expired,Free
+U0339,S788842,Onboarding,2025-07-19 20:00:00,Organic,2025-07,Tablet,UAE,Expired,Free
+U0340,S668573,Landing,2025-03-15 16:00:00,Organic,2025-03,Tablet,USA,Active,Free
+U0340,S668573,Sign-up,2025-03-14 07:00:00,Organic,2025-03,Desktop,USA,Active,Free
+U0340,S668573,Onboarding,2025-03-13 16:00:00,Organic,2025-03,Desktop,USA,Active,Free
+U0340,S668573,First Feature Use,2025-03-12 23:00:00,Organic,2025-03,Mobile,India,Active,Free
+U0340,S668573,Upgrade,2025-03-16 01:00:00,Organic,2025-03,Mobile,UK,Expired,Premium
+U0341,S564523,Landing,2025-05-24 06:00:00,Paid,2025-05,Tablet,UAE,Active,Free
+U0341,S564523,Sign-up,2025-05-24 04:00:00,Paid,2025-05,Desktop,India,Active,Free
+U0341,S564523,Onboarding,2025-05-22 21:00:00,Paid,2025-05,Desktop,UK,Active,Free
+U0341,S564523,First Feature Use,2025-05-23 16:00:00,Paid,2025-05,Tablet,UK,Expired,Free
+U0341,S564523,Upgrade,2025-05-21 23:00:00,Paid,2025-05,Mobile,UK,Expired,Free
+U0342,S271742,Landing,2025-07-29 01:00:00,Organic,2025-07,Mobile,UK,Active,Free
+U0343,S878427,Landing,2025-04-17 08:00:00,Paid,2025-04,Tablet,UK,Expired,Free
+U0343,S878427,Sign-up,2025-04-19 14:00:00,Paid,2025-04,Mobile,India,Expired,Free
+U0344,S524533,Landing,2025-07-16 02:00:00,Paid,2025-07,Tablet,USA,Active,Free
+U0345,S645940,Landing,2025-01-23 07:00:00,Organic,2025-01,Tablet,USA,Expired,Free
+U0346,S870881,Landing,2025-09-22 06:00:00,Organic,2025-09,Desktop,UAE,Expired,Free
+U0347,S517375,Landing,2025-08-28 16:00:00,Referral,2025-08,Tablet,India,Expired,Free
+U0347,S517375,Sign-up,2025-08-29 10:00:00,Referral,2025-08,Tablet,UK,Active,Free
+U0347,S517375,Onboarding,2025-08-28 20:00:00,Referral,2025-08,Tablet,Pakistan,Active,Free
+U0348,S916558,Landing,2025-10-10 03:00:00,Paid,2025-10,Tablet,India,Expired,Free
+U0348,S916558,Sign-up,2025-10-07 11:00:00,Paid,2025-10,Mobile,UAE,Active,Free
+U0348,S916558,Onboarding,2025-10-10 19:00:00,Paid,2025-10,Tablet,Pakistan,Active,Free
+U0348,S916558,First Feature Use,2025-10-07 14:00:00,Paid,2025-10,Tablet,UK,Expired,Free
+U0348,S916558,Upgrade,2025-10-07 10:00:00,Paid,2025-10,Tablet,UK,Active,Premium
+U0349,S677079,Landing,2025-06-21 22:00:00,Organic,2025-06,Tablet,Pakistan,Expired,Free
+U0349,S677079,Sign-up,2025-06-22 15:00:00,Organic,2025-06,Mobile,UK,Expired,Free
+U0349,S677079,Onboarding,2025-06-24 08:00:00,Organic,2025-06,Desktop,Pakistan,Active,Free
+U0349,S677079,First Feature Use,2025-06-22 01:00:00,Organic,2025-06,Desktop,USA,Expired,Free
+U0350,S112800,Landing,2025-10-09 05:00:00,Paid,2025-10,Mobile,India,Active,Free
+U0351,S717466,Landing,2025-07-30 11:00:00,Paid,2025-07,Tablet,USA,Active,Free
+U0351,S717466,Sign-up,2025-07-29 06:00:00,Paid,2025-07,Desktop,India,Active,Free
+U0351,S717466,Onboarding,2025-08-01 11:00:00,Paid,2025-07,Mobile,Pakistan,Active,Free
+U0351,S717466,First Feature Use,2025-08-02 13:00:00,Paid,2025-07,Desktop,USA,Expired,Free
+U0352,S447195,Landing,2025-02-28 16:00:00,Referral,2025-02,Tablet,USA,Active,Free
+U0352,S447195,Sign-up,2025-02-27 10:00:00,Referral,2025-02,Tablet,USA,Expired,Free
+U0352,S447195,Onboarding,2025-03-01 23:00:00,Referral,2025-02,Desktop,Pakistan,Expired,Free
+U0352,S447195,First Feature Use,2025-02-26 17:00:00,Referral,2025-02,Mobile,UK,Active,Free
+U0353,S895284,Landing,2025-02-05 19:00:00,Organic,2025-02,Mobile,USA,Active,Free
+U0353,S895284,Sign-up,2025-02-06 17:00:00,Organic,2025-02,Desktop,USA,Active,Free
+U0353,S895284,Onboarding,2025-02-03 13:00:00,Organic,2025-02,Tablet,USA,Active,Free
+U0353,S895284,First Feature Use,2025-02-05 13:00:00,Organic,2025-02,Tablet,USA,Expired,Free
+U0353,S895284,Upgrade,2025-02-05 06:00:00,Organic,2025-02,Tablet,UAE,Expired,Premium
+U0354,S236014,Landing,2025-09-26 15:00:00,Paid,2025-09,Mobile,India,Active,Free
+U0355,S843007,Landing,2025-01-04 22:00:00,Organic,2025-01,Desktop,USA,Expired,Free
+U0355,S843007,Sign-up,2025-01-03 04:00:00,Organic,2025-01,Desktop,UAE,Expired,Free
+U0355,S843007,Onboarding,2025-01-03 23:00:00,Organic,2025-01,Tablet,India,Active,Free
+U0356,S771736,Landing,2025-05-12 15:00:00,Organic,2025-05,Mobile,USA,Expired,Free
+U0357,S904291,Landing,2025-06-20 22:00:00,Organic,2025-06,Desktop,UAE,Expired,Free
+U0357,S904291,Sign-up,2025-06-24 22:00:00,Organic,2025-06,Tablet,UK,Expired,Free
+U0357,S904291,Onboarding,2025-06-24 06:00:00,Organic,2025-06,Desktop,India,Expired,Free
+U0357,S904291,First Feature Use,2025-06-20 19:00:00,Organic,2025-06,Tablet,UK,Expired,Free
+U0357,S904291,Upgrade,2025-06-22 11:00:00,Organic,2025-06,Mobile,Pakistan,Expired,Premium
+U0358,S682145,Landing,2025-10-27 17:00:00,Paid,2025-10,Mobile,Pakistan,Active,Free
+U0358,S682145,Sign-up,2025-10-24 11:00:00,Paid,2025-10,Desktop,UAE,Expired,Free
+U0359,S756944,Landing,2025-10-21 15:00:00,Paid,2025-10,Tablet,UAE,Active,Free
+U0359,S756944,Sign-up,2025-10-21 10:00:00,Paid,2025-10,Mobile,Pakistan,Expired,Free
+U0359,S756944,Onboarding,2025-10-24 16:00:00,Paid,2025-10,Desktop,UAE,Expired,Free
+U0359,S756944,First Feature Use,2025-10-24 10:00:00,Paid,2025-10,Mobile,India,Expired,Free
+U0360,S283514,Landing,2025-04-16 08:00:00,Organic,2025-04,Tablet,Pakistan,Expired,Free
+U0361,S624344,Landing,2025-09-07 19:00:00,Organic,2025-09,Mobile,UAE,Active,Free
+U0362,S906859,Landing,2025-12-14 02:00:00,Referral,2025-12,Tablet,Pakistan,Expired,Free
+U0363,S506415,Landing,2025-03-04 15:00:00,Paid,2025-03,Tablet,Pakistan,Expired,Free
+U0363,S506415,Sign-up,2025-03-03 11:00:00,Paid,2025-03,Desktop,Pakistan,Expired,Free
+U0364,S123572,Landing,2025-11-25 17:00:00,Paid,2025-11,Desktop,India,Expired,Free
+U0365,S390088,Landing,2025-12-13 07:00:00,Paid,2025-12,Tablet,USA,Active,Free
+U0365,S390088,Sign-up,2025-12-11 02:00:00,Paid,2025-12,Tablet,UAE,Expired,Free
+U0365,S390088,Onboarding,2025-12-11 10:00:00,Paid,2025-12,Desktop,UAE,Active,Free
+U0365,S390088,First Feature Use,2025-12-10 21:00:00,Paid,2025-12,Desktop,UAE,Expired,Free
+U0365,S390088,Upgrade,2025-12-12 21:00:00,Paid,2025-12,Mobile,Pakistan,Active,Free
+U0366,S593602,Landing,2025-02-28 18:00:00,Referral,2025-02,Tablet,UK,Expired,Free
+U0366,S593602,Sign-up,2025-02-25 15:00:00,Referral,2025-02,Mobile,India,Active,Free
+U0366,S593602,Onboarding,2025-02-28 22:00:00,Referral,2025-02,Mobile,USA,Active,Free
+U0366,S593602,First Feature Use,2025-02-24 11:00:00,Referral,2025-02,Tablet,UK,Active,Free
+U0367,S577714,Landing,2026-01-01 12:00:00,Organic,2025-12,Desktop,India,Active,Free
+U0368,S746910,Landing,2025-07-21 18:00:00,Organic,2025-07,Mobile,UK,Expired,Free
+U0368,S746910,Sign-up,2025-07-20 03:00:00,Organic,2025-07,Desktop,UK,Active,Free
+U0369,S468512,Landing,2025-05-28 05:00:00,Paid,2025-05,Tablet,India,Active,Free
+U0370,S525392,Landing,2025-06-19 03:00:00,Referral,2025-06,Mobile,India,Active,Free
+U0370,S525392,Sign-up,2025-06-18 22:00:00,Referral,2025-06,Desktop,UK,Expired,Free
+U0370,S525392,Onboarding,2025-06-16 08:00:00,Referral,2025-06,Mobile,India,Expired,Free
+U0370,S525392,First Feature Use,2025-06-20 04:00:00,Referral,2025-06,Mobile,USA,Expired,Free
+U0371,S670977,Landing,2025-12-10 11:00:00,Paid,2025-12,Mobile,Pakistan,Expired,Free
+U0371,S670977,Sign-up,2025-12-07 17:00:00,Paid,2025-12,Tablet,Pakistan,Expired,Free
+U0371,S670977,Onboarding,2025-12-06 22:00:00,Paid,2025-12,Mobile,UK,Active,Free
+U0372,S727320,Landing,2025-07-14 17:00:00,Organic,2025-07,Tablet,Pakistan,Active,Free
+U0372,S727320,Sign-up,2025-07-17 12:00:00,Organic,2025-07,Desktop,UK,Expired,Free
+U0372,S727320,Onboarding,2025-07-16 01:00:00,Organic,2025-07,Tablet,USA,Expired,Free
+U0372,S727320,First Feature Use,2025-07-15 01:00:00,Organic,2025-07,Desktop,UAE,Expired,Free
+U0372,S727320,Upgrade,2025-07-17 00:00:00,Organic,2025-07,Tablet,UAE,Expired,Premium
+U0373,S193624,Landing,2025-09-21 22:00:00,Paid,2025-09,Desktop,Pakistan,Expired,Free
+U0373,S193624,Sign-up,2025-09-19 14:00:00,Paid,2025-09,Mobile,Pakistan,Active,Free
+U0373,S193624,Onboarding,2025-09-21 07:00:00,Paid,2025-09,Tablet,USA,Expired,Free
+U0373,S193624,First Feature Use,2025-09-22 08:00:00,Paid,2025-09,Mobile,UK,Expired,Free
+U0374,S500099,Landing,2025-12-07 22:00:00,Organic,2025-12,Mobile,India,Expired,Free
+U0374,S500099,Sign-up,2025-12-10 15:00:00,Organic,2025-12,Tablet,India,Active,Free
+U0374,S500099,Onboarding,2025-12-06 01:00:00,Organic,2025-12,Desktop,Pakistan,Active,Free
+U0374,S500099,First Feature Use,2025-12-09 20:00:00,Organic,2025-12,Mobile,UK,Active,Free
+U0375,S188776,Landing,2025-08-25 17:00:00,Organic,2025-08,Tablet,UK,Active,Free
+U0376,S576467,Landing,2025-08-21 15:00:00,Paid,2025-08,Tablet,India,Expired,Free
+U0376,S576467,Sign-up,2025-08-21 04:00:00,Paid,2025-08,Tablet,USA,Expired,Free
+U0376,S576467,Onboarding,2025-08-19 04:00:00,Paid,2025-08,Desktop,USA,Expired,Free
+U0376,S576467,First Feature Use,2025-08-22 18:00:00,Paid,2025-08,Mobile,Pakistan,Expired,Free
+U0376,S576467,Upgrade,2025-08-22 16:00:00,Paid,2025-08,Desktop,India,Expired,Premium
+U0377,S642060,Landing,2025-02-18 15:00:00,Organic,2025-02,Tablet,USA,Expired,Free
+U0377,S642060,Sign-up,2025-02-18 06:00:00,Organic,2025-02,Desktop,UAE,Active,Free
+U0377,S642060,Onboarding,2025-02-17 12:00:00,Organic,2025-02,Mobile,USA,Expired,Free
+U0377,S642060,First Feature Use,2025-02-18 01:00:00,Organic,2025-02,Tablet,UAE,Expired,Free
+U0378,S470057,Landing,2025-06-02 04:00:00,Referral,2025-05,Tablet,UAE,Active,Free
+U0378,S470057,Sign-up,2025-06-01 08:00:00,Referral,2025-05,Mobile,USA,Active,Free
+U0378,S470057,Onboarding,2025-06-01 01:00:00,Referral,2025-05,Desktop,UAE,Active,Free
+U0378,S470057,First Feature Use,2025-05-30 12:00:00,Referral,2025-05,Mobile,Pakistan,Active,Free
+U0378,S470057,Upgrade,2025-05-31 16:00:00,Referral,2025-05,Desktop,UAE,Expired,Free
+U0379,S745710,Landing,2025-01-11 05:00:00,Organic,2025-01,Desktop,USA,Active,Free
+U0380,S791174,Landing,2025-05-15 06:00:00,Organic,2025-05,Mobile,India,Active,Free
+U0381,S459502,Landing,2025-11-01 19:00:00,Referral,2025-11,Mobile,UK,Expired,Free
+U0382,S349505,Landing,2025-11-23 06:00:00,Paid,2025-11,Tablet,UAE,Active,Free
+U0382,S349505,Sign-up,2025-11-23 06:00:00,Paid,2025-11,Desktop,UK,Expired,Free
+U0382,S349505,Onboarding,2025-11-25 12:00:00,Paid,2025-11,Mobile,UK,Active,Free
+U0383,S498249,Landing,2025-09-04 06:00:00,Paid,2025-08,Mobile,UK,Expired,Free
+U0383,S498249,Sign-up,2025-09-02 19:00:00,Paid,2025-08,Tablet,Pakistan,Active,Free
+U0383,S498249,Onboarding,2025-09-04 21:00:00,Paid,2025-08,Tablet,UAE,Expired,Free
+U0383,S498249,First Feature Use,2025-09-03 06:00:00,Paid,2025-08,Tablet,UAE,Expired,Free
+U0383,S498249,Upgrade,2025-09-01 10:00:00,Paid,2025-08,Mobile,Pakistan,Expired,Premium
+U0384,S583507,Landing,2025-05-07 03:00:00,Paid,2025-05,Desktop,USA,Expired,Free
+U0385,S810638,Landing,2025-06-10 01:00:00,Paid,2025-06,Mobile,Pakistan,Active,Free
+U0385,S810638,Sign-up,2025-06-13 15:00:00,Paid,2025-06,Mobile,UAE,Active,Free
+U0385,S810638,Onboarding,2025-06-13 20:00:00,Paid,2025-06,Mobile,UAE,Active,Free
+U0386,S135695,Landing,2025-02-02 12:00:00,Organic,2025-01,Desktop,USA,Active,Free
+U0387,S842470,Landing,2025-11-09 00:00:00,Referral,2025-11,Desktop,Pakistan,Active,Free
+U0387,S842470,Sign-up,2025-11-07 08:00:00,Referral,2025-11,Mobile,UK,Active,Free
+U0387,S842470,Onboarding,2025-11-09 09:00:00,Referral,2025-11,Mobile,UAE,Expired,Free
+U0388,S825846,Landing,2025-05-14 00:00:00,Referral,2025-05,Mobile,UAE,Active,Free
+U0388,S825846,Sign-up,2025-05-13 09:00:00,Referral,2025-05,Mobile,India,Expired,Free
+U0388,S825846,Onboarding,2025-05-12 08:00:00,Referral,2025-05,Mobile,India,Expired,Free
+U0389,S287110,Landing,2025-03-17 08:00:00,Paid,2025-03,Tablet,UAE,Active,Free
+U0389,S287110,Sign-up,2025-03-15 04:00:00,Paid,2025-03,Desktop,Pakistan,Expired,Free
+U0389,S287110,Onboarding,2025-03-19 03:00:00,Paid,2025-03,Mobile,Pakistan,Expired,Free
+U0389,S287110,First Feature Use,2025-03-15 19:00:00,Paid,2025-03,Tablet,Pakistan,Active,Free
+U0389,S287110,Upgrade,2025-03-18 13:00:00,Paid,2025-03,Mobile,UAE,Active,Premium
+U0390,S510339,Landing,2025-12-31 14:00:00,Paid,2025-12,Mobile,UK,Expired,Free
+U0391,S985049,Landing,2025-10-04 15:00:00,Paid,2025-10,Tablet,USA,Expired,Free
+U0391,S985049,Sign-up,2025-10-05 18:00:00,Paid,2025-10,Tablet,UAE,Expired,Free
+U0391,S985049,Onboarding,2025-10-04 07:00:00,Paid,2025-10,Tablet,Pakistan,Expired,Free
+U0391,S985049,First Feature Use,2025-10-06 20:00:00,Paid,2025-10,Mobile,Pakistan,Expired,Free
+U0392,S897392,Landing,2025-04-17 17:00:00,Paid,2025-04,,Pakistan,Expired,Free
+U0392,S897392,Sign-up,2025-04-16 14:00:00,Paid,2025-04,Desktop,UK,Active,Free
+U0392,S897392,Onboarding,2025-04-14 17:00:00,Paid,2025-04,Desktop,India,Active,Free
+U0392,S897392,First Feature Use,2025-04-17 20:00:00,Paid,2025-04,Tablet,India,Expired,Free
+U0392,S897392,Upgrade,2025-04-16 01:00:00,Paid,2025-04,Desktop,USA,Expired,Premium
+U0393,S659876,Landing,2025-01-09 05:00:00,Referral,2025-01,Mobile,Pakistan,Active,Free
+U0393,S659876,Sign-up,2025-01-13 07:00:00,Referral,2025-01,Tablet,USA,Expired,Free
+U0393,S659876,Onboarding,2025-01-14 00:00:00,Referral,2025-01,Tablet,USA,Active,Free
+U0394,S877048,Landing,2025-01-21 14:00:00,Paid,2025-01,Tablet,Pakistan,Expired,Free
+U0395,S748410,Landing,2025-12-03 05:00:00,Organic,2025-11,Desktop,UK,Active,Free
+U0395,S748410,Sign-up,2025-12-03 10:00:00,Organic,2025-11,Tablet,Pakistan,Active,Free
+U0395,S748410,Onboarding,2025-11-29 14:00:00,Organic,2025-11,Mobile,USA,Active,Free
+U0395,S748410,First Feature Use,2025-11-29 08:00:00,Organic,2025-11,Desktop,UK,Expired,Free
+U0395,S748410,Upgrade,2025-12-03 07:00:00,Organic,2025-11,Tablet,UK,Expired,Free
+U0396,S817318,Landing,2025-06-18 05:00:00,Paid,2025-06,Desktop,Pakistan,Active,Free
+U0397,S451801,Landing,2025-03-14 21:00:00,Organic,2025-03,Tablet,UAE,Active,Free
+U0398,S559969,Landing,2025-01-24 08:00:00,Organic,2025-01,Tablet,UK,Active,Free
+U0398,S559969,Sign-up,2025-01-21 02:00:00,Organic,2025-01,Mobile,Pakistan,Active,Free
+U0399,S107574,Landing,2025-12-30 05:00:00,Organic,2025-12,Tablet,UK,Active,Free
+U0399,S107574,Sign-up,2025-12-29 02:00:00,Organic,2025-12,Desktop,UAE,Expired,Free
+U0400,S532046,Landing,2025-11-12 06:00:00,Organic,2025-11,Desktop,UAE,Expired,Free
+U0400,S532046,Sign-up,2025-11-11 05:00:00,Organic,2025-11,Desktop,USA,Active,Free
+U0400,S532046,Onboarding,2025-11-10 00:00:00,Organic,2025-11,Desktop,USA,Active,Free
+U0401,S748985,Landing,2025-09-20 12:00:00,Organic,2025-09,Desktop,UAE,Active,Free
+U0401,S748985,Sign-up,2025-09-18 00:00:00,Organic,2025-09,Desktop,India,Expired,Free
+U0402,S621682,Landing,2025-01-26 06:00:00,Organic,2025-01,Mobile,Pakistan,Active,Free
+U0402,S621682,Sign-up,2025-01-26 22:00:00,Organic,2025-01,Desktop,USA,Active,Free
+U0402,S621682,Onboarding,2025-01-23 20:00:00,Organic,2025-01,Desktop,UK,Active,Free
+U0402,S621682,First Feature Use,2025-01-23 09:00:00,Organic,2025-01,Desktop,UK,Expired,Free
+U0402,S621682,Upgrade,2025-01-25 05:00:00,Organic,2025-01,Desktop,UAE,Active,Free
+U0403,S441974,Landing,2025-08-02 00:00:00,Organic,2025-07,Desktop,Pakistan,Expired,Free
+U0404,S713513,Landing,2025-03-18 10:00:00,Paid,2025-03,Tablet,India,Expired,Free
+U0404,S713513,Sign-up,2025-03-17 10:00:00,Paid,2025-03,Desktop,UAE,Active,Free
+U0404,S713513,Onboarding,2025-03-16 04:00:00,Paid,2025-03,Tablet,USA,Active,Free
+U0404,S713513,First Feature Use,2025-03-17 11:00:00,Paid,2025-03,Desktop,Pakistan,Expired,Free
+U0405,S580854,Landing,2025-04-26 05:00:00,Organic,2025-04,Desktop,USA,Active,Free
+U0406,S706204,Landing,2025-02-15 03:00:00,Referral,2025-02,Tablet,UK,Expired,Free
+U0406,S706204,Sign-up,2025-02-15 11:00:00,Referral,2025-02,Desktop,UK,Active,Free
+U0406,S706204,Onboarding,2025-02-15 07:00:00,Referral,2025-02,,UK,Active,Free
+U0407,S720517,Landing,2025-01-06 21:00:00,Referral,2025-01,Tablet,Pakistan,Expired,Free
+U0407,S720517,Sign-up,2025-01-05 19:00:00,Referral,2025-01,Mobile,UK,Active,Free
+U0407,S720517,Onboarding,2025-01-05 09:00:00,Referral,2025-01,Mobile,India,Active,Free
+U0408,S685616,Landing,2025-07-28 16:00:00,Paid,2025-07,Mobile,UAE,Active,Free
+U0409,S779099,Landing,2025-09-06 02:00:00,Referral,2025-09,Desktop,UK,Expired,Free
+U0409,S779099,Sign-up,2025-09-07 02:00:00,Referral,2025-09,Desktop,UK,Active,Free
+U0409,S779099,Onboarding,2025-09-07 05:00:00,Referral,2025-09,Mobile,UK,Active,Free
+U0409,S779099,First Feature Use,2025-09-07 14:00:00,Referral,2025-09,Tablet,Pakistan,Expired,Free
+U0410,S824304,Landing,2025-06-03 21:00:00,Organic,2025-06,Tablet,India,Active,Free
+U0410,S824304,Sign-up,2025-06-04 07:00:00,Organic,2025-06,Mobile,Pakistan,Expired,Free
+U0410,S824304,Onboarding,2025-06-05 17:00:00,Organic,2025-06,Desktop,Pakistan,Expired,Free
+U0411,S483349,Landing,2025-07-09 23:00:00,Paid,2025-07,Tablet,India,Active,Free
+U0411,S483349,Sign-up,2025-07-08 18:00:00,Paid,2025-07,Desktop,USA,Active,Free
+U0411,S483349,Onboarding,2025-07-10 11:00:00,Paid,2025-07,Mobile,USA,Active,Free
+U0412,S889759,Landing,2025-06-14 08:00:00,Paid,2025-06,Mobile,UAE,Expired,Free
+U0412,S889759,Sign-up,2025-06-16 14:00:00,Paid,2025-06,Tablet,USA,Active,Free
+U0412,S889759,Onboarding,2025-06-16 12:00:00,Paid,2025-06,Tablet,USA,Expired,Free
+U0412,S889759,First Feature Use,2025-06-16 09:00:00,Paid,2025-06,Tablet,UAE,Active,Free
+U0412,S889759,Upgrade,2025-06-15 00:00:00,Paid,2025-06,Mobile,Pakistan,Active,Premium
+U0413,S287497,Landing,2025-02-26 02:00:00,Organic,2025-02,Tablet,Pakistan,Expired,Free
+U0413,S287497,Sign-up,2025-02-27 05:00:00,Organic,2025-02,,USA,Active,Free
+U0413,S287497,Onboarding,2025-02-27 12:00:00,Organic,2025-02,Mobile,UK,Expired,Free
+U0413,S287497,First Feature Use,2025-02-28 22:00:00,Organic,2025-02,Tablet,Pakistan,Expired,Free
+U0413,S287497,Upgrade,2025-02-26 00:00:00,Organic,2025-02,Desktop,Pakistan,Active,Premium
+U0414,S531690,Landing,2025-11-29 14:00:00,Paid,2025-11,Tablet,USA,Expired,Free
+U0415,S580255,Landing,2025-06-10 02:00:00,Organic,2025-06,Desktop,India,Expired,Free
+U0415,S580255,Sign-up,2025-06-07 12:00:00,Organic,2025-06,Mobile,India,Active,Free
+U0415,S580255,Onboarding,2025-06-09 19:00:00,Organic,2025-06,Tablet,UAE,Active,Free
+U0415,S580255,First Feature Use,2025-06-06 22:00:00,Organic,2025-06,Tablet,India,Active,Free
+U0416,S349461,Landing,2025-10-22 04:00:00,Organic,2025-10,Tablet,,Expired,Free
+U0416,S349461,Sign-up,2025-10-22 18:00:00,Organic,2025-10,Mobile,UK,Active,Free
+U0416,S349461,Onboarding,2025-10-24 20:00:00,Organic,2025-10,Mobile,Pakistan,Active,Free
+U0416,S349461,First Feature Use,2025-10-24 03:00:00,Organic,2025-10,Mobile,India,Expired,Free
+U0417,S435772,Landing,2025-10-08 18:00:00,Organic,2025-10,Tablet,UAE,Expired,Free
+U0418,S403905,Landing,2025-12-10 08:00:00,Referral,2025-12,Mobile,Pakistan,Expired,Free
+U0418,S403905,Sign-up,2025-12-12 19:00:00,Referral,2025-12,Desktop,India,Active,Free
+U0418,S403905,Onboarding,2025-12-09 15:00:00,Referral,2025-12,Desktop,UK,Active,Free
+U0419,S567636,Landing,2025-02-02 02:00:00,Organic,2025-01,Mobile,India,Active,Free
+U0419,S567636,Sign-up,2025-01-29 10:00:00,Organic,2025-01,Tablet,UK,Active,Free
+U0419,S567636,Onboarding,2025-01-31 17:00:00,Organic,2025-01,Mobile,India,Expired,Free
+U0419,S567636,First Feature Use,2025-01-30 16:00:00,Organic,2025-01,Tablet,USA,Active,Free
+U0420,S799155,Landing,2025-08-09 09:00:00,Organic,2025-08,Tablet,Pakistan,Active,Free
+U0420,S799155,Sign-up,2025-08-10 21:00:00,Organic,2025-08,Mobile,UK,Expired,Free
+U0420,S799155,Onboarding,2025-08-08 12:00:00,Organic,2025-08,Desktop,UK,Expired,Free
+U0420,S799155,First Feature Use,2025-08-07 17:00:00,Organic,2025-08,Tablet,USA,Active,Free
+U0421,S250616,Landing,2025-09-26 08:00:00,Organic,2025-09,Tablet,UK,Active,Free
+U0422,S106940,Landing,2025-08-02 01:00:00,Organic,2025-08,,UK,Expired,Free
+U0422,S106940,Sign-up,2025-08-03 22:00:00,Organic,2025-08,Mobile,Pakistan,Expired,Free
+U0422,S106940,Onboarding,2025-08-05 10:00:00,Organic,2025-08,Tablet,UAE,Expired,Free
+U0422,S106940,First Feature Use,2025-08-03 23:00:00,Organic,2025-08,Tablet,UK,Active,Free
+U0423,S128143,Landing,2025-05-18 13:00:00,Paid,2025-05,Mobile,UK,Active,Free
+U0423,S128143,Sign-up,2025-05-17 14:00:00,Paid,2025-05,Tablet,India,Active,Free
+U0423,S128143,Onboarding,2025-05-15 15:00:00,Paid,2025-05,Mobile,UK,Active,Free
+U0423,S128143,First Feature Use,2025-05-18 04:00:00,Paid,2025-05,Tablet,UAE,Expired,Free
+U0423,S128143,Upgrade,2025-05-18 00:00:00,Paid,2025-05,Mobile,UAE,Expired,Free
+U0424,S491330,Landing,2025-01-09 20:00:00,Paid,2025-01,Tablet,Pakistan,Active,Free
+U0425,S435209,Landing,2025-03-12 21:00:00,Paid,2025-03,Desktop,UAE,Expired,Free
+U0425,S435209,Sign-up,2025-03-13 19:00:00,Paid,2025-03,Tablet,Pakistan,Active,Free
+U0425,S435209,Onboarding,2025-03-15 02:00:00,Paid,2025-03,Tablet,India,Active,Free
+U0425,S435209,First Feature Use,2025-03-14 04:00:00,Paid,2025-03,Desktop,USA,Expired,Free
+U0426,S431570,Landing,2025-06-05 21:00:00,Referral,2025-06,Desktop,Pakistan,Active,Free
+U0426,S431570,Sign-up,2025-06-06 18:00:00,Referral,2025-06,Mobile,UAE,Expired,Free
+U0426,S431570,Onboarding,2025-06-06 04:00:00,Referral,2025-06,Mobile,India,Active,Free
+U0426,S431570,First Feature Use,2025-06-05 03:00:00,Referral,2025-06,Desktop,USA,Active,Free
+U0427,S971968,Landing,2025-11-15 12:00:00,Organic,2025-11,Tablet,USA,Active,Free
+U0427,S971968,Sign-up,2025-11-13 05:00:00,Organic,2025-11,Mobile,Pakistan,Active,Free
+U0428,S958620,Landing,2025-09-06 04:00:00,Organic,2025-09,Tablet,UAE,Active,Free
+U0428,S958620,Sign-up,2025-09-06 18:00:00,Organic,2025-09,Mobile,Pakistan,Active,Free
+U0428,S958620,Onboarding,2025-09-04 04:00:00,Organic,2025-09,Desktop,India,Active,Free
+U0428,S958620,First Feature Use,2025-09-04 15:00:00,Organic,2025-09,Desktop,India,Active,Free
+U0429,S182423,Landing,2025-02-09 04:00:00,Organic,2025-02,Tablet,USA,Active,Free
+U0429,S182423,Sign-up,2025-02-11 12:00:00,Organic,2025-02,Desktop,UAE,Active,Free
+U0429,S182423,Onboarding,2025-02-09 08:00:00,Organic,2025-02,Mobile,Pakistan,Active,Free
+U0429,S182423,First Feature Use,2025-02-13 04:00:00,Organic,2025-02,Desktop,USA,Active,Free
+U0429,S182423,Upgrade,2025-02-12 03:00:00,Organic,2025-02,Desktop,India,Expired,Free
+U0430,S195189,Landing,2025-05-24 20:00:00,Organic,2025-05,Mobile,India,Active,Free
+U0431,S629435,Landing,2025-10-26 19:00:00,Paid,2025-10,Desktop,India,Expired,Free
+U0432,S280117,Landing,2025-01-03 12:00:00,Referral,2025-01,Desktop,USA,Expired,Free
+U0433,S484264,Landing,2025-08-16 00:00:00,Paid,2025-08,Mobile,India,Active,Free
+U0433,S484264,Sign-up,2025-08-16 04:00:00,Paid,2025-08,Desktop,UAE,Active,Free
+U0433,S484264,Onboarding,2025-08-16 11:00:00,Paid,2025-08,Desktop,USA,Active,Free
+U0434,S619900,Landing,2025-05-29 12:00:00,Paid,2025-05,Mobile,USA,Expired,Free
+U0434,S619900,Sign-up,2025-05-31 15:00:00,Paid,2025-05,Mobile,India,Expired,Free
+U0434,S619900,Onboarding,2025-05-29 13:00:00,Paid,2025-05,Mobile,,Active,Free
+U0434,S619900,First Feature Use,2025-06-01 18:00:00,Paid,2025-05,Mobile,UAE,Active,Free
+U0434,S619900,Upgrade,2025-05-28 01:00:00,Paid,2025-05,Tablet,UK,Active,Premium
+U0435,S559337,Landing,2025-02-16 22:00:00,Paid,2025-02,Desktop,Pakistan,Expired,Free
+U0435,S559337,Sign-up,2025-02-14 01:00:00,Paid,2025-02,Mobile,India,Expired,Free
+U0435,S559337,Onboarding,2025-02-13 15:00:00,Paid,2025-02,Desktop,UK,Expired,Free
+U0435,S559337,First Feature Use,2025-02-14 11:00:00,Paid,2025-02,Tablet,USA,Expired,Free
+U0436,S893041,Landing,2025-07-26 14:00:00,Paid,2025-07,Tablet,UAE,Active,Free
+U0436,S893041,Sign-up,2025-07-28 02:00:00,Paid,2025-07,Mobile,Pakistan,Active,Free
+U0436,S893041,Onboarding,2025-07-25 08:00:00,Paid,2025-07,Mobile,UK,Active,Free
+U0437,S758894,Landing,2025-02-24 10:00:00,Referral,2025-02,Desktop,UK,Active,Free
+U0438,S287795,Landing,2025-06-21 00:00:00,Organic,2025-06,Tablet,UK,Expired,Free
+U0438,S287795,Sign-up,2025-06-18 01:00:00,Organic,2025-06,Mobile,UK,Expired,Free
+U0438,S287795,Onboarding,2025-06-19 16:00:00,Organic,2025-06,Mobile,USA,Expired,Free
+U0438,S287795,First Feature Use,2025-06-21 07:00:00,Organic,2025-06,Tablet,USA,Active,Free
+U0438,S287795,Upgrade,2025-06-21 01:00:00,Organic,2025-06,Desktop,UK,Active,Premium
+U0439,S571980,Landing,2025-08-16 14:00:00,Organic,2025-08,Tablet,India,Expired,Free
+U0439,S571980,Sign-up,2025-08-17 07:00:00,Organic,2025-08,Desktop,UAE,Expired,Free
+U0439,S571980,Onboarding,2025-08-17 14:00:00,Organic,2025-08,Desktop,USA,Expired,Free
+U0439,S571980,First Feature Use,2025-08-18 12:00:00,Organic,2025-08,Tablet,USA,Expired,Free
+U0440,S599028,Landing,2025-09-20 14:00:00,Paid,2025-09,Mobile,UAE,Expired,Free
+U0440,S599028,Sign-up,2025-09-17 07:00:00,Paid,2025-09,Desktop,USA,Active,Free
+U0440,S599028,Onboarding,2025-09-17 16:00:00,Paid,2025-09,Mobile,UAE,Active,Free
+U0440,S599028,First Feature Use,2025-09-21 01:00:00,Paid,2025-09,Tablet,UAE,Expired,Free
+U0441,S202078,Landing,2025-08-02 03:00:00,Organic,2025-07,Desktop,Pakistan,Expired,Free
+U0441,S202078,Sign-up,2025-07-30 14:00:00,Organic,2025-07,Mobile,India,Active,Free
+U0441,S202078,Onboarding,2025-08-01 20:00:00,Organic,2025-07,Mobile,Pakistan,Expired,Free
+U0441,S202078,First Feature Use,2025-08-02 12:00:00,Organic,2025-07,Mobile,USA,Expired,Free
+U0442,S379570,Landing,2025-10-29 12:00:00,Organic,2025-10,Mobile,Pakistan,Active,Free
+U0442,S379570,Sign-up,2025-10-30 19:00:00,Organic,2025-10,,USA,Expired,Free
+U0442,S379570,Onboarding,2025-10-29 21:00:00,Organic,2025-10,Tablet,UAE,Expired,Free
+U0442,S379570,First Feature Use,2025-10-31 07:00:00,Organic,2025-10,Desktop,UK,Active,Free
+U0442,S379570,Upgrade,2025-11-02 11:00:00,Organic,2025-10,Tablet,India,Expired,Premium
+U0443,S149840,Landing,2025-07-28 07:00:00,Organic,2025-07,Tablet,Pakistan,Active,Free
+U0444,S720615,Landing,2025-10-20 12:00:00,Organic,2025-10,Mobile,India,Expired,Free
+U0445,S934301,Landing,2025-09-18 07:00:00,Organic,2025-09,Tablet,USA,Expired,Free
+U0446,S309795,Landing,2025-11-19 08:00:00,Organic,2025-11,Tablet,USA,Active,Free
+U0446,S309795,Sign-up,2025-11-19 01:00:00,Organic,2025-11,Mobile,India,Expired,Free
+U0446,S309795,Onboarding,2025-11-17 10:00:00,Organic,2025-11,Tablet,USA,Expired,Free
+U0446,S309795,First Feature Use,2025-11-20 23:00:00,Organic,2025-11,Tablet,Pakistan,Active,Free
+U0447,S481969,Landing,2025-03-23 01:00:00,Paid,2025-03,Mobile,UK,Expired,Free
+U0448,S434132,Landing,2025-11-24 10:00:00,Referral,2025-11,Desktop,UAE,Active,Free
+U0448,S434132,Sign-up,2025-11-23 03:00:00,Referral,2025-11,Desktop,Pakistan,Active,Free
+U0448,S434132,Onboarding,2025-11-22 00:00:00,Referral,2025-11,Desktop,India,Expired,Free
+U0449,S586706,Landing,2025-08-06 09:00:00,Paid,2025-08,Mobile,USA,Active,Free
+U0449,S586706,Sign-up,2025-08-08 10:00:00,Paid,2025-08,Desktop,UK,Active,Free
+U0449,S586706,Onboarding,2025-08-05 07:00:00,Paid,2025-08,Desktop,UAE,Expired,Free
+U0449,S586706,First Feature Use,2025-08-09 14:00:00,Paid,2025-08,Desktop,UK,Expired,Free
+U0449,S586706,Upgrade,2025-08-08 13:00:00,Paid,2025-08,Tablet,Pakistan,Expired,Free
+U0450,S347507,Landing,2025-09-16 18:00:00,Organic,2025-09,Tablet,USA,Expired,Free
+U0451,S620566,Landing,2025-11-05 18:00:00,Referral,2025-11,Tablet,UK,Active,Free
+U0451,S620566,Sign-up,2025-11-08 23:00:00,Referral,2025-11,Mobile,India,Active,Free
+U0452,S212002,Landing,2025-08-14 07:00:00,Organic,2025-08,Mobile,USA,Expired,Free
+U0452,S212002,Sign-up,2025-08-17 17:00:00,Organic,2025-08,Desktop,UAE,Expired,Free
+U0453,S597920,Landing,2025-03-16 02:00:00,Paid,2025-03,Tablet,USA,Active,Free
+U0453,S597920,Sign-up,2025-03-20 11:00:00,Paid,2025-03,Tablet,Pakistan,Active,Free
+U0453,S597920,Onboarding,2025-03-17 08:00:00,Paid,2025-03,Tablet,UK,Expired,Free
+U0454,S769986,Landing,2025-12-21 13:00:00,Referral,2025-12,Mobile,UK,Active,Free
+U0454,S769986,Sign-up,2025-12-21 20:00:00,Referral,2025-12,Mobile,UAE,Expired,Free
+U0455,S194634,Landing,2025-06-06 21:00:00,Referral,2025-06,Mobile,UAE,Expired,Free
+U0455,S194634,Sign-up,2025-06-06 05:00:00,Referral,2025-06,Desktop,UAE,Active,Free
+U0456,S963185,Landing,2025-09-03 22:00:00,Paid,2025-08,Mobile,UK,Active,Free
+U0457,S964446,Landing,2025-09-19 22:00:00,Organic,2025-09,Tablet,UAE,Expired,Free
+U0457,S964446,Sign-up,2025-09-20 16:00:00,Organic,2025-09,Desktop,Pakistan,Active,Free
+U0457,S964446,Onboarding,2025-09-20 08:00:00,Organic,2025-09,Mobile,India,Active,Free
+U0458,S520124,Landing,2025-06-14 02:00:00,Organic,2025-06,Tablet,India,Expired,Free
+U0458,S520124,Sign-up,2025-06-14 05:00:00,Organic,2025-06,Mobile,UK,Expired,Free
+U0458,S520124,Onboarding,2025-06-14 15:00:00,Organic,2025-06,Tablet,India,Expired,Free
+U0458,S520124,First Feature Use,2025-06-10 22:00:00,Organic,2025-06,Tablet,USA,Expired,Free
+U0459,S938366,Landing,2025-08-04 01:00:00,Organic,2025-08,Desktop,Pakistan,Active,Free
+U0459,S938366,Sign-up,2025-08-05 22:00:00,Organic,2025-08,Tablet,USA,Active,Free
+U0459,S938366,Onboarding,2025-08-05 20:00:00,Organic,2025-08,Desktop,UK,Active,Free
+U0459,S938366,First Feature Use,2025-08-02 09:00:00,Organic,2025-08,Tablet,India,Active,Free
+U0460,S520515,Landing,2025-05-14 21:00:00,Paid,2025-05,Tablet,Pakistan,Active,Free
+U0460,S520515,Sign-up,2025-05-17 19:00:00,Paid,2025-05,Tablet,UK,Expired,Free
+U0461,S967442,Landing,2025-04-29 04:00:00,Paid,2025-04,Mobile,UAE,Expired,Free
+U0461,S967442,Sign-up,2025-04-27 00:00:00,Paid,2025-04,Desktop,UK,Active,Free
+U0461,S967442,Onboarding,2025-04-28 04:00:00,Paid,2025-04,Desktop,UAE,Active,Free
+U0462,S538651,Landing,2025-01-16 23:00:00,Organic,2025-01,Tablet,UK,Active,Free
+U0462,S538651,Sign-up,2025-01-15 01:00:00,Organic,2025-01,Mobile,India,Expired,Free
+U0462,S538651,Onboarding,2025-01-18 16:00:00,Organic,2025-01,Mobile,India,Expired,Free
+U0462,S538651,First Feature Use,2025-01-18 18:00:00,Organic,2025-01,Mobile,USA,Expired,Free
+U0463,S176604,Landing,2025-01-30 05:00:00,Organic,2025-01,Tablet,USA,Active,Free
+U0463,S176604,Sign-up,2025-01-27 00:00:00,Organic,2025-01,Mobile,USA,Expired,Free
+U0463,S176604,Onboarding,2025-01-28 14:00:00,Organic,2025-01,Mobile,UAE,Active,Free
+U0464,S686741,Landing,2025-05-14 11:00:00,Organic,2025-05,Mobile,USA,Expired,Free
+U0464,S686741,Sign-up,2025-05-14 18:00:00,Organic,2025-05,Mobile,Pakistan,Expired,Free
+U0464,S686741,Onboarding,2025-05-14 05:00:00,Organic,2025-05,Desktop,UK,Expired,Free
+U0464,S686741,First Feature Use,2025-05-17 23:00:00,Organic,2025-05,Mobile,UK,Expired,Free
+U0465,S376002,Landing,2025-09-23 16:00:00,Paid,2025-09,Tablet,UK,Active,Free
+U0465,S376002,Sign-up,2025-09-24 23:00:00,Paid,2025-09,Tablet,UK,Active,Free
+U0466,S298096,Landing,2025-04-06 07:00:00,Organic,2025-04,Desktop,UK,Active,Free
+U0466,S298096,Sign-up,2025-04-06 08:00:00,Organic,2025-04,Mobile,USA,Expired,Free
+U0466,S298096,Onboarding,2025-04-06 10:00:00,Organic,2025-04,Mobile,Pakistan,Active,Free
+U0467,S229660,Landing,2025-05-30 18:00:00,Organic,2025-05,Tablet,USA,Active,Free
+U0467,S229660,Sign-up,2025-05-29 02:00:00,Organic,2025-05,Desktop,USA,Active,Free
+U0467,S229660,Onboarding,2025-05-28 05:00:00,Organic,2025-05,Desktop,India,Expired,Free
+U0467,S229660,First Feature Use,2025-05-29 14:00:00,Organic,2025-05,,UAE,Active,Free
+U0467,S229660,Upgrade,2025-05-27 12:00:00,Organic,2025-05,Tablet,Pakistan,Expired,Premium
+U0468,S719014,Landing,2025-06-18 12:00:00,Referral,2025-06,Mobile,UK,Expired,Free
+U0468,S719014,Sign-up,2025-06-18 04:00:00,Referral,2025-06,Tablet,Pakistan,Expired,Free
+U0468,S719014,Onboarding,2025-06-15 05:00:00,Referral,2025-06,Tablet,USA,Expired,Free
+U0469,S440698,Landing,2025-10-23 06:00:00,Referral,2025-10,Tablet,UAE,Expired,Free
+U0469,S440698,Sign-up,2025-10-23 06:00:00,Referral,2025-10,Desktop,Pakistan,Expired,Free
+U0470,S197046,Landing,2025-05-07 14:00:00,Organic,2025-05,Mobile,Pakistan,Active,Free
+U0471,S993749,Landing,2025-07-29 11:00:00,Organic,2025-07,Desktop,Pakistan,Expired,Free
+U0471,S993749,Sign-up,2025-07-28 14:00:00,Organic,2025-07,Mobile,UAE,Active,Free
+U0472,S476485,Landing,2025-09-23 04:00:00,Paid,2025-09,Mobile,Pakistan,Expired,Free
+U0472,S476485,Sign-up,2025-09-24 07:00:00,Paid,2025-09,Mobile,USA,Active,Free
+U0472,S476485,Onboarding,2025-09-22 07:00:00,Paid,2025-09,Tablet,UK,Active,Free
+U0472,S476485,First Feature Use,2025-09-20 05:00:00,Paid,2025-09,Tablet,UAE,Expired,Free
+U0472,S476485,Upgrade,2025-09-23 14:00:00,Paid,2025-09,Desktop,India,Expired,Free
+U0473,S404824,Landing,2025-09-05 15:00:00,Paid,2025-09,Mobile,India,Expired,Free
+U0473,S404824,Sign-up,2025-09-03 13:00:00,Paid,2025-09,Tablet,Pakistan,Active,Free
+U0474,S147285,Landing,2025-08-10 08:00:00,Paid,2025-08,,UAE,Expired,Free
+U0474,S147285,Sign-up,2025-08-09 02:00:00,Paid,2025-08,Desktop,USA,Active,Free
+U0474,S147285,Onboarding,2025-08-06 14:00:00,Paid,2025-08,Tablet,UK,Active,Free
+U0475,S924366,Landing,2025-01-25 14:00:00,Organic,2025-01,Mobile,USA,Expired,Free
+U0475,S924366,Sign-up,2025-01-28 00:00:00,Organic,2025-01,Tablet,UK,Expired,Free
+U0476,S457915,Landing,2025-04-19 13:00:00,Referral,2025-04,Mobile,USA,Active,Free
+U0476,S457915,Sign-up,2025-04-19 00:00:00,Referral,2025-04,Mobile,Pakistan,Active,Free
+U0476,S457915,Onboarding,2025-04-19 21:00:00,Referral,2025-04,Tablet,UK,Expired,Free
+U0476,S457915,First Feature Use,2025-04-22 16:00:00,Referral,2025-04,Mobile,USA,Expired,Free
+U0477,S417508,Landing,2025-07-07 14:00:00,Paid,2025-07,Mobile,UAE,Active,Free
+U0477,S417508,Sign-up,2025-07-04 16:00:00,Paid,2025-07,Desktop,,Active,Free
+U0478,S217348,Landing,2025-04-08 02:00:00,Referral,2025-04,Mobile,India,Active,Free
+U0479,S556957,Landing,2025-04-08 18:00:00,Referral,2025-04,Mobile,UK,Active,Free
+U0479,S556957,Sign-up,2025-04-08 14:00:00,Referral,2025-04,Desktop,India,Expired,Free
+U0480,S608608,Landing,2025-10-29 02:00:00,Paid,2025-10,Desktop,,Active,Free
+U0480,S608608,Sign-up,2025-10-27 13:00:00,Paid,2025-10,Tablet,UK,Expired,Free
+U0480,S608608,Onboarding,2025-10-31 12:00:00,Paid,2025-10,Mobile,USA,Expired,Free
+U0481,S138815,Landing,2025-09-22 14:00:00,Paid,2025-09,,Pakistan,Active,Free
+U0481,S138815,Sign-up,2025-09-22 06:00:00,Paid,2025-09,Tablet,UAE,Active,Free
+U0481,S138815,Onboarding,2025-09-21 10:00:00,Paid,2025-09,Tablet,UK,Expired,Free
+U0481,S138815,First Feature Use,2025-09-20 14:00:00,Paid,2025-09,Mobile,USA,Expired,Free
+U0482,S570103,Landing,2025-03-25 04:00:00,Paid,2025-03,Tablet,UAE,Expired,Free
+U0482,S570103,Sign-up,2025-03-24 16:00:00,Paid,2025-03,Mobile,UK,Expired,Free
+U0482,S570103,Onboarding,2025-03-28 10:00:00,Paid,2025-03,Tablet,UAE,Expired,Free
+U0482,S570103,First Feature Use,2025-03-28 06:00:00,Paid,2025-03,Desktop,USA,Active,Free
+U0482,S570103,Upgrade,2025-03-25 12:00:00,Paid,2025-03,Tablet,Pakistan,Expired,Free
+U0483,S281708,Landing,2025-09-10 14:00:00,Organic,2025-09,Desktop,India,Active,Free
+U0483,S281708,Sign-up,2025-09-09 02:00:00,Organic,2025-09,Mobile,UAE,Expired,Free
+U0483,S281708,Onboarding,2025-09-12 14:00:00,Organic,2025-09,Desktop,India,Active,Free
+U0484,S946007,Landing,2025-03-01 19:00:00,Organic,2025-02,Mobile,Pakistan,Expired,Free
+U0484,S946007,Sign-up,2025-03-04 18:00:00,Organic,2025-02,Desktop,USA,Active,Free
+U0484,S946007,Onboarding,2025-03-03 18:00:00,Organic,2025-02,Desktop,UK,Expired,Free
+U0484,S946007,First Feature Use,2025-03-04 11:00:00,Organic,2025-02,Desktop,Pakistan,Active,Free
+U0484,S946007,Upgrade,2025-03-04 09:00:00,Organic,2025-02,Tablet,Pakistan,Active,Free
+U0485,S760525,Landing,2025-07-08 21:00:00,Organic,2025-07,Desktop,India,Expired,Free
+U0485,S760525,Sign-up,2025-07-06 18:00:00,Organic,2025-07,Desktop,Pakistan,Active,Free
+U0485,S760525,Onboarding,2025-07-07 08:00:00,Organic,2025-07,Mobile,Pakistan,Active,Free
+U0485,S760525,First Feature Use,2025-07-09 10:00:00,Organic,2025-07,Mobile,UAE,Expired,Free
+U0486,S629554,Landing,2025-07-14 00:00:00,Organic,2025-07,Tablet,UK,Active,Free
+U0486,S629554,Sign-up,2025-07-10 17:00:00,Organic,2025-07,Mobile,UK,Expired,Free
+U0486,S629554,Onboarding,2025-07-14 18:00:00,Organic,2025-07,Mobile,USA,Expired,Free
+U0486,S629554,First Feature Use,2025-07-15 00:00:00,Organic,2025-07,Desktop,UK,Active,Free
+U0486,S629554,Upgrade,2025-07-14 02:00:00,Organic,2025-07,Desktop,USA,Active,Free
+U0487,S454737,Landing,2025-08-14 12:00:00,Organic,2025-08,Tablet,India,Active,Free
+U0487,S454737,Sign-up,2025-08-14 08:00:00,Organic,2025-08,Tablet,USA,Expired,Free
+U0488,S539673,Landing,2025-12-29 20:00:00,Organic,2025-12,Mobile,Pakistan,Expired,Free
+U0488,S539673,Sign-up,2025-12-29 19:00:00,Organic,2025-12,Tablet,USA,Active,Free
+U0488,S539673,Onboarding,2025-12-28 17:00:00,Organic,2025-12,Mobile,UK,Active,Free
+U0489,S670871,Landing,2025-12-03 11:00:00,Paid,2025-11,Mobile,India,Expired,Free
+U0489,S670871,Sign-up,2025-11-30 10:00:00,Paid,2025-11,Desktop,USA,Expired,Free
+U0489,S670871,Onboarding,2025-12-02 01:00:00,Paid,2025-11,Tablet,India,Expired,Free
+U0490,S324116,Landing,2025-06-09 20:00:00,Organic,2025-06,Desktop,Pakistan,Expired,Free
+U0490,S324116,Sign-up,2025-06-10 06:00:00,Organic,2025-06,Mobile,UK,Active,Free
+U0491,S867543,Landing,2025-05-13 15:00:00,Organic,2025-05,Mobile,UAE,Active,Free
+U0491,S867543,Sign-up,2025-05-15 10:00:00,Organic,2025-05,Mobile,India,Active,Free
+U0491,S867543,Onboarding,2025-05-14 20:00:00,Organic,2025-05,Mobile,UAE,Active,Free
+U0491,S867543,First Feature Use,2025-05-16 19:00:00,Organic,2025-05,Mobile,USA,Active,Free
+U0492,S210338,Landing,2025-04-10 22:00:00,Organic,2025-04,Mobile,Pakistan,Active,Free
+U0493,S846209,Landing,2025-02-11 09:00:00,Organic,2025-02,Mobile,USA,Expired,Free
+U0493,S846209,Sign-up,2025-02-14 03:00:00,Organic,2025-02,Tablet,USA,Expired,Free
+U0493,S846209,Onboarding,2025-02-15 15:00:00,Organic,2025-02,Mobile,USA,Expired,Free
+U0493,S846209,First Feature Use,2025-02-14 09:00:00,Organic,2025-02,Mobile,UK,Expired,Free
+U0493,S846209,Upgrade,2025-02-14 21:00:00,Organic,2025-02,Mobile,India,Active,Free
+U0494,S608312,Landing,2025-12-27 04:00:00,Paid,2025-12,Tablet,India,Expired,Free
+U0494,S608312,Sign-up,2025-12-31 21:00:00,Paid,2025-12,Desktop,USA,Expired,Free
+U0494,S608312,Onboarding,2025-12-27 14:00:00,Paid,2025-12,Desktop,UAE,Expired,Free
+U0494,S608312,First Feature Use,2025-12-27 05:00:00,Paid,2025-12,Tablet,India,Active,Free
+U0495,S489511,Landing,2025-06-07 05:00:00,Organic,2025-06,Desktop,UAE,Expired,Free
+U0495,S489511,Sign-up,2025-06-06 03:00:00,Organic,2025-06,Desktop,UK,Active,Free
+U0495,S489511,Onboarding,2025-06-05 15:00:00,Organic,2025-06,Tablet,UAE,Active,Free
+U0495,S489511,First Feature Use,2025-06-09 15:00:00,Organic,2025-06,Desktop,UK,Expired,Free
+U0496,S700896,Landing,2025-06-24 12:00:00,Organic,2025-06,Tablet,USA,Active,Free
+U0497,S898963,Landing,2025-08-27 13:00:00,Organic,2025-08,Mobile,India,Expired,Free
+U0498,S193653,Landing,2025-11-19 13:00:00,Paid,2025-11,Mobile,UAE,Active,Free
+U0498,S193653,Sign-up,2025-11-20 14:00:00,Paid,2025-11,Desktop,Pakistan,Expired,Free
+U0498,S193653,Onboarding,2025-11-18 23:00:00,Paid,2025-11,Tablet,Pakistan,Active,Free
+U0498,S193653,First Feature Use,2025-11-17 00:00:00,Paid,2025-11,Tablet,USA,Active,Free
+U0499,S697944,Landing,2025-09-15 15:00:00,Paid,2025-09,Tablet,USA,Active,Free
+U0500,S119895,Landing,2025-05-10 11:00:00,Organic,2025-05,Tablet,UK,Active,Free
+U0501,S946118,Landing,2025-07-26 19:00:00,Paid,2025-07,Mobile,India,Expired,Free
+U0501,S946118,Sign-up,2025-07-25 03:00:00,Paid,2025-07,Tablet,UAE,Expired,Free
+U0501,S946118,Onboarding,2025-07-26 08:00:00,Paid,2025-07,Desktop,Pakistan,Active,Free
+U0502,S668096,Landing,2025-04-04 21:00:00,Organic,2025-04,Desktop,USA,Expired,Free
+U0502,S668096,Sign-up,2025-04-04 23:00:00,Organic,2025-04,Desktop,Pakistan,Expired,Free
+U0502,S668096,Onboarding,2025-04-06 01:00:00,Organic,2025-04,Desktop,UAE,Active,Free
+U0502,S668096,First Feature Use,2025-04-06 04:00:00,Organic,2025-04,Mobile,UAE,Expired,Free
+U0503,S967949,Landing,2025-04-16 16:00:00,Referral,2025-04,Mobile,Pakistan,Expired,Free
+U0503,S967949,Sign-up,2025-04-14 07:00:00,Referral,2025-04,Mobile,UK,Expired,Free
+U0503,S967949,Onboarding,2025-04-14 08:00:00,Referral,2025-04,Mobile,Pakistan,Expired,Free
+U0503,S967949,First Feature Use,2025-04-17 09:00:00,Referral,2025-04,Desktop,Pakistan,Expired,Free
+U0504,S680990,Landing,2025-02-22 14:00:00,Referral,2025-02,Tablet,UK,Expired,Free
+U0504,S680990,Sign-up,2025-02-21 10:00:00,Referral,2025-02,Tablet,USA,Active,Free
+U0504,S680990,Onboarding,2025-02-25 04:00:00,Referral,2025-02,Desktop,UAE,Active,Free
+U0505,S920011,Landing,2025-10-13 13:00:00,Organic,2025-10,Tablet,India,Active,Free
+U0505,S920011,Sign-up,2025-10-12 07:00:00,Organic,2025-10,Mobile,UAE,Expired,Free
+U0505,S920011,Onboarding,2025-10-16 11:00:00,Organic,2025-10,Tablet,UK,Expired,Free
+U0505,S920011,First Feature Use,2025-10-16 11:00:00,Organic,2025-10,Tablet,India,Expired,Free
+U0506,S147694,Landing,2025-10-19 20:00:00,Organic,2025-10,Tablet,UAE,Expired,Free
+U0506,S147694,Sign-up,2025-10-17 02:00:00,Organic,2025-10,Tablet,USA,Expired,Free
+U0506,S147694,Onboarding,2025-10-20 17:00:00,Organic,2025-10,Tablet,UAE,Expired,Free
+U0506,S147694,First Feature Use,2025-10-20 00:00:00,Organic,2025-10,Tablet,UK,Expired,Free
+U0507,S357874,Landing,2025-06-25 18:00:00,Paid,2025-06,Desktop,India,Active,Free
+U0507,S357874,Sign-up,2025-06-27 05:00:00,Paid,2025-06,Mobile,Pakistan,Active,Free
+U0508,S805383,Landing,2025-12-25 20:00:00,Organic,2025-12,Desktop,Pakistan,Active,Free
+U0508,S805383,Sign-up,2025-12-27 18:00:00,Organic,2025-12,Tablet,UK,Active,Free
+U0509,S470141,Landing,2025-11-07 17:00:00,Referral,2025-11,Desktop,Pakistan,Expired,Free
+U0509,S470141,Sign-up,2025-11-05 23:00:00,Referral,2025-11,Desktop,UK,Active,Free
+U0509,S470141,Onboarding,2025-11-05 04:00:00,Referral,2025-11,Tablet,Pakistan,Expired,Free
+U0510,S813612,Landing,2025-04-10 05:00:00,Referral,2025-04,Mobile,UAE,Active,Free
+U0510,S813612,Sign-up,2025-04-10 11:00:00,Referral,2025-04,Mobile,USA,Active,Free
+U0510,S813612,Onboarding,2025-04-09 00:00:00,Referral,2025-04,Desktop,UK,Active,Free
+U0510,S813612,First Feature Use,2025-04-13 15:00:00,Referral,2025-04,Mobile,USA,Expired,Free
+U0511,S278758,Landing,2025-10-20 23:00:00,Paid,2025-10,Desktop,India,Expired,Free
+U0511,S278758,Sign-up,2025-10-21 23:00:00,Paid,2025-10,Tablet,India,Expired,Free
+U0511,S278758,Onboarding,2025-10-18 00:00:00,Paid,2025-10,Tablet,Pakistan,Expired,Free
+U0511,S278758,First Feature Use,2025-10-20 15:00:00,Paid,2025-10,Tablet,UK,Active,Free
+U0512,S547861,Landing,2025-01-28 17:00:00,Paid,2025-01,Mobile,UK,Expired,Free
+U0513,S227630,Landing,2025-09-15 17:00:00,Paid,2025-09,Tablet,India,Active,Free
+U0513,S227630,Sign-up,2025-09-12 11:00:00,Paid,2025-09,Mobile,USA,Expired,Free
+U0514,S431603,Landing,2025-06-24 16:00:00,Organic,2025-06,Mobile,Pakistan,Active,Free
+U0514,S431603,Sign-up,2025-06-22 01:00:00,Organic,2025-06,Desktop,UAE,Expired,Free
+U0514,S431603,Onboarding,2025-06-21 08:00:00,Organic,2025-06,Tablet,Pakistan,Active,Free
+U0514,S431603,First Feature Use,2025-06-23 13:00:00,Organic,2025-06,Mobile,Pakistan,Expired,Free
+U0515,S981336,Landing,2025-09-04 05:00:00,Organic,2025-08,Desktop,Pakistan,Expired,Free
+U0515,S981336,Sign-up,2025-09-04 01:00:00,Organic,2025-08,Desktop,UK,Active,Free
+U0515,S981336,Onboarding,2025-08-31 10:00:00,Organic,2025-08,Desktop,Pakistan,Expired,Free
+U0515,S981336,First Feature Use,2025-09-01 16:00:00,Organic,2025-08,Tablet,Pakistan,Active,Free
+U0515,S981336,Upgrade,2025-08-31 07:00:00,Organic,2025-08,Mobile,Pakistan,Expired,Premium
+U0516,S168986,Landing,2025-10-16 03:00:00,Organic,2025-10,Desktop,USA,Expired,Free
+U0516,S168986,Sign-up,2025-10-15 05:00:00,Organic,2025-10,Tablet,USA,Active,Free
+U0517,S575436,Landing,2025-11-18 04:00:00,Organic,2025-11,Desktop,UK,Expired,Free
+U0517,S575436,Sign-up,2025-11-17 03:00:00,Organic,2025-11,Desktop,Pakistan,Active,Free
+U0517,S575436,Onboarding,2025-11-14 01:00:00,Organic,2025-11,Tablet,Pakistan,Active,Free
+U0518,S701056,Landing,2025-05-12 17:00:00,Organic,2025-05,Desktop,Pakistan,Active,Free
+U0518,S701056,Sign-up,2025-05-13 15:00:00,Organic,2025-05,Tablet,UK,Expired,Free
+U0518,S701056,Onboarding,2025-05-13 15:00:00,Organic,2025-05,Tablet,USA,Active,Free
+U0518,S701056,First Feature Use,2025-05-12 18:00:00,Organic,2025-05,Mobile,UAE,Expired,Free
+U0518,S701056,Upgrade,2025-05-13 13:00:00,Organic,2025-05,Mobile,Pakistan,Active,Free
+U0519,S348918,Landing,2025-02-01 04:00:00,Paid,2025-01,Desktop,UAE,Active,Free
+U0519,S348918,Sign-up,2025-01-31 13:00:00,Paid,2025-01,Mobile,UK,Expired,Free
+U0519,S348918,Onboarding,2025-02-01 13:00:00,Paid,2025-01,Tablet,USA,Expired,Free
+U0519,S348918,First Feature Use,2025-01-31 06:00:00,Paid,2025-01,Mobile,UK,Expired,Free
+U0520,S270162,Landing,2025-09-14 07:00:00,Organic,2025-09,Desktop,India,Expired,Free
+U0520,S270162,Sign-up,2025-09-14 22:00:00,Organic,2025-09,Mobile,UK,Active,Free
+U0520,S270162,Onboarding,2025-09-13 03:00:00,Organic,2025-09,Desktop,Pakistan,Expired,Free
+U0520,S270162,First Feature Use,2025-09-11 01:00:00,Organic,2025-09,Desktop,UAE,Active,Free
+U0520,S270162,Upgrade,2025-09-13 23:00:00,Organic,2025-09,Desktop,India,Expired,Premium
+U0521,S303846,Landing,2025-01-24 01:00:00,Paid,2025-01,Desktop,UAE,Active,Free
+U0522,S329580,Landing,2025-04-04 11:00:00,Referral,2025-03,Mobile,Pakistan,Active,Free
+U0522,S329580,Sign-up,2025-04-04 10:00:00,Referral,2025-03,Tablet,India,Expired,Free
+U0522,S329580,Onboarding,2025-04-03 11:00:00,Referral,2025-03,Desktop,UAE,Active,Free
+U0522,S329580,First Feature Use,2025-04-01 15:00:00,Referral,2025-03,Mobile,India,Expired,Free
+U0522,S329580,Upgrade,2025-04-04 07:00:00,Referral,2025-03,Mobile,India,Expired,Free
+U0523,S224249,Landing,2025-04-11 09:00:00,Organic,2025-04,Desktop,Pakistan,Active,Free
+U0523,S224249,Sign-up,2025-04-12 13:00:00,Organic,2025-04,Tablet,UAE,Active,Free
+U0523,S224249,Onboarding,2025-04-09 17:00:00,Organic,2025-04,Desktop,,Expired,Free
+U0523,S224249,First Feature Use,2025-04-12 15:00:00,Organic,2025-04,Desktop,USA,Expired,Free
+U0524,S319401,Landing,2025-12-10 00:00:00,Paid,2025-12,Tablet,UAE,Expired,Free
+U0524,S319401,Sign-up,2025-12-08 18:00:00,Paid,2025-12,Mobile,India,Expired,Free
+U0524,S319401,Onboarding,2025-12-09 19:00:00,Paid,2025-12,Mobile,USA,Expired,Free
+U0524,S319401,First Feature Use,2025-12-09 19:00:00,Paid,2025-12,Mobile,UK,Expired,Free
+U0525,S709418,Landing,2025-12-01 02:00:00,Organic,2025-11,Desktop,UAE,Expired,Free
+U0525,S709418,Sign-up,2025-12-03 17:00:00,Organic,2025-11,Mobile,USA,Active,Free
+U0525,S709418,Onboarding,2025-12-03 23:00:00,Organic,2025-11,Mobile,UAE,Active,Free
+U0525,S709418,First Feature Use,2025-11-29 17:00:00,Organic,2025-11,Desktop,UAE,Expired,Free
+U0526,S644022,Landing,2025-01-24 04:00:00,Organic,2025-01,Mobile,UK,Expired,Free
+U0526,S644022,Sign-up,2025-01-23 10:00:00,Organic,2025-01,Mobile,Pakistan,Active,Free
+U0526,S644022,Onboarding,2025-01-24 08:00:00,Organic,2025-01,Desktop,UAE,Active,Free
+U0526,S644022,First Feature Use,2025-01-23 21:00:00,Organic,2025-01,Desktop,UAE,Active,Free
+U0527,S924047,Landing,2025-02-23 14:00:00,Organic,2025-02,Mobile,UAE,Expired,Free
+U0527,S924047,Sign-up,2025-02-23 23:00:00,Organic,2025-02,Tablet,UAE,Active,Free
+U0527,S924047,Onboarding,2025-02-23 18:00:00,Organic,2025-02,Tablet,India,Expired,Free
+U0527,S924047,First Feature Use,2025-02-20 01:00:00,Organic,2025-02,Mobile,UAE,Expired,Free
+U0527,S924047,Upgrade,2025-02-24 04:00:00,Organic,2025-02,Mobile,UK,Active,Premium
+U0528,S785864,Landing,2025-07-26 03:00:00,Paid,2025-07,Tablet,UK,Expired,Free
+U0528,S785864,Sign-up,2025-07-24 19:00:00,Paid,2025-07,Desktop,UAE,Active,Free
+U0528,S785864,Onboarding,2025-07-25 06:00:00,Paid,2025-07,Tablet,UK,Active,Free
+U0528,S785864,First Feature Use,2025-07-25 08:00:00,Paid,2025-07,Mobile,USA,Active,Free
+U0528,S785864,Upgrade,2025-07-24 23:00:00,Paid,2025-07,Desktop,USA,Active,Premium
+U0529,S873644,Landing,2025-07-05 03:00:00,Organic,2025-07,Tablet,USA,Expired,Free
+U0529,S873644,Sign-up,2025-07-02 17:00:00,Organic,2025-07,Tablet,Pakistan,Active,Free
+U0529,S873644,Onboarding,2025-07-05 22:00:00,Organic,2025-07,Desktop,India,Expired,Free
+U0529,S873644,First Feature Use,2025-07-04 00:00:00,Organic,2025-07,Tablet,USA,Expired,Free
+U0530,S499841,Landing,2025-02-04 09:00:00,Organic,2025-02,Tablet,UAE,Active,Free
+U0530,S499841,Sign-up,2025-02-02 21:00:00,Organic,2025-02,Desktop,USA,Active,Free
+U0530,S499841,Onboarding,2025-02-02 04:00:00,Organic,2025-02,Tablet,USA,Expired,Free
+U0530,S499841,First Feature Use,2025-02-02 03:00:00,Organic,2025-02,Desktop,India,Active,Free
+U0531,S504639,Landing,2025-05-30 21:00:00,Organic,2025-05,Mobile,UK,Expired,Free
+U0531,S504639,Sign-up,2025-05-30 20:00:00,Organic,2025-05,Desktop,India,Expired,Free
+U0531,S504639,Onboarding,2025-06-01 13:00:00,Organic,2025-05,Tablet,Pakistan,Expired,Free
+U0531,S504639,First Feature Use,2025-06-03 19:00:00,Organic,2025-05,Desktop,India,Active,Free
+U0532,S424803,Landing,2025-12-10 03:00:00,Organic,2025-12,Desktop,USA,Expired,Free
+U0532,S424803,Sign-up,2025-12-08 11:00:00,Organic,2025-12,Desktop,Pakistan,Active,Free
+U0532,S424803,Onboarding,2025-12-09 09:00:00,Organic,2025-12,Desktop,UK,Active,Free
+U0533,S651400,Landing,2025-09-10 12:00:00,Organic,2025-09,Tablet,UK,Expired,Free
+U0533,S651400,Sign-up,2025-09-12 17:00:00,Organic,2025-09,Tablet,UAE,Expired,Free
+U0533,S651400,Onboarding,2025-09-12 06:00:00,Organic,2025-09,Desktop,UK,Active,Free
+U0534,S288301,Landing,2025-08-10 23:00:00,Referral,2025-08,Tablet,USA,Active,Free
+U0534,S288301,Sign-up,2025-08-12 02:00:00,Referral,2025-08,Tablet,Pakistan,Active,Free
+U0535,S265603,Landing,2025-10-06 17:00:00,Organic,2025-10,Tablet,India,Expired,Free
+U0535,S265603,Sign-up,2025-10-05 04:00:00,Organic,2025-10,Tablet,Pakistan,Expired,Free
+U0536,S180251,Landing,2025-06-16 03:00:00,Paid,2025-06,Desktop,UK,Expired,Free
+U0536,S180251,Sign-up,2025-06-17 19:00:00,Paid,2025-06,Tablet,UK,Active,Free
+U0536,S180251,Onboarding,2025-06-18 02:00:00,Paid,2025-06,Desktop,Pakistan,Expired,Free
+U0536,S180251,First Feature Use,2025-06-16 14:00:00,Paid,2025-06,Tablet,India,Expired,Free
+U0536,S180251,Upgrade,2025-06-19 13:00:00,Paid,2025-06,Tablet,UK,Expired,Premium
+U0537,S171551,Landing,2025-05-05 20:00:00,Organic,2025-05,Desktop,Pakistan,Active,Free
+U0537,S171551,Sign-up,2025-05-05 22:00:00,Organic,2025-05,Mobile,Pakistan,Expired,Free
+U0537,S171551,Onboarding,2025-05-05 21:00:00,Organic,2025-05,Desktop,Pakistan,Expired,Free
+U0537,S171551,First Feature Use,2025-05-05 19:00:00,Organic,2025-05,Mobile,UAE,Active,Free
+U0537,S171551,Upgrade,2025-05-06 03:00:00,Organic,2025-05,Tablet,Pakistan,Active,Premium
+U0538,S830587,Landing,2025-09-27 01:00:00,Organic,2025-09,Tablet,UAE,Expired,Free
+U0538,S830587,Sign-up,2025-09-25 06:00:00,Organic,2025-09,Tablet,Pakistan,Active,Free
+U0538,S830587,Onboarding,2025-09-29 02:00:00,Organic,2025-09,Mobile,India,Active,Free
+U0539,S492843,Landing,2025-02-19 15:00:00,Referral,2025-02,Tablet,Pakistan,Active,Free
+U0539,S492843,Sign-up,2025-02-20 16:00:00,Referral,2025-02,Desktop,India,Active,Free
+U0539,S492843,Onboarding,2025-02-16 05:00:00,Referral,2025-02,Mobile,USA,Active,Free
+U0539,S492843,First Feature Use,2025-02-20 08:00:00,Referral,2025-02,Mobile,UAE,Active,Free
+U0540,S755017,Landing,2025-07-22 15:00:00,Organic,2025-07,Desktop,India,Active,Free
+U0541,S473897,Landing,2025-07-28 12:00:00,Organic,2025-07,Mobile,USA,Expired,Free
+U0541,S473897,Sign-up,2025-07-25 05:00:00,Organic,2025-07,Desktop,India,Expired,Free
+U0541,S473897,Onboarding,2025-07-26 14:00:00,Organic,2025-07,Tablet,UK,Active,Free
+U0541,S473897,First Feature Use,2025-07-28 19:00:00,Organic,2025-07,Tablet,USA,Active,Free
+U0541,S473897,Upgrade,2025-07-26 08:00:00,Organic,2025-07,Desktop,USA,Expired,Premium
+U0542,S810830,Landing,2025-03-11 16:00:00,Referral,2025-03,Tablet,UK,Active,Free
+U0542,S810830,Sign-up,2025-03-11 18:00:00,Referral,2025-03,Desktop,USA,Expired,Free
+U0542,S810830,Onboarding,2025-03-12 00:00:00,Referral,2025-03,Tablet,India,Active,Free
+U0543,S343904,Landing,2025-06-08 17:00:00,Organic,2025-06,Mobile,UK,Expired,Free
+U0543,S343904,Sign-up,2025-06-09 01:00:00,Organic,2025-06,Desktop,UK,Active,Free
+U0543,S343904,Onboarding,2025-06-11 10:00:00,Organic,2025-06,Desktop,India,Expired,Free
+U0543,S343904,First Feature Use,2025-06-11 22:00:00,Organic,2025-06,Mobile,India,Expired,Free
+U0543,S343904,Upgrade,2025-06-09 16:00:00,Organic,2025-06,Tablet,Pakistan,Expired,Premium
+U0544,S887009,Landing,2025-06-20 07:00:00,Organic,2025-06,Tablet,India,Expired,Free
+U0544,S887009,Sign-up,2025-06-21 18:00:00,Organic,2025-06,Mobile,India,Expired,Free
+U0544,S887009,Onboarding,2025-06-22 08:00:00,Organic,2025-06,Desktop,Pakistan,Expired,Free
+U0544,S887009,First Feature Use,2025-06-19 08:00:00,Organic,2025-06,Desktop,Pakistan,Active,Free
+U0545,S314140,Landing,2025-11-01 02:00:00,Organic,2025-10,Desktop,USA,Active,Free
+U0545,S314140,Sign-up,2025-11-02 06:00:00,Organic,2025-10,Tablet,UK,Expired,Free
+U0546,S272132,Landing,2025-08-09 09:00:00,Paid,2025-08,Desktop,UAE,Expired,Free
+U0546,S272132,Sign-up,2025-08-06 10:00:00,Paid,2025-08,Mobile,UK,Expired,Free
+U0546,S272132,Onboarding,2025-08-06 21:00:00,Paid,2025-08,Mobile,UK,Expired,Free
+U0546,S272132,First Feature Use,2025-08-08 16:00:00,Paid,2025-08,Tablet,UK,Active,Free
+U0547,S959416,Landing,2025-01-13 06:00:00,Referral,2025-01,Desktop,UAE,Active,Free
+U0548,S679707,Landing,2025-07-14 09:00:00,Paid,2025-07,Mobile,India,Expired,Free
+U0548,S679707,Sign-up,2025-07-15 01:00:00,Paid,2025-07,Desktop,India,Active,Free
+U0548,S679707,Onboarding,2025-07-14 01:00:00,Paid,2025-07,Tablet,UAE,Expired,Free
+U0548,S679707,First Feature Use,2025-07-16 03:00:00,Paid,2025-07,Mobile,UK,Expired,Free
+U0549,S502692,Landing,2025-11-02 21:00:00,Paid,2025-10,Desktop,UK,Active,Free
+U0549,S502692,Sign-up,2025-10-30 00:00:00,Paid,2025-10,Mobile,UAE,Expired,Free
+U0550,S634363,Landing,2025-12-20 07:00:00,Paid,2025-12,Desktop,UK,Active,Free
+U0550,S634363,Sign-up,2025-12-23 21:00:00,Paid,2025-12,Mobile,Pakistan,Active,Free
+U0550,S634363,Onboarding,2025-12-20 09:00:00,Paid,2025-12,Tablet,UK,Active,Free
+U0550,S634363,First Feature Use,2025-12-20 08:00:00,Paid,2025-12,Desktop,USA,Active,Free
+U0551,S112936,Landing,2025-11-30 19:00:00,Organic,2025-11,Desktop,USA,Active,Free
+U0551,S112936,Sign-up,2025-11-30 16:00:00,Organic,2025-11,Mobile,India,Expired,Free
+U0551,S112936,Onboarding,2025-11-27 08:00:00,Organic,2025-11,Tablet,UAE,Expired,Free
+U0552,S714549,Landing,2025-02-19 08:00:00,Organic,2025-02,Desktop,UAE,Active,Free
+U0552,S714549,Sign-up,2025-02-19 23:00:00,Organic,2025-02,Tablet,UK,Expired,Free
+U0552,S714549,Onboarding,2025-02-15 00:00:00,Organic,2025-02,Desktop,UK,Active,Free
+U0553,S201576,Landing,2025-08-02 21:00:00,Organic,2025-08,Desktop,UAE,Active,Free
+U0553,S201576,Sign-up,2025-08-05 18:00:00,Organic,2025-08,Desktop,India,Expired,Free
+U0553,S201576,Onboarding,2025-08-02 23:00:00,Organic,2025-08,Tablet,Pakistan,Expired,Free
+U0554,S694639,Landing,2025-04-14 09:00:00,Referral,2025-04,Mobile,UK,Active,Free
+U0554,S694639,Sign-up,2025-04-17 15:00:00,Referral,2025-04,Tablet,India,Active,Free
+U0554,S694639,Onboarding,2025-04-14 13:00:00,Referral,2025-04,Desktop,UK,Active,Free
+U0555,S390206,Landing,2025-10-27 01:00:00,Organic,2025-10,Desktop,UAE,Active,Free
+U0555,S390206,Sign-up,2025-10-30 13:00:00,Organic,2025-10,Tablet,Pakistan,Active,Free
+U0555,S390206,Onboarding,2025-10-28 03:00:00,Organic,2025-10,Tablet,Pakistan,Expired,Free
+U0556,S732275,Landing,2025-09-10 17:00:00,Paid,2025-09,Mobile,UAE,Active,Free
+U0556,S732275,Sign-up,2025-09-11 00:00:00,Paid,2025-09,Mobile,UK,Expired,Free
+U0556,S732275,Onboarding,2025-09-09 06:00:00,Paid,2025-09,Desktop,UAE,Expired,Free
+U0556,S732275,First Feature Use,2025-09-10 07:00:00,Paid,2025-09,Desktop,Pakistan,Expired,Free
+U0557,S832229,Landing,2025-01-15 11:00:00,Organic,2025-01,Tablet,India,Expired,Free
+U0557,S832229,Sign-up,2025-01-16 09:00:00,Organic,2025-01,Tablet,UK,Expired,Free
+U0558,S792299,Landing,2025-06-15 17:00:00,Organic,2025-06,Tablet,UK,Active,Free
+U0558,S792299,Sign-up,2025-06-17 05:00:00,Organic,2025-06,Mobile,UK,Active,Free
+U0558,S792299,Onboarding,2025-06-15 20:00:00,Organic,2025-06,Mobile,UK,Active,Free
+U0558,S792299,First Feature Use,2025-06-17 21:00:00,Organic,2025-06,Mobile,UAE,Active,Free
+U0559,S846525,Landing,2025-10-23 19:00:00,Organic,2025-10,Tablet,Pakistan,Active,Free
+U0560,S622112,Landing,2025-12-15 15:00:00,Paid,2025-12,Mobile,India,Expired,Free
+U0561,S221297,Landing,2025-05-07 17:00:00,Paid,2025-05,Desktop,Pakistan,Expired,Free
+U0561,S221297,Sign-up,2025-05-07 19:00:00,Paid,2025-05,Desktop,India,Expired,Free
+U0561,S221297,Onboarding,2025-05-08 19:00:00,Paid,2025-05,Mobile,UAE,Active,Free
+U0562,S854109,Landing,2025-12-10 11:00:00,Organic,2025-12,Tablet,UAE,Active,Free
+U0562,S854109,Sign-up,2025-12-14 23:00:00,Organic,2025-12,Tablet,USA,Active,Free
+U0562,S854109,Onboarding,2025-12-13 10:00:00,Organic,2025-12,Mobile,UK,Expired,Free
+U0562,S854109,First Feature Use,2025-12-13 11:00:00,Organic,2025-12,Tablet,USA,Expired,Free
+U0563,S947718,Landing,2025-03-02 00:00:00,Organic,2025-03,Tablet,Pakistan,Expired,Free
+U0563,S947718,Sign-up,2025-03-01 16:00:00,Organic,2025-03,Mobile,UK,Active,Free
+U0563,S947718,Onboarding,2025-03-02 15:00:00,Organic,2025-03,Desktop,USA,Active,Free
+U0563,S947718,First Feature Use,2025-03-05 12:00:00,Organic,2025-03,Mobile,UK,Expired,Free
+U0564,S908746,Landing,2025-03-08 20:00:00,Organic,2025-03,Mobile,UAE,Active,Free
+U0564,S908746,Sign-up,2025-03-10 08:00:00,Organic,2025-03,Mobile,India,Expired,Free
+U0564,S908746,Onboarding,2025-03-09 15:00:00,Organic,2025-03,Mobile,India,Expired,Free
+U0564,S908746,First Feature Use,2025-03-06 18:00:00,Organic,2025-03,Tablet,Pakistan,Expired,Free
+U0565,S423896,Landing,2025-03-08 01:00:00,Paid,2025-03,Mobile,India,Expired,Free
+U0565,S423896,Sign-up,2025-03-06 13:00:00,Paid,2025-03,Tablet,UK,Active,Free
+U0566,S949566,Landing,2025-04-22 23:00:00,Organic,2025-04,Desktop,Pakistan,Active,Free
+U0567,S998397,Landing,2025-06-06 12:00:00,Paid,2025-06,Desktop,Pakistan,Expired,Free
+U0568,S453800,Landing,2025-06-30 02:00:00,Organic,2025-06,Desktop,USA,Expired,Free
+U0569,S396080,Landing,2025-12-27 02:00:00,Paid,2025-12,Desktop,India,Expired,Free
+U0570,S888808,Landing,2026-01-01 13:00:00,Paid,2025-12,Mobile,India,Active,Free
+U0570,S888808,Sign-up,2025-12-31 03:00:00,Paid,2025-12,Tablet,India,Active,Free
+U0570,S888808,Onboarding,2025-12-31 22:00:00,Paid,2025-12,Tablet,USA,Active,Free
+U0570,S888808,First Feature Use,2026-01-02 14:00:00,Paid,2025-12,Desktop,UK,Expired,Free
+U0571,S812449,Landing,2025-02-19 15:00:00,Referral,2025-02,Tablet,UAE,Expired,Free
+U0571,S812449,Sign-up,2025-02-19 19:00:00,Referral,2025-02,Tablet,UK,Active,Free
+U0571,S812449,Onboarding,2025-02-19 04:00:00,Referral,2025-02,Desktop,India,Expired,Free
+U0572,S612361,Landing,2025-04-02 12:00:00,Organic,2025-03,Desktop,UK,Expired,Free
+U0572,S612361,Sign-up,2025-03-31 11:00:00,Organic,2025-03,Tablet,UK,Expired,Free
+U0572,S612361,Onboarding,2025-03-30 01:00:00,Organic,2025-03,Desktop,Pakistan,Active,Free
+U0572,S612361,First Feature Use,2025-03-30 15:00:00,Organic,2025-03,Mobile,USA,Active,Free
+U0573,S124145,Landing,2025-09-03 23:00:00,Paid,2025-09,Mobile,UK,Expired,Free
+U0573,S124145,Sign-up,2025-09-04 14:00:00,Paid,2025-09,Tablet,India,Active,Free
+U0573,S124145,Onboarding,2025-09-04 17:00:00,Paid,2025-09,Desktop,USA,Active,Free
+U0574,S525019,Landing,2025-07-23 14:00:00,Referral,2025-07,Desktop,USA,Active,Free
+U0574,S525019,Sign-up,2025-07-25 00:00:00,Referral,2025-07,Desktop,Pakistan,Active,Free
+U0574,S525019,Onboarding,2025-07-25 14:00:00,Referral,2025-07,Tablet,India,Active,Free
+U0575,S681667,Landing,2025-03-05 08:00:00,Organic,2025-03,Desktop,Pakistan,Active,Free
+U0575,S681667,Sign-up,2025-03-06 16:00:00,Organic,2025-03,Mobile,UAE,Active,Free
+U0575,S681667,Onboarding,2025-03-06 06:00:00,Organic,2025-03,Tablet,Pakistan,Active,Free
+U0575,S681667,First Feature Use,2025-03-05 14:00:00,Organic,2025-03,Desktop,USA,Expired,Free
+U0575,S681667,Upgrade,2025-03-07 12:00:00,Organic,2025-03,Tablet,UK,Active,Premium
+U0576,S828866,Landing,2025-11-08 06:00:00,Organic,2025-11,Desktop,India,Active,Free
+U0576,S828866,Sign-up,2025-11-08 14:00:00,Organic,2025-11,Desktop,India,Active,Free
+U0576,S828866,Onboarding,2025-11-10 03:00:00,Organic,2025-11,Mobile,UAE,Active,Free
+U0576,S828866,First Feature Use,2025-11-10 21:00:00,Organic,2025-11,Tablet,UK,Active,Free
+U0577,S676558,Landing,2025-12-01 03:00:00,Organic,2025-11,Mobile,Pakistan,Expired,Free
+U0578,S809388,Landing,2025-03-18 09:00:00,Organic,2025-03,Tablet,India,Expired,Free
+U0578,S809388,Sign-up,2025-03-18 00:00:00,Organic,2025-03,Tablet,USA,Active,Free
+U0578,S809388,Onboarding,2025-03-17 05:00:00,Organic,2025-03,Desktop,UAE,Expired,Free
+U0579,S497349,Landing,2025-05-07 08:00:00,Organic,2025-05,Mobile,Pakistan,Expired,Free
+U0579,S497349,Sign-up,2025-05-11 20:00:00,Organic,2025-05,Mobile,UAE,Active,Free
+U0579,S497349,Onboarding,2025-05-11 15:00:00,Organic,2025-05,Desktop,UAE,Active,Free
+U0579,S497349,First Feature Use,2025-05-07 12:00:00,Organic,2025-05,Mobile,India,Expired,Free
+U0580,S210103,Landing,2025-04-03 03:00:00,Paid,2025-03,Mobile,Pakistan,Expired,Free
+U0580,S210103,Sign-up,2025-04-03 17:00:00,Paid,2025-03,Tablet,UAE,Expired,Free
+U0581,S736975,Landing,2025-03-29 23:00:00,Organic,2025-03,Mobile,,Expired,Free
+U0581,S736975,Sign-up,2025-03-31 13:00:00,Organic,2025-03,Tablet,India,Expired,Free
+U0582,S109958,Landing,2025-03-25 21:00:00,Paid,2025-03,Tablet,UAE,Active,Free
+U0582,S109958,Sign-up,2025-03-24 14:00:00,Paid,2025-03,Tablet,UK,Expired,Free
+U0582,S109958,Onboarding,2025-03-21 23:00:00,Paid,2025-03,Mobile,UAE,Expired,Free
+U0582,S109958,First Feature Use,2025-03-23 16:00:00,Paid,2025-03,Mobile,UAE,Expired,Free
+U0582,S109958,Upgrade,2025-03-23 18:00:00,Paid,2025-03,Tablet,India,Expired,Free
+U0583,S420509,Landing,2025-02-19 01:00:00,Organic,2025-02,Desktop,Pakistan,Expired,Free
+U0583,S420509,Sign-up,2025-02-18 22:00:00,Organic,2025-02,Mobile,Pakistan,Expired,Free
+U0583,S420509,Onboarding,2025-02-19 14:00:00,Organic,2025-02,Tablet,India,Expired,Free
+U0583,S420509,First Feature Use,2025-02-18 15:00:00,Organic,2025-02,Tablet,USA,Active,Free
+U0583,S420509,Upgrade,2025-02-18 03:00:00,Organic,2025-02,Desktop,USA,Active,Free
+U0584,S848851,Landing,2025-06-30 09:00:00,Organic,2025-06,Tablet,USA,Active,Free
+U0584,S848851,Sign-up,2025-06-29 05:00:00,Organic,2025-06,Mobile,India,Active,Free
+U0584,S848851,Onboarding,2025-06-26 22:00:00,Organic,2025-06,Desktop,UAE,Active,Free
+U0585,S638637,Landing,2025-08-06 19:00:00,Organic,2025-08,Tablet,India,Active,Free
+U0585,S638637,Sign-up,2025-08-06 13:00:00,Organic,2025-08,Mobile,UK,Expired,Free
+U0585,S638637,Onboarding,2025-08-06 09:00:00,Organic,2025-08,Desktop,Pakistan,Expired,Free
+U0586,S328026,Landing,2025-09-21 04:00:00,Referral,2025-09,Mobile,USA,Expired,Free
+U0587,S160289,Landing,2025-08-24 23:00:00,Organic,2025-08,Mobile,UAE,Active,Free
+U0587,S160289,Sign-up,2025-08-24 12:00:00,Organic,2025-08,Mobile,UK,Active,Free
+U0587,S160289,Onboarding,2025-08-24 10:00:00,Organic,2025-08,Tablet,USA,Active,Free
+U0587,S160289,First Feature Use,2025-08-26 04:00:00,Organic,2025-08,Desktop,UK,Active,Free
+U0588,S263190,Landing,2025-04-28 20:00:00,Paid,2025-04,Mobile,Pakistan,Expired,Free
+U0588,S263190,Sign-up,2025-04-29 12:00:00,Paid,2025-04,Mobile,India,Active,Free
+U0588,S263190,Onboarding,2025-04-27 21:00:00,Paid,2025-04,Tablet,UK,Active,Free
+U0588,S263190,First Feature Use,2025-04-27 21:00:00,Paid,2025-04,Tablet,India,Active,Free
+U0589,S298775,Landing,2025-07-24 13:00:00,Organic,2025-07,Tablet,UAE,Active,Free
+U0589,S298775,Sign-up,2025-07-24 05:00:00,Organic,2025-07,Mobile,USA,Expired,Free
+U0589,S298775,Onboarding,2025-07-26 06:00:00,Organic,2025-07,Tablet,India,Expired,Free
+U0589,S298775,First Feature Use,2025-07-26 00:00:00,Organic,2025-07,Mobile,USA,Expired,Free
+U0590,S237801,Landing,2025-01-11 06:00:00,Organic,2025-01,Tablet,UAE,Expired,Free
+U0590,S237801,Sign-up,2025-01-14 04:00:00,Organic,2025-01,Tablet,Pakistan,Expired,Free
+U0590,S237801,Onboarding,2025-01-13 13:00:00,Organic,2025-01,Mobile,UAE,Expired,Free
+U0590,S237801,First Feature Use,2025-01-11 10:00:00,Organic,2025-01,Mobile,India,Active,Free
+U0591,S864672,Landing,2025-05-28 14:00:00,Paid,2025-05,Mobile,India,Expired,Free
+U0592,S308050,Landing,2025-12-28 06:00:00,Paid,2025-12,Desktop,India,Active,Free
+U0593,S340526,Landing,2025-01-21 01:00:00,Organic,2025-01,Desktop,Pakistan,Expired,Free
+U0593,S340526,Sign-up,2025-01-22 04:00:00,Organic,2025-01,Tablet,UAE,Active,Free
+U0593,S340526,Onboarding,2025-01-21 04:00:00,Organic,2025-01,Mobile,UK,Expired,Free
+U0593,S340526,First Feature Use,2025-01-20 07:00:00,Organic,2025-01,Tablet,UK,Active,Free
+U0593,S340526,Upgrade,2025-01-21 14:00:00,Organic,2025-01,Desktop,UAE,Expired,Premium
+U0594,S468075,Landing,2025-06-13 23:00:00,Paid,2025-06,Desktop,Pakistan,Active,Free
+U0595,S792511,Landing,2025-05-27 12:00:00,Paid,2025-05,Mobile,India,Expired,Free
+U0595,S792511,Sign-up,2025-05-29 14:00:00,Paid,2025-05,Mobile,UAE,Expired,Free
+U0596,S216946,Landing,2025-12-17 18:00:00,Organic,2025-12,Mobile,UAE,Expired,Free
+U0596,S216946,Sign-up,2025-12-17 06:00:00,Organic,2025-12,Tablet,UAE,Active,Free
+U0597,S712711,Landing,2025-03-12 17:00:00,Organic,2025-03,Tablet,India,Active,Free
+U0597,S712711,Sign-up,2025-03-11 18:00:00,Organic,2025-03,Mobile,Pakistan,Active,Free
+U0597,S712711,Onboarding,2025-03-13 00:00:00,Organic,2025-03,Tablet,USA,Expired,Free
+U0597,S712711,First Feature Use,2025-03-09 14:00:00,Organic,2025-03,Tablet,UK,Active,Free
+U0598,S659475,Landing,2025-03-11 13:00:00,Paid,2025-03,Tablet,UAE,Expired,Free
+U0598,S659475,Sign-up,2025-03-09 09:00:00,Paid,2025-03,Tablet,Pakistan,Expired,Free
+U0598,S659475,Onboarding,2025-03-07 08:00:00,Paid,2025-03,Mobile,UK,Active,Free
+U0598,S659475,First Feature Use,2025-03-07 21:00:00,Paid,2025-03,Tablet,UAE,Active,Free
+U0599,S403726,Landing,2025-02-04 16:00:00,Organic,2025-02,Desktop,UK,Expired,Free
+U0600,S817953,Landing,2025-02-10 01:00:00,Paid,2025-02,Tablet,UK,Expired,Free
+U0600,S817953,Sign-up,2025-02-11 05:00:00,Paid,2025-02,Mobile,,Active,Free
+U0601,S103775,Landing,2025-11-04 05:00:00,Organic,2025-10,Tablet,UK,Expired,Free
+U0601,S103775,Sign-up,2025-11-01 14:00:00,Organic,2025-10,Desktop,UAE,Expired,Free
+U0602,S678972,Landing,2025-01-25 11:00:00,Organic,2025-01,Desktop,UAE,Active,Free
+U0602,S678972,Sign-up,2025-01-27 10:00:00,Organic,2025-01,Desktop,India,Active,Free
+U0602,S678972,Onboarding,2025-01-24 00:00:00,Organic,2025-01,Tablet,UAE,Expired,Free
+U0602,S678972,First Feature Use,2025-01-25 17:00:00,Organic,2025-01,Desktop,USA,Expired,Free
+U0603,S857155,Landing,2025-06-04 09:00:00,Organic,2025-05,Mobile,India,Expired,Free
+U0603,S857155,Sign-up,2025-05-31 22:00:00,Organic,2025-05,Mobile,Pakistan,Active,Free
+U0603,S857155,Onboarding,2025-06-03 20:00:00,Organic,2025-05,Tablet,UK,Expired,Free
+U0604,S756649,Landing,2025-04-17 04:00:00,Paid,2025-04,Mobile,UAE,Active,Free
+U0605,S709918,Landing,2025-03-23 13:00:00,Paid,2025-03,Desktop,UK,Active,Free
+U0605,S709918,Sign-up,2025-03-23 10:00:00,Paid,2025-03,Desktop,India,Active,Free
+U0605,S709918,Onboarding,2025-03-24 00:00:00,Paid,2025-03,Mobile,India,Expired,Free
+U0605,S709918,First Feature Use,2025-03-21 02:00:00,Paid,2025-03,Mobile,India,Active,Free
+U0605,S709918,Upgrade,2025-03-25 08:00:00,Paid,2025-03,Mobile,USA,Active,Free
+U0606,S250494,Landing,2025-08-23 03:00:00,Organic,2025-08,Desktop,USA,Active,Free
+U0607,S862067,Landing,2025-11-09 10:00:00,Paid,2025-11,Tablet,Pakistan,Active,Free
+U0607,S862067,Sign-up,2025-11-06 07:00:00,Paid,2025-11,Desktop,UAE,Active,Free
+U0607,S862067,Onboarding,2025-11-10 00:00:00,Paid,2025-11,Tablet,USA,Active,Free
+U0607,S862067,First Feature Use,2025-11-09 05:00:00,Paid,2025-11,Desktop,Pakistan,Expired,Free
+U0607,S862067,Upgrade,2025-11-09 13:00:00,Paid,2025-11,Tablet,Pakistan,Active,Free
+U0608,S603762,Landing,2025-03-26 10:00:00,Paid,2025-03,Tablet,USA,Active,Free
+U0608,S603762,Sign-up,2025-03-25 02:00:00,Paid,2025-03,Desktop,Pakistan,Expired,Free
+U0608,S603762,Onboarding,2025-03-25 13:00:00,Paid,2025-03,Tablet,UK,Active,Free
+U0608,S603762,First Feature Use,2025-03-25 00:00:00,Paid,2025-03,Desktop,Pakistan,Active,Free
+U0609,S547883,Landing,2025-12-05 15:00:00,Organic,2025-12,Mobile,Pakistan,Expired,Free
+U0609,S547883,Sign-up,2025-12-02 21:00:00,Organic,2025-12,Desktop,India,Active,Free
+U0610,S395503,Landing,2025-06-24 21:00:00,Organic,2025-06,Desktop,Pakistan,Active,Free
+U0610,S395503,Sign-up,2025-06-20 22:00:00,Organic,2025-06,Mobile,USA,Expired,Free
+U0611,S728738,Landing,2025-03-21 15:00:00,Organic,2025-03,Mobile,USA,Expired,Free
+U0612,S465308,Landing,2025-09-17 07:00:00,Referral,2025-09,Tablet,Pakistan,Active,Free
+U0612,S465308,Sign-up,2025-09-17 14:00:00,Referral,2025-09,Desktop,India,Expired,Free
+U0613,S254958,Landing,2025-09-02 14:00:00,Organic,2025-09,Tablet,UK,Expired,Free
+U0614,S251695,Landing,2025-04-05 21:00:00,Organic,2025-04,Mobile,UK,Expired,Free
+U0615,S604667,Landing,2025-11-06 18:00:00,Paid,2025-11,Desktop,India,Expired,Free
+U0616,S538996,Landing,2025-10-04 19:00:00,Paid,2025-10,Mobile,USA,Active,Free
+U0616,S538996,Sign-up,2025-10-04 17:00:00,Paid,2025-10,Desktop,India,Expired,Free
+U0616,S538996,Onboarding,2025-10-01 00:00:00,Paid,2025-10,Desktop,Pakistan,Expired,Free
+U0616,S538996,First Feature Use,2025-10-03 23:00:00,Paid,2025-10,Mobile,India,Active,Free
+U0616,S538996,Upgrade,2025-10-01 07:00:00,Paid,2025-10,Mobile,UAE,Active,Premium
+U0617,S582752,Landing,2025-08-04 07:00:00,Organic,2025-08,Tablet,India,Active,Free
+U0617,S582752,Sign-up,2025-08-07 17:00:00,Organic,2025-08,Tablet,India,Expired,Free
+U0618,S868691,Landing,2025-07-13 04:00:00,Organic,2025-07,Desktop,Pakistan,Active,Free
+U0618,S868691,Sign-up,2025-07-11 22:00:00,Organic,2025-07,Desktop,Pakistan,Active,Free
+U0618,S868691,Onboarding,2025-07-10 09:00:00,Organic,2025-07,Desktop,USA,Expired,Free
+U0618,S868691,First Feature Use,2025-07-10 19:00:00,Organic,2025-07,Desktop,UK,Active,Free
+U0619,S884447,Landing,2025-09-01 16:00:00,Paid,2025-08,Desktop,UAE,Active,Free
+U0619,S884447,Sign-up,2025-08-29 19:00:00,Paid,2025-08,Desktop,Pakistan,Active,Free
+U0619,S884447,Onboarding,2025-08-31 16:00:00,Paid,2025-08,Desktop,Pakistan,Expired,Free
+U0620,S973128,Landing,2025-10-12 05:00:00,Organic,2025-10,Mobile,India,Expired,Free
+U0620,S973128,Sign-up,2025-10-11 11:00:00,Organic,2025-10,Tablet,UK,Active,Free
+U0620,S973128,Onboarding,2025-10-14 23:00:00,Organic,2025-10,Desktop,UK,Active,Free
+U0620,S973128,First Feature Use,2025-10-12 04:00:00,Organic,2025-10,Mobile,India,Active,Free
+U0620,S973128,Upgrade,2025-10-15 08:00:00,Organic,2025-10,Tablet,UK,Expired,Premium
+U0621,S784405,Landing,2025-03-26 13:00:00,Paid,2025-03,Desktop,UAE,Expired,Free
+U0621,S784405,Sign-up,2025-03-26 03:00:00,Paid,2025-03,Desktop,UAE,Active,Free
+U0621,S784405,Onboarding,2025-03-28 21:00:00,Paid,2025-03,Desktop,Pakistan,Active,Free
+U0621,S784405,First Feature Use,2025-03-29 04:00:00,Paid,2025-03,Desktop,UAE,Active,Free
+U0621,S784405,Upgrade,2025-03-28 22:00:00,Paid,2025-03,Desktop,Pakistan,Active,Premium
+U0622,S189170,Landing,2025-01-23 05:00:00,Referral,2025-01,Desktop,UAE,Active,Free
+U0622,S189170,Sign-up,2025-01-28 00:00:00,Referral,2025-01,Mobile,Pakistan,Expired,Free
+U0623,S888193,Landing,2025-09-17 20:00:00,Organic,2025-09,Mobile,India,Active,Free
+U0623,S888193,Sign-up,2025-09-15 18:00:00,Organic,2025-09,Mobile,USA,Active,Free
+U0624,S626570,Landing,2025-01-14 13:00:00,Referral,2025-01,Desktop,India,Expired,Free
+U0624,S626570,Sign-up,2025-01-13 10:00:00,Referral,2025-01,Tablet,Pakistan,Active,Free
+U0624,S626570,Onboarding,2025-01-17 17:00:00,Referral,2025-01,Desktop,India,Active,Free
+U0624,S626570,First Feature Use,2025-01-15 16:00:00,Referral,2025-01,Tablet,USA,Expired,Free
+U0625,S569217,Landing,2025-05-31 07:00:00,Paid,2025-05,Desktop,UK,Active,Free
+U0625,S569217,Sign-up,2025-05-30 02:00:00,Paid,2025-05,Tablet,USA,Active,Free
+U0626,S259804,Landing,2025-02-19 18:00:00,Paid,2025-02,Mobile,USA,Active,Free
+U0627,S623147,Landing,2025-03-28 20:00:00,Organic,2025-03,Desktop,UAE,Expired,Free
+U0628,S470533,Landing,2025-12-31 09:00:00,Organic,2025-12,Mobile,UAE,Expired,Free
+U0629,S781880,Landing,2025-10-22 07:00:00,Referral,2025-10,Tablet,India,Expired,Free
+U0629,S781880,Sign-up,2025-10-20 22:00:00,Referral,2025-10,Tablet,USA,Expired,Free
+U0629,S781880,Onboarding,2025-10-20 23:00:00,Referral,2025-10,Desktop,UK,Expired,Free
+U0629,S781880,First Feature Use,2025-10-20 09:00:00,Referral,2025-10,Tablet,Pakistan,Active,Free
+U0630,S877039,Landing,2025-10-16 13:00:00,Paid,2025-10,Mobile,India,Expired,Free
+U0630,S877039,Sign-up,2025-10-19 13:00:00,Paid,2025-10,Desktop,India,Expired,Free
+U0631,S584734,Landing,2025-08-27 13:00:00,Paid,2025-08,Desktop,India,Active,Free
+U0631,S584734,Sign-up,2025-08-31 21:00:00,Paid,2025-08,Mobile,UK,Active,Free
+U0631,S584734,Onboarding,2025-08-29 03:00:00,Paid,2025-08,Mobile,Pakistan,Expired,Free
+U0632,S459057,Landing,2025-04-19 19:00:00,Referral,2025-04,Mobile,India,Active,Free
+U0632,S459057,Sign-up,2025-04-20 16:00:00,Referral,2025-04,Tablet,Pakistan,Expired,Free
+U0632,S459057,Onboarding,2025-04-19 07:00:00,Referral,2025-04,Mobile,UK,Expired,Free
+U0632,S459057,First Feature Use,2025-04-20 03:00:00,Referral,2025-04,Desktop,India,Active,Free
+U0632,S459057,Upgrade,2025-04-23 01:00:00,Referral,2025-04,Tablet,UK,Expired,Premium
+U0633,S766566,Landing,2025-02-07 09:00:00,Organic,2025-02,Mobile,USA,Active,Free
+U0633,S766566,Sign-up,2025-02-08 13:00:00,Organic,2025-02,Mobile,India,Active,Free
+U0633,S766566,Onboarding,2025-02-05 11:00:00,Organic,2025-02,Mobile,UAE,Expired,Free
+U0634,S272525,Landing,2025-09-05 21:00:00,Organic,2025-09,Tablet,USA,Expired,Free
+U0634,S272525,Sign-up,2025-09-08 09:00:00,Organic,2025-09,Desktop,USA,Active,Free
+U0634,S272525,Onboarding,2025-09-04 09:00:00,Organic,2025-09,Tablet,USA,Active,Free
+U0634,S272525,First Feature Use,2025-09-05 17:00:00,Organic,2025-09,Tablet,UAE,Active,Free
+U0635,S257817,Landing,2025-09-13 14:00:00,Referral,2025-09,Tablet,UK,Expired,Free
+U0636,S645984,Landing,2025-03-09 23:00:00,Paid,2025-03,Desktop,UK,Active,Free
+U0636,S645984,Sign-up,2025-03-09 04:00:00,Paid,2025-03,Mobile,India,Expired,Free
+U0636,S645984,Onboarding,2025-03-07 02:00:00,Paid,2025-03,Desktop,USA,Active,Free
+U0636,S645984,First Feature Use,2025-03-07 23:00:00,Paid,2025-03,Mobile,Pakistan,Expired,Free
+U0636,S645984,Upgrade,2025-03-10 18:00:00,Paid,2025-03,Mobile,USA,Active,Premium
+U0637,S780433,Landing,2025-08-01 06:00:00,Referral,2025-07,Tablet,UAE,Active,Free
+U0637,S780433,Sign-up,2025-08-03 22:00:00,Referral,2025-07,Desktop,UK,Expired,Free
+U0638,S491246,Landing,2025-03-28 16:00:00,Organic,2025-03,Tablet,UK,Expired,Free
+U0638,S491246,Sign-up,2025-03-28 17:00:00,Organic,2025-03,Tablet,Pakistan,Active,Free
+U0638,S491246,Onboarding,2025-03-29 07:00:00,Organic,2025-03,Desktop,Pakistan,Active,Free
+U0639,S746195,Landing,2025-09-15 07:00:00,Referral,2025-09,Tablet,Pakistan,Expired,Free
+U0640,S627812,Landing,2025-12-10 00:00:00,Paid,2025-12,Desktop,India,Expired,Free
+U0640,S627812,Sign-up,2025-12-08 15:00:00,Paid,2025-12,Mobile,UK,Expired,Free
+U0640,S627812,Onboarding,2025-12-12 20:00:00,Paid,2025-12,Tablet,UK,Active,Free
+U0640,S627812,First Feature Use,2025-12-13 00:00:00,Paid,2025-12,Mobile,India,Expired,Free
+U0641,S380608,Landing,2025-06-11 05:00:00,Referral,2025-06,Mobile,India,Active,Free
+U0642,S534694,Landing,2025-03-24 11:00:00,Organic,2025-03,Tablet,USA,Expired,Free
+U0643,S451367,Landing,2025-08-10 00:00:00,Organic,2025-08,Tablet,UK,Active,Free
+U0643,S451367,Sign-up,2025-08-13 06:00:00,Organic,2025-08,Tablet,UK,Active,Free
+U0644,S767181,Landing,2025-04-02 18:00:00,Organic,2025-03,,USA,Active,Free
+U0644,S767181,Sign-up,2025-04-02 08:00:00,Organic,2025-03,Tablet,UK,Expired,Free
+U0644,S767181,Onboarding,2025-04-03 11:00:00,Organic,2025-03,Tablet,India,Expired,Free
+U0644,S767181,First Feature Use,2025-03-31 02:00:00,Organic,2025-03,Desktop,Pakistan,Active,Free
+U0644,S767181,Upgrade,2025-04-01 07:00:00,Organic,2025-03,Desktop,USA,Active,Free
+U0645,S748124,Landing,2025-10-23 08:00:00,Paid,2025-10,Mobile,India,Active,Free
+U0645,S748124,Sign-up,2025-10-23 11:00:00,Paid,2025-10,Desktop,UAE,Active,Free
+U0645,S748124,Onboarding,2025-10-22 20:00:00,Paid,2025-10,Desktop,UK,Expired,Free
+U0645,S748124,First Feature Use,2025-10-23 12:00:00,Paid,2025-10,Desktop,UAE,Active,Free
+U0646,S250753,Landing,2025-10-24 14:00:00,Paid,2025-10,Mobile,USA,Active,Free
+U0647,S212278,Landing,2025-04-05 02:00:00,Organic,2025-04,Desktop,UK,Active,Free
+U0647,S212278,Sign-up,2025-04-05 04:00:00,Organic,2025-04,Desktop,UK,Active,Free
+U0647,S212278,Onboarding,2025-04-04 02:00:00,Organic,2025-04,Tablet,UK,Expired,Free
+U0647,S212278,First Feature Use,2025-04-07 17:00:00,Organic,2025-04,Mobile,UK,Active,Free
+U0648,S288540,Landing,2025-12-05 20:00:00,Organic,2025-12,Mobile,USA,Active,Free
+U0648,S288540,Sign-up,2025-12-04 20:00:00,Organic,2025-12,Tablet,UAE,Active,Free
+U0648,S288540,Onboarding,2025-12-05 00:00:00,Organic,2025-12,Tablet,Pakistan,Active,Free
+U0648,S288540,First Feature Use,2025-12-06 18:00:00,Organic,2025-12,Tablet,India,Active,Free
+U0649,S482615,Landing,2025-01-21 00:00:00,Organic,2025-01,Desktop,UAE,Expired,Free
+U0649,S482615,Sign-up,2025-01-18 13:00:00,Organic,2025-01,Desktop,Pakistan,Expired,Free
+U0649,S482615,Onboarding,2025-01-19 18:00:00,Organic,2025-01,Tablet,UAE,Expired,Free
+U0650,S881393,Landing,2025-09-24 22:00:00,Referral,2025-09,Desktop,UAE,Active,Free
+U0651,S307488,Landing,2025-05-24 13:00:00,Paid,2025-05,Tablet,USA,Expired,Free
+U0652,S273699,Landing,2025-09-08 16:00:00,Paid,2025-09,Tablet,Pakistan,Expired,Free
+U0652,S273699,Sign-up,2025-09-09 06:00:00,Paid,2025-09,Desktop,USA,Expired,Free
+U0652,S273699,Onboarding,2025-09-08 23:00:00,Paid,2025-09,Tablet,Pakistan,Expired,Free
+U0652,S273699,First Feature Use,2025-09-07 21:00:00,Paid,2025-09,Desktop,USA,Expired,Free
+U0652,S273699,Upgrade,2025-09-10 03:00:00,Paid,2025-09,Mobile,UAE,Expired,Premium
+U0653,S131394,Landing,2025-08-09 21:00:00,Organic,2025-08,Desktop,Pakistan,Active,Free
+U0654,S788866,Landing,2025-06-12 11:00:00,Organic,2025-06,Tablet,UAE,Active,Free
+U0654,S788866,Sign-up,2025-06-12 23:00:00,Organic,2025-06,Desktop,UK,Expired,Free
+U0654,S788866,Onboarding,2025-06-13 05:00:00,Organic,2025-06,Desktop,USA,Active,Free
+U0654,S788866,First Feature Use,2025-06-10 13:00:00,Organic,2025-06,Tablet,UAE,Active,Free
+U0654,S788866,Upgrade,2025-06-13 01:00:00,Organic,2025-06,Tablet,UK,Expired,Premium
+U0655,S952905,Landing,2025-01-28 15:00:00,Organic,2025-01,Desktop,UAE,Expired,Free
+U0656,S225052,Landing,2025-11-07 10:00:00,Organic,2025-11,Tablet,Pakistan,Expired,Free
+U0656,S225052,Sign-up,2025-11-05 12:00:00,Organic,2025-11,Desktop,UK,Active,Free
+U0656,S225052,Onboarding,2025-11-08 18:00:00,Organic,2025-11,Tablet,USA,Active,Free
+U0656,S225052,First Feature Use,2025-11-05 19:00:00,Organic,2025-11,Tablet,Pakistan,Active,Free
+U0656,S225052,Upgrade,2025-11-06 12:00:00,Organic,2025-11,Desktop,UK,Expired,Premium
+U0657,S432597,Landing,2025-02-13 17:00:00,Paid,2025-02,Mobile,UK,Active,Free
+U0657,S432597,Sign-up,2025-02-14 11:00:00,Paid,2025-02,Mobile,USA,Active,Free
+U0657,S432597,Onboarding,2025-02-10 03:00:00,Paid,2025-02,Desktop,Pakistan,Active,Free
+U0657,S432597,First Feature Use,2025-02-10 17:00:00,Paid,2025-02,Desktop,UAE,Expired,Free
+U0658,S337336,Landing,2025-07-10 20:00:00,Organic,2025-07,Desktop,Pakistan,Expired,Free
+U0659,S923073,Landing,2025-06-06 10:00:00,Organic,2025-06,Tablet,India,Active,Free
+U0659,S923073,Sign-up,2025-06-08 02:00:00,Organic,2025-06,Mobile,Pakistan,Active,Free
+U0659,S923073,Onboarding,2025-06-06 16:00:00,Organic,2025-06,Desktop,USA,Expired,Free
+U0659,S923073,First Feature Use,2025-06-08 09:00:00,Organic,2025-06,Mobile,Pakistan,Active,Free
+U0660,S705956,Landing,2025-05-25 13:00:00,Paid,2025-05,Tablet,Pakistan,Expired,Free
+U0660,S705956,Sign-up,2025-05-26 23:00:00,Paid,2025-05,Desktop,India,Active,Free
+U0660,S705956,Onboarding,2025-05-24 09:00:00,Paid,2025-05,Mobile,Pakistan,Active,Free
+U0660,S705956,First Feature Use,2025-05-24 01:00:00,Paid,2025-05,Tablet,India,Expired,Free
+U0660,S705956,Upgrade,2025-05-28 08:00:00,Paid,2025-05,Mobile,India,Expired,Free
+U0661,S456987,Landing,2025-10-01 18:00:00,Organic,2025-09,Mobile,India,Active,Free
+U0661,S456987,Sign-up,2025-10-02 21:00:00,Organic,2025-09,Desktop,India,Expired,Free
+U0661,S456987,Onboarding,2025-09-30 01:00:00,Organic,2025-09,Mobile,USA,Active,Free
+U0662,S917911,Landing,2025-05-26 01:00:00,Organic,2025-05,Tablet,Pakistan,Active,Free
+U0662,S917911,Sign-up,2025-05-25 11:00:00,Organic,2025-05,Desktop,Pakistan,Active,Free
+U0662,S917911,Onboarding,2025-05-23 02:00:00,Organic,2025-05,Mobile,India,Expired,Free
+U0663,S129974,Landing,2025-08-21 03:00:00,Paid,2025-08,Desktop,UK,Expired,Free
+U0663,S129974,Sign-up,2025-08-22 17:00:00,Paid,2025-08,Mobile,Pakistan,Expired,Free
+U0663,S129974,Onboarding,2025-08-21 10:00:00,Paid,2025-08,Mobile,Pakistan,Active,Free
+U0663,S129974,First Feature Use,2025-08-23 11:00:00,Paid,2025-08,Mobile,UK,Active,Free
+U0664,S408287,Landing,2025-11-01 06:00:00,Organic,2025-11,Tablet,,Active,Free
+U0664,S408287,Sign-up,2025-11-02 04:00:00,Organic,2025-11,Desktop,,Active,Free
+U0664,S408287,Onboarding,2025-11-04 01:00:00,Organic,2025-11,Mobile,India,Active,Free
+U0664,S408287,First Feature Use,2025-11-03 20:00:00,Organic,2025-11,Desktop,UAE,Active,Free
+U0664,S408287,Upgrade,2025-11-05 16:00:00,Organic,2025-11,Tablet,UK,Expired,Premium
+U0665,S206225,Landing,2025-05-21 18:00:00,Organic,2025-05,Tablet,UAE,Active,Free
+U0665,S206225,Sign-up,2025-05-18 12:00:00,Organic,2025-05,Desktop,USA,Expired,Free
+U0665,S206225,Onboarding,2025-05-21 22:00:00,Organic,2025-05,Mobile,India,Active,Free
+U0665,S206225,First Feature Use,2025-05-19 16:00:00,Organic,2025-05,Tablet,Pakistan,Active,Free
+U0666,S296444,Landing,2025-03-17 13:00:00,Organic,2025-03,Mobile,UK,Expired,Free
+U0667,S121838,Landing,2025-02-09 01:00:00,Organic,2025-02,Tablet,,Expired,Free
+U0667,S121838,Sign-up,2025-02-12 02:00:00,Organic,2025-02,Desktop,UK,Active,Free
+U0668,S595523,Landing,2025-10-22 00:00:00,Organic,2025-10,Desktop,Pakistan,Active,Free
+U0668,S595523,Sign-up,2025-10-19 14:00:00,Organic,2025-10,Tablet,UAE,Expired,Free
+U0668,S595523,Onboarding,2025-10-20 14:00:00,Organic,2025-10,Tablet,UAE,Expired,Free
+U0668,S595523,First Feature Use,2025-10-21 12:00:00,Organic,2025-10,Mobile,UAE,Expired,Free
+U0669,S581035,Landing,2025-06-08 03:00:00,Organic,2025-06,Tablet,USA,Expired,Free
+U0669,S581035,Sign-up,2025-06-04 14:00:00,Organic,2025-06,Mobile,USA,Active,Free
+U0670,S255084,Landing,2025-12-05 21:00:00,Referral,2025-12,Mobile,Pakistan,Active,Free
+U0671,S705640,Landing,2025-07-06 00:00:00,Paid,2025-07,Tablet,Pakistan,Expired,Free
+U0671,S705640,Sign-up,2025-07-08 16:00:00,Paid,2025-07,Tablet,USA,Expired,Free
+U0671,S705640,Onboarding,2025-07-08 16:00:00,Paid,2025-07,Tablet,India,Expired,Free
+U0672,S812052,Landing,2025-07-21 11:00:00,Organic,2025-07,Mobile,India,Active,Free
+U0672,S812052,Sign-up,2025-07-23 02:00:00,Organic,2025-07,Tablet,UAE,Active,Free
+U0673,S554515,Landing,2025-06-29 15:00:00,Paid,2025-06,Tablet,India,Expired,Free
+U0673,S554515,Sign-up,2025-06-30 15:00:00,Paid,2025-06,Desktop,USA,Expired,Free
+U0674,S754096,Landing,2025-06-06 03:00:00,Paid,2025-06,Mobile,USA,Active,Free
+U0674,S754096,Sign-up,2025-06-05 06:00:00,Paid,2025-06,Mobile,UAE,Active,Free
+U0674,S754096,Onboarding,2025-06-07 07:00:00,Paid,2025-06,Mobile,Pakistan,Active,Free
+U0674,S754096,First Feature Use,2025-06-06 08:00:00,Paid,2025-06,Desktop,UAE,Expired,Free
+U0675,S923408,Landing,2025-10-16 01:00:00,Referral,2025-10,Mobile,USA,Active,Free
+U0675,S923408,Sign-up,2025-10-16 13:00:00,Referral,2025-10,Desktop,Pakistan,Expired,Free
+U0675,S923408,Onboarding,2025-10-19 23:00:00,Referral,2025-10,Mobile,,Expired,Free
+U0675,S923408,First Feature Use,2025-10-17 06:00:00,Referral,2025-10,Mobile,Pakistan,Expired,Free
+U0676,S416693,Landing,2025-10-20 06:00:00,Paid,2025-10,,India,Active,Free
+U0676,S416693,Sign-up,2025-10-17 08:00:00,Paid,2025-10,Desktop,UK,Active,Free
+U0677,S415686,Landing,2025-10-20 11:00:00,Organic,2025-10,Tablet,India,Expired,Free
+U0678,S920411,Landing,2025-02-22 19:00:00,Referral,2025-02,Mobile,UK,Expired,Free
+U0678,S920411,Sign-up,2025-02-21 06:00:00,Referral,2025-02,Mobile,UK,Expired,Free
+U0678,S920411,Onboarding,2025-02-21 11:00:00,Referral,2025-02,Desktop,USA,Active,Free
+U0678,S920411,First Feature Use,2025-02-23 02:00:00,Referral,2025-02,Mobile,Pakistan,Active,Free
+U0679,S745092,Landing,2025-10-26 13:00:00,Referral,2025-10,Desktop,UK,Active,Free
+U0679,S745092,Sign-up,2025-10-27 03:00:00,Referral,2025-10,Tablet,Pakistan,Expired,Free
+U0679,S745092,Onboarding,2025-10-29 07:00:00,Referral,2025-10,Tablet,UK,Active,Free
+U0679,S745092,First Feature Use,2025-10-25 10:00:00,Referral,2025-10,Desktop,UAE,Active,Free
+U0680,S449682,Landing,2025-10-20 14:00:00,Paid,2025-10,Tablet,Pakistan,Active,Free
+U0680,S449682,Sign-up,2025-10-19 18:00:00,Paid,2025-10,Desktop,USA,Expired,Free
+U0680,S449682,Onboarding,2025-10-17 17:00:00,Paid,2025-10,Desktop,India,Expired,Free
+U0680,S449682,First Feature Use,2025-10-20 08:00:00,Paid,2025-10,Mobile,Pakistan,Expired,Free
+U0681,S753959,Landing,2025-02-05 02:00:00,Paid,2025-02,Desktop,UK,Active,Free
+U0681,S753959,Sign-up,2025-02-08 10:00:00,Paid,2025-02,Tablet,UK,Expired,Free
+U0681,S753959,Onboarding,2025-02-04 07:00:00,Paid,2025-02,Desktop,UAE,Expired,Free
+U0681,S753959,First Feature Use,2025-02-06 13:00:00,Paid,2025-02,Desktop,India,Expired,Free
+U0681,S753959,Upgrade,2025-02-08 09:00:00,Paid,2025-02,Tablet,UK,Active,Premium
+U0682,S253350,Landing,2025-03-17 12:00:00,Paid,2025-03,Desktop,India,Active,Free
+U0683,S599288,Landing,2025-12-10 01:00:00,Paid,2025-12,Tablet,Pakistan,Expired,Free
+U0683,S599288,Sign-up,2025-12-10 05:00:00,Paid,2025-12,Mobile,India,Active,Free
+U0683,S599288,Onboarding,2025-12-09 12:00:00,Paid,2025-12,Mobile,Pakistan,Expired,Free
+U0683,S599288,First Feature Use,2025-12-08 01:00:00,Paid,2025-12,Tablet,UAE,Active,Free
+U0683,S599288,Upgrade,2025-12-11 10:00:00,Paid,2025-12,Tablet,USA,Expired,Free
+U0684,S471958,Landing,2025-08-24 21:00:00,Referral,2025-08,Tablet,USA,Active,Free
+U0684,S471958,Sign-up,2025-08-24 20:00:00,Referral,2025-08,Tablet,USA,Expired,Free
+U0685,S637966,Landing,2025-03-23 04:00:00,Organic,2025-03,Desktop,UAE,Expired,Free
+U0685,S637966,Sign-up,2025-03-23 22:00:00,Organic,2025-03,Mobile,Pakistan,Expired,Free
+U0685,S637966,Onboarding,2025-03-21 00:00:00,Organic,2025-03,Mobile,USA,Active,Free
+U0685,S637966,First Feature Use,2025-03-22 01:00:00,Organic,2025-03,Tablet,USA,Expired,Free
+U0686,S235708,Landing,2025-10-29 13:00:00,Paid,2025-10,Tablet,India,Active,Free
+U0686,S235708,Sign-up,2025-10-25 12:00:00,Paid,2025-10,Tablet,Pakistan,Expired,Free
+U0686,S235708,Onboarding,2025-10-29 23:00:00,Paid,2025-10,Tablet,UK,Expired,Free
+U0686,S235708,First Feature Use,2025-10-29 01:00:00,Paid,2025-10,Desktop,India,Active,Free
+U0686,S235708,Upgrade,2025-10-29 19:00:00,Paid,2025-10,Desktop,UK,Expired,Free
+U0687,S164934,Landing,2025-01-20 09:00:00,Paid,2025-01,Mobile,UAE,Active,Free
+U0688,S282522,Landing,2025-08-22 01:00:00,Organic,2025-08,Tablet,India,Active,Free
+U0688,S282522,Sign-up,2025-08-20 08:00:00,Organic,2025-08,Mobile,UK,Expired,Free
+U0689,S336450,Landing,2025-08-15 07:00:00,Organic,2025-08,Desktop,Pakistan,Active,Free
+U0690,S759675,Landing,2025-04-18 00:00:00,Referral,2025-04,Tablet,Pakistan,Expired,Free
+U0690,S759675,Sign-up,2025-04-15 23:00:00,Referral,2025-04,Tablet,USA,Expired,Free
+U0690,S759675,Onboarding,2025-04-16 00:00:00,Referral,2025-04,Desktop,USA,Expired,Free
+U0690,S759675,First Feature Use,2025-04-17 16:00:00,Referral,2025-04,Mobile,UAE,Active,Free
+U0691,S940534,Landing,2025-11-18 14:00:00,Organic,2025-11,Desktop,Pakistan,Expired,Free
+U0691,S940534,Sign-up,2025-11-18 05:00:00,Organic,2025-11,Desktop,USA,Expired,Free
+U0691,S940534,Onboarding,2025-11-17 02:00:00,Organic,2025-11,Desktop,UAE,Expired,Free
+U0691,S940534,First Feature Use,2025-11-19 01:00:00,Organic,2025-11,Tablet,UAE,Active,Free
+U0692,S265531,Landing,2025-10-05 23:00:00,Referral,2025-10,Tablet,USA,Expired,Free
+U0692,S265531,Sign-up,2025-10-03 03:00:00,Referral,2025-10,Tablet,Pakistan,Active,Free
+U0693,S711081,Landing,2025-12-05 01:00:00,Paid,2025-12,Desktop,India,Active,Free
+U0693,S711081,Sign-up,2025-12-03 22:00:00,Paid,2025-12,Tablet,UAE,Active,Free
+U0693,S711081,Onboarding,2025-12-02 06:00:00,Paid,2025-12,Mobile,Pakistan,Active,Free
+U0693,S711081,First Feature Use,2025-12-02 20:00:00,Paid,2025-12,Desktop,UK,Active,Free
+U0693,S711081,Upgrade,2025-12-05 17:00:00,Paid,2025-12,Tablet,UK,Active,Premium
+U0694,S858466,Landing,2025-09-16 12:00:00,Organic,2025-09,Desktop,Pakistan,Active,Free
+U0694,S858466,Sign-up,2025-09-12 03:00:00,Organic,2025-09,Desktop,USA,Expired,Free
+U0694,S858466,Onboarding,2025-09-15 15:00:00,Organic,2025-09,Tablet,Pakistan,Expired,Free
+U0694,S858466,First Feature Use,2025-09-12 06:00:00,Organic,2025-09,Mobile,UK,Active,Free
+U0694,S858466,Upgrade,2025-09-14 07:00:00,Organic,2025-09,Tablet,UK,Active,Free
+U0695,S559226,Landing,2025-07-09 06:00:00,Organic,2025-07,Desktop,Pakistan,Active,Free
+U0695,S559226,Sign-up,2025-07-09 05:00:00,Organic,2025-07,Mobile,USA,Active,Free
+U0695,S559226,Onboarding,2025-07-12 06:00:00,Organic,2025-07,Desktop,India,Active,Free
+U0696,S180333,Landing,2025-04-04 13:00:00,Organic,2025-04,Desktop,USA,Expired,Free
+U0696,S180333,Sign-up,2025-04-05 13:00:00,Organic,2025-04,Tablet,Pakistan,Active,Free
+U0696,S180333,Onboarding,2025-04-03 09:00:00,Organic,2025-04,Mobile,USA,Active,Free
+U0696,S180333,First Feature Use,2025-04-05 15:00:00,Organic,2025-04,Tablet,UAE,Active,Free
+U0697,S565087,Landing,2025-10-13 17:00:00,Paid,2025-10,Tablet,USA,Active,Free
+U0697,S565087,Sign-up,2025-10-10 06:00:00,Paid,2025-10,Mobile,UK,Expired,Free
+U0697,S565087,Onboarding,2025-10-11 11:00:00,Paid,2025-10,Desktop,India,Active,Free
+U0697,S565087,First Feature Use,2025-10-14 11:00:00,Paid,2025-10,Tablet,India,Expired,Free
+U0697,S565087,Upgrade,2025-10-13 22:00:00,Paid,2025-10,Tablet,India,Active,Premium
+U0698,S860124,Landing,2025-01-22 17:00:00,Referral,2025-01,Mobile,UK,Active,Free
+U0699,S122323,Landing,2025-05-19 10:00:00,Paid,2025-05,Desktop,UAE,Expired,Free
+U0699,S122323,Sign-up,2025-05-21 15:00:00,Paid,2025-05,Desktop,UK,Expired,Free
+U0699,S122323,Onboarding,2025-05-21 08:00:00,Paid,2025-05,Desktop,India,Active,Free
+U0700,S497753,Landing,2025-09-30 03:00:00,Organic,2025-09,Tablet,UAE,Expired,Free
+U0700,S497753,Sign-up,2025-10-04 07:00:00,Organic,2025-09,Tablet,India,Active,Free
+U0700,S497753,Onboarding,2025-10-01 19:00:00,Organic,2025-09,Tablet,USA,Expired,Free
+U0700,S497753,First Feature Use,2025-10-04 14:00:00,Organic,2025-09,Mobile,Pakistan,Active,Free
+U0700,S497753,Upgrade,2025-10-02 22:00:00,Organic,2025-09,Mobile,UAE,Expired,Premium
+U0442,S379570,Sign-up,2025-10-30 19:00:00,Organic,2025-10,Mobile,USA,Expired,Free
+U0549,S502692,Landing,2025-11-02 21:00:00,Paid,2025-10,Desktop,UK,Active,Free
+U0262,S635740,Landing,2025-06-01 04:00:00,Paid,2025-05,Tablet,UAE,Active,Free
+U0216,S247475,Onboarding,2025-05-05 16:00:00,Organic,2025-05,Desktop,UAE,Expired,Free
+U0140,S667451,Landing,2025-09-03 02:00:00,Referral,2025-08,Tablet,UK,Expired,Free
+U0212,S284084,Upgrade,2025-01-29 09:00:00,Paid,2025-01,Mobile,UK,Active,Premium
+U0047,S147726,Landing,2025-06-01 14:00:00,Referral,2025-05,Desktop,Pakistan,Expired,Free
+U0212,S284084,First Feature Use,2025-02-02 03:00:00,Paid,2025-01,Desktop,USA,Expired,Free
+U0463,S176604,Landing,2025-01-30 05:00:00,Organic,2025-01,Tablet,USA,Active,Free
+U0220,S454366,Onboarding,2025-09-08 17:00:00,Paid,2025-09,Tablet,USA,Expired,Free
+U0214,S841535,Landing,2025-11-12 04:00:00,Referral,2025-11,Tablet,USA,Active,Free
+U0542,S810830,Onboarding,2025-03-12 00:00:00,Referral,2025-03,Tablet,India,Active,Free
+U0578,S809388,Onboarding,2025-03-17 05:00:00,Organic,2025-03,Desktop,UAE,Expired,Free
+U0521,S303846,Landing,2025-01-24 01:00:00,Paid,2025-01,Desktop,UAE,Active,Free
+U0358,S682145,Sign-up,2025-10-24 11:00:00,Paid,2025-10,Desktop,UAE,Expired,Free
+U0697,S565087,Landing,2025-10-13 17:00:00,Paid,2025-10,Tablet,USA,Active,Free
+U0079,S232321,Sign-up,2025-10-27 12:00:00,Organic,2025-10,Tablet,Pakistan,Active,Free
+U0420,S799155,Onboarding,2025-08-08 12:00:00,Organic,2025-08,Desktop,UK,Expired,Free
+U0690,S759675,Onboarding,2025-04-16 00:00:00,Referral,2025-04,Desktop,USA,Expired,Free
+U0376,S576467,First Feature Use,2025-08-22 18:00:00,Paid,2025-08,Mobile,Pakistan,Expired,Free
+U0313,S923892,First Feature Use,2025-08-26 15:00:00,Paid,2025-08,Tablet,India,Expired,Free
+U0496,S700896,Landing,2025-06-24 12:00:00,Organic,2025-06,Tablet,USA,Active,Free
+U0024,S379766,Landing,2025-03-01 21:00:00,Organic,2025-02,Mobile,UAE,Expired,Free
+U0046,S430876,Landing,2025-12-24 01:00:00,Organic,2025-12,Tablet,USA,Expired,Free
+U0150,S689849,Sign-up,2025-03-17 05:00:00,Referral,2025-03,Mobile,USA,Active,Free
+U0637,S780433,Sign-up,2025-08-03 22:00:00,Referral,2025-07,Desktop,UK,Expired,Free
+U0341,S564523,First Feature Use,2025-05-23 16:00:00,Paid,2025-05,Tablet,UK,Expired,Free
+U0563,S947718,Onboarding,2025-03-02 15:00:00,Organic,2025-03,Desktop,USA,Active,Free
+U0331,S182289,Landing,2025-06-30 07:00:00,Paid,2025-06,Mobile,Pakistan,Active,Free
+U0156,S340927,Sign-up,2025-10-18 22:00:00,Organic,2025-10,Mobile,Pakistan,Active,Free
+U0568,S453800,Landing,2025-06-30 02:00:00,Organic,2025-06,Desktop,USA,Expired,Free
+U0404,S713513,Sign-up,2025-03-17 10:00:00,Paid,2025-03,Desktop,UAE,Active,Free
+U0618,S868691,Onboarding,2025-07-10 09:00:00,Organic,2025-07,Desktop,,Expired,Free
+U0118,S231250,Landing,2025-10-01 21:00:00,Paid,2025-10,Tablet,USA,Expired,Free
+U0013,S559381,Landing,2025-03-06 03:00:00,Referral,2025-03,Desktop,Pakistan,Active,Free
+U0139,S805448,Sign-up,2025-01-12 05:00:00,Referral,2025-01,Mobile,UAE,Active,Free
+U0402,S621682,Landing,2025-01-26 06:00:00,Organic,2025-01,Mobile,Pakistan,Active,Free
+U0371,S670977,Landing,2025-12-10 11:00:00,Paid,2025-12,Mobile,Pakistan,Expired,Free
+U0105,S509420,Landing,2025-11-23 21:00:00,Referral,2025-11,Desktop,UAE,Active,Free
+U0311,S531736,Landing,2025-07-23 04:00:00,Referral,2025-07,Mobile,Pakistan,Expired,Free
+U0021,S240814,Onboarding,2025-10-15 10:00:00,Organic,2025-10,Mobile,Pakistan,Active,Free
+U0694,S858466,First Feature Use,2025-09-12 06:00:00,Organic,2025-09,Mobile,UK,Active,Free
+U0514,S431603,Sign-up,2025-06-22 01:00:00,Organic,2025-06,Desktop,UAE,Expired,Free
+U0273,S992744,Sign-up,2025-08-26 18:00:00,Paid,2025-08,Mobile,India,Active,Free
+U0564,S908746,First Feature Use,2025-03-06 18:00:00,Organic,2025-03,Tablet,Pakistan,Expired,Free
+U0536,S180251,First Feature Use,2025-06-16 14:00:00,Paid,2025-06,Tablet,India,Expired,Free
+U0351,S717466,Sign-up,2025-07-29 06:00:00,Paid,2025-07,Desktop,India,Active,Free
+U0335,S957915,First Feature Use,2025-07-12 02:00:00,Organic,2025-07,Tablet,USA,Active,Free
+U0587,S160289,Sign-up,2025-08-24 12:00:00,Organic,2025-08,Mobile,UK,Active,Free
+U0310,S464032,Sign-up,2025-02-16 12:00:00,Paid,2025-02,Mobile,USA,Active,Free
