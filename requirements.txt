@@ -6,4 +6,4 @@ matplotlib
 wordcloud
 textblob
 seaborn
-sklearn
+Scikit-learn
